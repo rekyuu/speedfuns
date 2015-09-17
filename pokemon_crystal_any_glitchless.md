@@ -534,33 +534,56 @@ Super Potion | 5
 
 ## Burnt Tower
 
-Rival 3
-Haunter: (X Special if you had 11 Sp.Atk at 6), Bite
-Magnemite: Surf
-Bayleef: Ice Punch x2 or Headbutt+Ice Punch if you used an X Special
-Zubat: Ice Punch
-After the dogs cutscene, heal to 45 HP and Escape Rope out. Then bike to the gym.
-Ecruteak Gym
+### Rival 3
+Pokemon | Actions
+:--|:--
+Haunter | X-Special if you had `Lv6 SP.ATK 11`, Bite
+Magnemite | Surf
+Bayleef | Ice Punch x2 (Headbutt, Ice Punch if you used an X-Special)
+Zubat | Ice Punch
 
-Sage Ping
-Gastly: Ice Punch
-Gastly: Ice Punch
-Gastly: Ice Punch
-Gastly: Ice Punch
-Gastly: Ice Punch
-Navigate the gym to fight the trainer on the left.
-Sage Jeffrey
-Haunter: Bite x2
-Medium Grace
-Gastly: Bite
-Haunter: Surf (Ice Punch)
-Gastly: Bite
-Before fighting Morty, heal to 3/4 + 4 of your maximum HP.
-Leader Morty
-Gastly: X Speed, X Special, Ice Punch
-Haunter: Bite
-Gengar: Bite x2 (If Gengar puts you to sleep, awaken straight away - he will always use Dream Eater)
-Haunter: Bite
+- After the dogs cutscene, heal to 45 HP and Escape Rope out.
+
+## Ecruteak Gym
+
+### Sage Ping
+Pokemon | Actions
+:--|:--
+Gastly | Ice Punch
+Gastly | Ice Punch
+Gastly | Ice Punch
+Gastly | Ice Punch
+Gastly | Ice Punch
+
+- Navigate the gym to fight the trainer on the left.
+
+### Sage Jeffrey
+Pokemon | Actions
+:--|:--
+Haunter | Bite x2
+
+### Medium Grace
+Pokemon | Actions
+:--|:--
+Gastly | Bite
+Haunter | Surf, Ice Punch
+Gastly | Bite
+
+- Before fighting Morty, heal to 3/4 + 4 of your maximum HP.
+
+### Leader Morty
+Pokemon | Actions
+:--|:--
+Gastly  | X-Speed, X-Special, Ice Punch
+Haunter | Bite
+Gengar  | Bite x2
+Haunter | Bite
+
+> If Gengar puts you to sleep, awaken straight away - he will always use Dream Eater
+
+-----
+
+```
 Ecruteak City
 
 Repel and bike west to Route 38.
