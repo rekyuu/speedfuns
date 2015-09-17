@@ -180,7 +180,7 @@ Machop | Rage if at rage 3+ otherwise Water Gun x3
 - Head to the Mart.
 
 ### Azalea Town Mart
-Item | Amount
+Item | #
 :--|:-:
 Potion | 4
 Super Potion | 1
@@ -197,7 +197,7 @@ Antidote | 3
 Pokemon | Actions
 :--|:--
 Rattata | Rage x3
-Rattata | Rage (Water Gun/Scratch) or Water Gun x2 if only got Rage 1 from the first Rattata.
+Rattata | Rage, Water Gun/Scratch. If you only got Rage 1 from Rattata, Water Gun x2
 
 - Use a Potion if it will have max value (`20 HP`).
 
@@ -266,40 +266,82 @@ Scyther | Rage (Rage 4 should 2 hit, Rage 3 is a damage range)
 
 -----
 
-### Azalia Town
+## Azalia Town
+- Equip the Przcureberry.
+- Heal to full.
+- Antidote if needed.
+  - If you would use your last Antidote, double deposit in the PokeCenter (deposit Croconaw and the egg, withdraw Croconaw and switch it to the front).
+  - If you have no slaves, heal at the PokeCenter instead.
+- Teach `TM49 Fury Cutter` to Croconaw.
+  - If you had `Lv5 DEF 11`, teach it over `Rage`.
+  - If you had `Lv5 DEF 12`, teach it over `Scratch`.
+
+### Rival 2
+Pokemon | Actions
+:--|:--
+Gastly | Water Gun x2
+Bayleef | Fury Cutter x3
+Zubat | Water Gun x3
+
+- If Bayleef puts you in a situation where you are going to faint, switch out to a slave and use a Super Potion.
+- If Bayleef poisons you, Antidote as soon as you get to Zubat. Zubat does `5 DMG`.
+
+## Ilex Forest
+- Use a Repel when you enter the Forest.
+  - If you don't have a `HM01 CUT` slave yet, don't use a Repel.
+  - Heal up if you need to.
+  - You will need to catch a Oddish or Paras here.
+    - Use Rage/Water Gun on Oddish.
+    - Use Rage/Fury Cutter on Paras.
+  - Use a Repel after capture.
+- Constantly use Repels throughout the Forest.
+- Chase Farfetch'd home and get `HM01 CUT`.
+- Walt to the tree, teach `HM01 CUT` to your slave and use it from the menu.
+- Go to the right of the path.
+- Pick up the hidden Super Potion.
+  - Don't bother if you already have 2 Super Potions.
+- Get `TM02 HEADBUTT`.
+
+## Golenrod City
+
+- Go straight to the Bike Shop and get the Bike.
+- Leave the shop.
+- Use a Potion (or Super Potion if it will have max value) if you are below 15 HP.
+- Teach `TM02 Headbutt` over `Scratch` or `Fury Cutter` (which ever is in slot 1).
+- Register and use the Bike.
+- Head to Route 35.
+
+## Route 35
+
+### Camper Ivan (Spinner)
+Pokemon | Actions
+:--|:--
+Diglett | Headbutt
+Zubat   | Headbutt
+Diglett | Water Gun
+
+- Use a Repel before the two spinners at the top of the route.
+- The spinner on the left is a manual spinner.
+
+### Juggler Irwin (Spinner)
+Pokemon | Actions
+:--|:--
+Voltorb | Headbutt
+Voltorb | Headbutt
+Voltorb | Headbutt
+Voltorb | Headbutt x2
+
+### Bug Catcher Arnie
+Pokemon | Actions
+:--|:--
+Venonat | Headbutt x2, or Water Gun if disabled
+
+- Talk to Flora to send her back to the Flower Shop.
+- Return to Goldenrod. You will have to dodge the two spinners again.
+
+## Goldenrod City
 
 ```
-Before the next fight, equip the Przcureberry, heal to full, antidote if neccacary, and teach TM49 Fury Cutter. If you had 11 defense at 5, teach it over Rage. If you had 12 defense at 5, teach it over Scratch. If you need to antidote and using one will leave you with 0 antidotes, double deposit in the centre instead (deposit Croconaw and the egg, withdraw Croconaw and switch it to the front). Take the centre if you need to double deposit but have no slaves.
-Rival 2
-Gastly: Water Gun x2
-Bayleef: Fury Cutter x3
-Zubat: Water Gun x2/3
-If Bayleef puts you in a situation where you are going to die, you can switch out if you have a Bellsprout or two slaves and Super Potion. If Bayleef poisons you, antidote as soon as you get to Zubat unless it is going to kill you. Zubat does 5.
-Ilex Forest
-
-Repel when you enter the forest unless you don't have a cut slave. If you don't have a cut slave, you need to catch an Oddish or Paras here. Use a Potion (or Super Potion if it will have max value) if you need one. Use Rage to weaken Oddish or Water Gun if you don't have Rage and Rage to weaken Paras or Fury Cutter if you don't have Rage. Repel after catching it.
-Keep using Repels throughout the Forest. Get HM01 Cut from the left guy after chasing Farfetch'd. Walk to the tree and teach cut to Sentret/Bellsprout/Oddish/Paras and use it from the menu.
-Detour to the right before leaving the forest to get the hidden Super Potion and TM02 Headbutt from the guy. Skip the Super Potion only if you already have 2 Super Potions. Then leave the Forest and head north to Goldenrod City.
-Golenrod City
-
-Go straight to the bike shop and get the bike. Leave the shop, use a Potion (or Super Potion if it will have max value) if you are below 15 HP, teach TM02 Headbutt over Scratch or Fury Cutter (which ever is in slot 1) and then register and use the bike. Go north to Route 35 aka spinner hell.
-Route 35
-
-Camper Ivan (Spinner)
-Diglett: Headbutt
-Zubat: Headbutt
-Diglett: Water Gun
-Before the two spinners at the top of the route, use a Repel. The one on the left is a manual spinner so you should never hit him as long as you get the timing right.
-Juggler Irwin (Spinner)
-Voltorb: Headbutt
-Voltorb: Headbutt
-Voltorb: Headbutt
-Voltorb: Headbutt x2
-Bug Catcher Arnie
-Venonat: Headbutt x2 (Water Gun if disabled)
-Talk to Flora to send her back to the Flower Shop and then go back to Goldenrod. You will have to dodge the two spinners again.
-Goldenrod City
-
 If you haven't hit any spinners so far and did not kill a Poliwag at the start of the game, go and fight the underground trainers now. Also fight them now if you already have Bite. They are located in the building to the far left as soon as you enter the city from the north. Otherwise, go straight to the gym.
 Pokémaniac Donald
 Slowpoke: Headbutt x2 (or Bite if you have it)
