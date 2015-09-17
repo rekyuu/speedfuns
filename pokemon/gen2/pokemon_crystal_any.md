@@ -395,14 +395,13 @@ Flower Mail | 9
 - Exit the item menu and name your boxes starting from box 4
 
 #### Box Names
-Box   | Name
-:-----|:-------------------------
-BOX 4 | ` p  0 'v  0 't  é  )  5`
-BOX 5 | ` p  é  é  6 'v  c`
-BOX 6 | ` é  h  5  p  é  é  5`
-BOX 7 | `'v  7  é  m  6  é  n  6`
-BOX 8 | `'v  x  é  o  6  x 'd`
-
+```
+BOX 4 -  p  0 'v  0 't  é  )  5
+BOX 5 -  p  é  é  6 'v  c
+BOX 6 -  é  h  5  p  é  é  5
+BOX 7 - 'v  7  é  m  6  é  n  6
+BOX 8 - 'v  x  é  o  6  x 'd
+```
 
 - Walk to 2nd floor of the center
 - Look at your Pokedex, then walk back to first floor
