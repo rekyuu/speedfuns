@@ -50,6 +50,9 @@ SPD    |  9 |  9 |  9 |  9 |  9 |  9 |  9 | **10** | **10** | **10** | **10** | 
 ## Route 30
 - Run from all encounters.
 - Get the hidden Potion by Mr. Pokemon's house.
+
+![](https://raw.githubusercontent.com/rekyuu/speedfuns/master/img/crystal/01-potion.png)
+
 - Get the Berry on your way back to Cherrygrove City.
 - (*If you had `Lv5 DEF 11`, Kill one Hoppip here instead of a second Poliwag's `34 EXP` later. Hoppip Lv.4 yields `28 EXP`.*)
 
