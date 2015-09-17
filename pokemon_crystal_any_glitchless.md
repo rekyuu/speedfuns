@@ -36,7 +36,7 @@ BATTLE STYLE: SET
 
 ### Level 5 Totodile Stats
 DV     |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15
--------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+:------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 HP     | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 21 | 21 | 21 | 21 | 21 | 21
 ATK    | 11 | 11 | 11 | 11 | 11 | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **13**
 DEF    | 11 | 11 | 11 | 11 | 11 | 11 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
@@ -59,12 +59,12 @@ SPD    |  9 |  9 |  9 |  9 |  9 |  9 |  9 | **10** | **10** | **10** | **10** | 
 ## Cherrygrove City
 ### Rival 1
 Pokemon | Actions
----|---
+:--|:--
 **Chikorita** | Leer, then scratch until it faints.
 
 ### Level 6 Totodile Stats
 DV     |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15
--------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+:------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
 HP     | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 23 | 23 | 23 | 23 | 23 | 23 | 23
 ATK    | 12 | 12 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 14 | 14 | 14 | 14 | 14 | 14
 DEF    | 12 | 12 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 14 | 14 | 14 | 14 | 14 | 14
@@ -89,7 +89,7 @@ SPD    | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 1
 
 ### Youngster Mikey
 Pokemon | Actions
----|---
+:--|:--
 **Pidgey**  | Scratch x2 (Rage x2 if Lv.7)
 **Rattata** | Scratch x3 (Rage x2 if Lv.7)
 
@@ -106,14 +106,14 @@ Pokemon | Actions
 
 ### Bird Keeper Abe
 Pokemon | Actions
----|---
+:--|:--
 **Spearow** | Rage x4
 
 - Use a Potion.
 
 ### Bird Keeper Rod
 Pokemon | Actions
----|---
+:--|:--
 **Pidgey** | Rage x4
 **Pidgey** | Rage x2
 
@@ -121,7 +121,7 @@ Pokemon | Actions
 
 ### Pre-Falkner Heal Table
 ATK | DEF | SPD | HP
-----|-----|-----|----
+:---|:----|:----|:---
 18+ | 17+ | 14  | 17
 17  | 17  | 14  | 20
 18+ | 16  | 14  | 21
@@ -131,7 +131,7 @@ ATK | DEF | SPD | HP
 
 ### Leader Falkner
 Pokemon | Actions
----|---
+:--|:--
 **Pidgey** | Rage x4
 **Pidgeotto** | Rage x2
 
@@ -152,7 +152,7 @@ Pokemon | Actions
 
 ### Hiker Russell (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Geodude | Rage
 Geodude | Rage
 Geodude | Rage
@@ -161,7 +161,7 @@ Geodude | Rage
 
 ### Firebreather Bill
 Pokemon | Actions
----|---
+:--|:--
 Koffing | Rage x3
 Koffing |Rage x2
 
@@ -169,7 +169,7 @@ Koffing |Rage x2
 
 ### Hiker Anthony (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Geodude | Switch to Bellsprout or Poliwag for damage, then Rage
 Machop | Rage if at rage 3+ otherwise Water Gun x3
 
@@ -181,7 +181,7 @@ Machop | Rage if at rage 3+ otherwise Water Gun x3
 
 ### Azalea Town Mart
 Purchase | #
----|---
+:--|:--
 Potion | 4
 Super Potion | 1
 Repel | 7
@@ -195,7 +195,7 @@ Antidote | 3
 
 ### Rocket Grunt 1
 Pokemon | Actions
----|---
+:--|:--
 Rattata | Rage x3
 Rattata | Rage, Water Gun/Scratch. If you only got Rage 1 from Rattata, Water Gun x2
 
@@ -203,7 +203,7 @@ Rattata | Rage, Water Gun/Scratch. If you only got Rage 1 from Rattata, Water Gu
 
 ### Rocket Grunt 2
 Pokemon | Actions
----|---
+:--|:--
 Zubat | Water Gun x3
 Ekans | Water Gun x3
 
@@ -211,7 +211,7 @@ Ekans | Water Gun x3
 
 ### Rocket Grunt 3
 Pokemon | Actions
----|---
+:--|:--
 Rattata | Scratch x2
 Zubat   | Water Gun x3
 Zubat   | Water Gun x3
@@ -221,7 +221,7 @@ Zubat   | Water Gun x3
 
 ### Rocket Grunt 4
 Pokemon | Actions
----|---
+:--|:--
 Koffing | Water Gun x4
 
 - Potion in the fight if you're about to faint. Koffing does 5 with 25+ defense and 6 with 24 or less defense. Poison does 5.
@@ -236,7 +236,7 @@ Koffing | Water Gun x4
 - Walk to the right twin so that they send out Ledyba first.
 
 Pokemon | Actions
----|---
+:--|:--
 Ledyba | Scratch x2
 Spinarak | Water Gun x2
 
@@ -244,13 +244,13 @@ Spinarak | Water Gun x2
 
 ### Bug Catcher Al
 Pokemon | Actions
----|---
+:--|:--
 Caterpie | Water Gun x2
 Weedle | Water Gun x2
 
 ### Bug Catcher Benny (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Weedle | Water Gun
 Kakuna | Water Gun, Rage
 Beedrill | Rage
@@ -259,7 +259,7 @@ Beedrill | Rage
 
 ### Leader Bugsy
 Pokemon | Actions
----|---
+:--|:--
 Metapod | Rage
 Kakuna | Rage
 Scyther | Rage (Rage 4 should 2 hit, Rage 3 is a damage range)
@@ -278,7 +278,7 @@ Scyther | Rage (Rage 4 should 2 hit, Rage 3 is a damage range)
 
 ### Rival 2
 Pokemon | Actions
----|---
+:--|:--
 Gastly | Water Gun x2
 Bayleef | Fury Cutter x3
 Zubat | Water Gun x3
@@ -317,7 +317,7 @@ Zubat | Water Gun x3
 
 ### Camper Ivan (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Diglett | Headbutt
 Zubat   | Headbutt
 Diglett | Water Gun
@@ -327,7 +327,7 @@ Diglett | Water Gun
 
 ### Juggler Irwin (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Voltorb | Headbutt
 Voltorb | Headbutt
 Voltorb | Headbutt
@@ -335,7 +335,7 @@ Voltorb | Headbutt x2
 
 ### Bug Catcher Arnie
 Pokemon | Actions
----|---
+:--|:--
 Venonat | Headbutt x2, or Water Gun if disabled
 
 ## Route 36
@@ -350,13 +350,13 @@ Venonat | Headbutt x2, or Water Gun if disabled
 
 ### Pokémaniac Donald
 Pokemon | Actions
----|---
+:--|:--
 Slowpoke | Headbutt x2/Bite
 Slowpoke | Headbutt x2/Bite
 
 ### Super Nerd Teru
 Pokemon | Actions
----|---
+:--|:--
 Magnemite | Water Gun
 Magnemite | Water Gun
 Magnemite | Water Gun
@@ -366,7 +366,7 @@ Magnemite | Headbutt
 
 ### Lass Carrie
 Pokemon | Actions
----|---
+:--|:--
 Snubbull | Headbutt x3 (Water Gun if Charmed)
 
 > Snubbul does `6 DMG`.
@@ -375,7 +375,7 @@ Snubbull | Headbutt x3 (Water Gun if Charmed)
 
 ### Leader Whitney
 Pokemon | Actions
----|---
+:--|:--
 Clefairy | Fury Cutter if `Lv5 DEF 11`, Rage if `Lv5 DEF 12`
 Miltank | Fury Cutter if `Lv5 DEF 11`, Rage if `Lv5 DEF 12`
 
@@ -394,13 +394,13 @@ Miltank | Fury Cutter if `Lv5 DEF 11`, Rage if `Lv5 DEF 12`
 
 ### Pokémaniac Donald
 Pokemon | Actions
----|---
+:--|:--
 Slowpoke | Headbutt x2/Bite
 Slowpoke | Headbutt x2/Bite
 
 ### Super Nerd Teru
 Pokemon | Actions
----|---
+:--|:--
 Magnemite | Water Gun
 Magnemite | Water Gun
 Magnemite | Water Gun
@@ -412,30 +412,30 @@ Magnemite | Headbutt
 
 ### 5F (Right Cashier)
 Sell | #
----|---
+:--|:--
 All TMs | *
 
 Purchase | #
----|---
+:--|:--
 TM33 | 1
 
 ### 3F
 Purchase | #
----|---
+:--|:--
 X-Speed | 1
 X-Special | 1 (2 if `Lv6 SP.ATK 11`)
 X-Attack | 1 (2 if `Lv6 SP.ATK 13`)
 
 ### 2F (Top Cashier)
 Purchase | #
----|---
+:--|:--
 Super Potion | 2 (3 if `¥6950+`)
 Parlyz Heals | 3
 Awakenings   | 2
 
 ### 2F (Bottom Cashier)
 Purchase | #
----|---
+:--|:--
 Escape Rope | 5 (6 if `¥4300+`)
 PokeDoll | 1
 
@@ -446,7 +446,7 @@ PokeDoll | 1
 
 ### Camper Ivan (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Diglett | Water Gun
 Zubat | Bite (Bite)
 Diglett | Water Gun
@@ -455,7 +455,7 @@ Diglett | Water Gun
 
 ### Juggler Irwin (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Voltorb | Bite
 Voltorb | Bite
 Voltorb | Bite x2
@@ -469,7 +469,7 @@ Voltorb | Bite x2
 
 ### Psychic Greg (Spinner)
 Pokemon | Actions
----|---
+:--|:--
 Drowzee | Headbutt+Bite
 
 ## Ecruteak City
@@ -480,7 +480,7 @@ Drowzee | Headbutt+Bite
 
 ### Kimono Girl Naoko
 Pokemon | Actions
----|---
+:--|:--
 Flareon | Headbutt x2
 
 - If you are `Lv23` or still have Fury Cutter, you can fight Umbreon.
@@ -489,28 +489,28 @@ Flareon | Headbutt x2
 
 ### Kimono Girl Sayo
 Pokemon | Actions
----|---
+:--|:--
 Espeon | Headbutt, Bite
 
 > Espeon does 15 with Confusion.
 
 ### Kimono Girl Suki
 Pokemon | Actions
----|---
+:--|:--
 Umbreon | Headbutt x3 ,Water Gun or Fury Cutter x3
 
 > If you miss Fury Cutter after the second one, or miss at any point under sand attack, switch to Headbutt.
 
 ### Kimono Girl Kuni
 Pokemon | Actions
----|---
+:--|:--
 Vaporeon | Headbutt x3 (Bite if low Headbutt PP)
 
 - Before Jolteon, heal to 49 HP.
 
 ### Kimono Girl Miki
 Pokemon | Actions
----|---
+:--|:--
 Jolteon | Headbutt x2
 
 - After defeating all the Kimono Girls, talk to the guy watching with a hat and he will give you `HM03 Surf`.
@@ -523,7 +523,7 @@ Jolteon | Headbutt x2
 
 ### Ecruteak City Mart
 Purchase | #
----|---
+:--|:--
 Super Potion | 5
 
 - Heal to `54 HP`
