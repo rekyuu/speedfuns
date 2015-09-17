@@ -362,7 +362,8 @@ Flower Mail | 9
 - Head over to the PC in the far corner to start the magic of this speedrun. Then, do the following:
 - **SAVE HERE IF YOU ARE UNSURE OF THE UPCOMING GLITCH**
 
-### Balls Pocket OverflowChange your Pokédex Mode to A to Z mode.
+### Balls Pocket Overflow
+- Change your Pokédex Mode to A to Z mode.
 - Open your Item Menu and move to the Key Items Pocket.
 - Swap the second and third Itemfinder, to create a Coin Case.
 - In the Balls pocket, the 54 Poké Balls and the 1 Great Ball will have turned into a Coin Case and 255 master balls.
