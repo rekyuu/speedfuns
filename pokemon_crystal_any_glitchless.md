@@ -180,8 +180,8 @@ Machop | Rage if at rage 3+ otherwise Water Gun x3
 - Head to the Mart.
 
 ### Azalea Town Mart
-Item | #
-:--|:-:
+Purchase | #
+:--|:--
 Potion | 4
 Super Potion | 1
 Repel | 7
@@ -382,26 +382,64 @@ Miltank | Fury Cutter if `Lv5 DEF 11`, Rage if `Lv5 DEF 12`
 
 -----
 
-```
-Goldenrod City
+## Goldenrod City
 
-Exit the gym, and go to the Flower Shop on the right. Talk to the girl on the right and then the girl on the left to receive the Squirtbottle. If you haven't fought the underground trainers already, go to the underground and fight them.
-Pokémaniac Donald
-Slowpoke: Headbutt x2 (or Bite if you have it)
-Slowpoke: Headbutt x2 (or Bite if you have it)
-Super Nerd Teru
-Magnemite: Water Gun
-Magnemite: Water Gun
-Magnemite: Water Gun
-Magnemite: Headbutt
-Now leave the underground and go to the mart.
-Goldenrod Department Store
-Take the stairs to 5F and talk to the right cashier. Sell all TMs, and then buy TM33.
-Go back down to 3F, and buy 1 X Speed, 1 X Special, 1 X Attack. Buy 2 X Specials if you had 11 Sp.Atk at 6, and buy 2 X Attacks if you had 13 Attack at 6.
-Then go down to 2F and talk to the top cashier. Buy 2 Super Potions, 3 Parlyz Heals, 2 Awakenings. With $6950+ you can buy 3 Super Potions.
-Now talk to the bottom cashier and buy 5 Escape Ropes and 1 Poké doll. With $4300+ you can buy 6 Escape Ropes.
-After shopping, leave the mart and go to the centre. Double deposit if you haven't already (deposit Croconaw and the egg, withdraw Croconaw and switch it to the front) or take the centre if you have. Then go north again to Route 35.
-Route 35
+- Go to the Flower Shop.
+  - Talk to the girl on the right and then the girl on the left to receive the Squirtbottle.
+- If you haven't fought the underground trainers already, go to the underground and fight them.
+
+### Pokémaniac Donald
+Pokemon | Actions
+:--|:--
+Slowpoke | Headbutt x2/Bite
+Slowpoke | Headbutt x2/Bite
+
+### Super Nerd Teru
+Pokemon | Actions
+:--|:--
+Magnemite | Water Gun
+Magnemite | Water Gun
+Magnemite | Water Gun
+Magnemite | Headbutt
+
+- Head to the Goldenrod Department Store.
+
+## Goldenrod Department Store
+
+### 5F (Right Cashier)
+Sell | #
+:--|:--
+All TMs | *
+
+Purchase | #
+:--|:--
+TM33 | 1
+
+### 3F
+Purchase | #
+:--|:--
+X-Speed | 1
+X-Special | 1 (2 if `Lv6 SP.ATK 11`)
+X-Attack | 1 (2 if `Lv6 SP.ATK 13`)
+
+### 2F (Top Cashier)
+Purchase | #
+:--|:--
+Super Potion | 2 (3 if `¥6950+`)
+Parlyz Heals | 3
+Awakenings   | 2
+
+### 2F (Bottom Cashier)
+Purchase | #
+:--|:--
+Escape Rope | 5 (6 if `¥4300+`)
+PokeDoll | 1
+
+## Goldenrod City
+
+- Go to the PokeCenter and double deposit if you haven't already. Otherwise, heal up.
+
+## Route 35
 
 Talk to the guard on the left and he will give you Kenya. Then go north into spinner hell for the final time.
 Camper Ivan (Spinner)
