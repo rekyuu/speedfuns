@@ -51,7 +51,7 @@ SPD    |  9 |  9 |  9 |  9 |  9 |  9 |  9 | **10** | **10** | **10** | **10** | 
 - Run from all encounters.
 - Get the hidden Potion by Mr. Pokemon's house.
 - Get the Berry on your way back to Cherrygrove City.
-- (*If you had `Lv5 DEF 11`, Kill one Hoppip here instead of a second Poliwag's `34 EXP` later. Hoppip Lv.4 yields `28 EXP`.*)
+- If you had see a Hoppip, go ahead and kill it to get early Rage after Rival 1.
 
 ## Cherrygrove City
 ### Rival 1
@@ -82,13 +82,13 @@ SPD    | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 1
 
 ## Route 30
 - If you see a **Poliwag**, catch it. It will be used as a `HM04 SURF` slave.
-- If you see a second **Poliwag**, and you had `Lv5 DEF 11`, kill it for the extra experience.
+- If you didn't kill a Hoppip earlier, and you had `Lv5 DEF 11`, kill a second Poliwag for the extra experience, if you see one.
 
 ### Youngster Mikey
 Pokemon | Actions
 :--|:--
-**Pidgey** | Scratch x2
-**Rattata** | Scratch x3
+**Pidgey**  | Scratch x2 (Rage x2 if Lv.7)
+**Rattata** | Scratch x3 (Rage x2 if Lv.7)
 
 - If you do not have `Lv7 DEF 15+`, heal to `23 HP`. Otherwise, heal to `15 HP`.
 - Equip a Berry, if you lost one to the Rival.
