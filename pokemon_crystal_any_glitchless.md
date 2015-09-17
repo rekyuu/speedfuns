@@ -9,6 +9,8 @@
 ## These Notes
 Taken from **Crafted's** guide [here](http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Crystal/Any%25_Glitchless_Guide) and modified personally.
 
+-----
+
 ## Beginning
 - Set options:
 
