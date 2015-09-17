@@ -583,71 +583,136 @@ Haunter | Bite
 
 -----
 
+## Ecruteak City
+- Use a Repel and bike west to Route 38.
+
+## Route 38
+- Take the top path, be careful to avoid the first manual spinner.
+- Dodge two more spinners.
+
+### Lass Dana (Spinner)
+Pokemon | Actions
+:--|:--
+Flaaffy | Surf
+Psyduck | Headbutt
+
+### Beauty Olivia (Spinner)
+Pokemon | Actions
+:--|:--
+Corsola | Bite, Surf
+
+## Route 39
+
+### Pokéfan Ruth
+Pokemon | Actions
+:--|:--
+Pikachu | Surf (Ice Punch if `Lv6 SP.ATK 12`)
+
+- Jump over the ledge and go round to the left to avoid all the optional trainers.
+
+## Olivine City
+
+- Head straight to the mart.
+
+### Olivine City Mart
+Purchase | #
+:--|:--
+Great Ball | 4 (If you haven't caught a Poliwag)
+Super Potion | 5 (If not bought in Ecruteak)
+Super Repel | 14
+
+- Heal at the PokeCenter if you have less than 10 Surf PP.
+
+## Olivine Lighthouse
+
+### Gentleman Alfred
+Pokemon | Actions
+:--|:--
+Noctowl | Ice Punch x2 (Lead with Headbutt with 2+ PP, and finish with Surf with 11+ PP)
+
+### Gentleman Preston
+Pokemon | Actions
+:--|:--
+Growlithe | Surf (Headbutt with 14 Attack at 6 and 2+ PP)
+Growlithe | Surf (Headbutt with 14 Attack at 6 and 2+ PP)
+
+### Lass Connie
+Pokemon | Actions
+:--|:--
+Marill | Headbutt, Bite
+
+### Sailor Ernest (Spinner)
+Pokemon | Actions
+:--|:--
+Machop | Surf
+Machop | Surf
+Poliwhirl | Bite x2
+
+- Talk to Jasmine at the top of the lighthouse.
+- If you are not already Level 30 and evolved, drop through the hole to the right and pick up the Rare Candy.
+- Use a Super Potion.
+- Use a Rare Candy on Croconaw to 30 if needed.
+- Use a Super Repel and switch them to the top of the bag.
+- Escape Rope out.
+
+## Olivine City
+
+- Go to the building on the far left and get `HM04 Strength` from the Sailor.
+- Head east to Route 40 and surf south to Route 41, avoiding all trainers.
+
+## Route 41
+
+- Before the spinner, unless your Headbutt PP is 3+, teach HM04 Strength over Headbutt.
+
+### Swimmer Kaylee (Spinner)
+Pokemon | Actions
+:--|:--
+Goldeen | Strength / Headbutt
+Goldeen | Strength / Headbutt
+Seaking | Strength, Bite / Headbutt, Bite
+
+## Cianwood City Gym
+
+- Teach Strength now if you haven't taught it already, unless your Headbutt PP is 2+.
+
+### Black Belt Yoshi
+Pokemon | Actions
+:--|:--
+Hitmonlee | Strength, Ice Punch / Headbutt, Surf
+
+### Black Belt Lao
+Pokemon | Actions
+:--|:--
+Hitmonchan | Strength x2 / Headbutt, Surf
+
+- Teach Strength now if you haven't taught it already unless your Headbutt PP is 1+ and Surf PP is 5+.
+
+### Black Belt Nob
+Pokemon | Actions
+:--|:--
+Machop | Surf
+Machoke | Surf x2 / Strength x2 if less than 5 Surf PP / Headbutt, Surf if have Headbutt
+
+- Now teach Strength if you haven't already. If you are teaching it, also use the menu to heal and then use Strength from the menu.
+
+### Black Belt Lung
+Pokemon | Actions
+:--|:--
+Mankey | Strength
+Mankey | Strength
+Primape | Strength, Ice Punch / Surf, Ice Punch if 4+ Surf PP / Strength x2 if 8+ Strength PP
+
+- Heal to 80 HP before Chuck
+
+### Leader Chuck
+Pokemon | Actions
+:--|:--
+Primape | X-Attack (use 2 if `Lv6 ATK 13`), Strength (Strength)
+Poliwrath | Strength x3
+
+-----
+
 ```
-Ecruteak City
-
-Repel and bike west to Route 38.
-Route 38
-
-Take the top path, be careful to avoid the first manual spinner, and then you will have to dodge two more spinners.
-Lass Dana (Spinner)
-Flaaffy: Surf
-Psyduck: Headbutt
-Beauty Olivia (Spinner)
-Corsola: Bite+Surf
-Route 39
-
-You will only have to fight one of the two Pokéfans, and they both have the same Pokémon, so fight the girl because you can talk to her.
-Pokéfan Ruth
-Pikachu: Surf (Ice Punch if you had 12 Sp.Atk at 6)
-Jump over the ledge and go round to the left to avoid all the optional trainers, then go south into Olivine City.
-Olivine City
-
-After the Rival cutscene, go straight to the mart. Buy 4 Great Balls if you haven't caught a Poliwag yet, 5 Super Potions unless you bought them in Ecruteak, and 14 Super Repels. Take the centre if you have less than 10 Surf PP. Then go to the lighthouse.
-Lighthouse
-
-Gentleman Alfred
-Noctowl: Ice Punch x2 (Lead with Headbutt with 2+ PP, and finish with Surf with 11+ PP)
-Gentleman Preston
-Growlithe: Surf (Headbutt with 14 Attack at 6 and 2+ PP)
-Growlithe: Surf (Headbutt with 14 Attack at 6 and 2+ PP)
-Lass Connie
-Marill: Headbutt+Bite
-Sailor Ernest (Spinner)
-Machop: Surf
-Machop: Surf
-Poliwhirl: Bite x2
-Talk to Jasmine at the top of the lighthouse. At this point if you are not already Level 30 and evolved, drop through the hole to the right and pick up the Rare Candy. Then Super Potion, Rare Candy to 30 if you got it, Super Repel, switch the Super Repels to the top of the bag, and Escape Rope out.
-Olivine City
-
-Go to the building on the far left and get HM04 Strength from the guy. Then head east to Route 40 and surf south to Route 41, avoiding all the trainers.
-Route 41
-
-Before the spinner, unless your Headbutt PP is 3+, teach HM04 Strength over Headbutt.
-Swimmer Kaylee (Spinner)
-Goldeen: Strength or Headbutt
-Goldeen: Strength or Headbutt
-Seaking: Strength+Bite or Headbutt+Bite
-Cianwood Gym
-
-Teach Strength now if you haven't taught it already unless your Headbutt PP is 2+.
-Black Belt Yoshi
-Hitmonlee: Strength+Ice Punch or Headbutt+Surf
-Black Belt Lao
-Hitmonchan: Strength x2 or Headbutt+Surf
-Teach Strength now if you haven't taught it already unless your Headbutt PP is 1+ and Surf PP is 5+.
-Black Belt Nob
-Machop: Surf
-Machoke: Surf x2 or Strength x2 if <5 Surf PP or Headbutt+Surf if have Headbutt
-Now teach Strength if you haven't already. If you are teaching it, also use the menu to heal and then use Strength from the menu.
-Black Belt Lung
-Mankey: Strength
-Mankey: Strength
-Primape: Strength+Ice Punch or Surf+Ice Punch if 4+ Surf PP or Strength x2 if 8+ Strength PP
-Heal to 80 HP before Chuck
-Leader Chuck
-Primape: X Attack (use 2 if 13 Attack at 6), Strength (Strength)
-Poliwrath Strength x2/3
 Cianwood City
 
 Talk to the girl outside the gym to get HM02 Fly. Then go to the Pharmacy below and get the Secretpotion. Leave the Pharmacy, teach HM02 Fly to Kenya and fly to Ecruteak City. Go east to Route 42.
