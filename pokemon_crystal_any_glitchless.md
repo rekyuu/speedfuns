@@ -50,6 +50,9 @@ SPD    |  9 |  9 |  9 |  9 |  9 |  9 |  9 | **10** | **10** | **10** | **10** | 
 ## Route 30
 - Run from all encounters.
 - Get the hidden Potion by Mr. Pokemon's house.
+
+![](https://raw.githubusercontent.com/rekyuu/speedfuns/master/img/crystal/01-potion.png)
+
 - Get the Berry on your way back to Cherrygrove City.
 - If you had see a Hoppip, go ahead and kill it to get early Rage after Rival 1.
 
