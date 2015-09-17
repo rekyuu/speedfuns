@@ -298,6 +298,8 @@ Gastly | Water Gun x2
 Bayleef | Fury Cutter x3
 Zubat | Water Gun x3
 
+-----
+
 ## Ilex Forest
 - Chase Farfetch'd home and get `HM01 CUT`.
 - Teach `HM01 CUT` to Croconaw when you need to renew your Repel.
@@ -327,6 +329,8 @@ Flower Mail | 9
 > Your Pokeball total needs to be 54 after the above purchase.
 
 - Leave the Department Store, and head for the Daycare Center.
+
+-----
 
 ## Red
 
