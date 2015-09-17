@@ -46,12 +46,12 @@ SPD    |  9 |  9 |  9 |  9 |  9 |  9 |  9 | **10** | **10** | **10** | **10** | 
 
 ## Route 29
 - Run from all encounters.
-- (*Kill one encounter here instead of second Poliwag's `34 EXP` later. Hoppip Lv.3 yields `21 EXP`.*)
 
 ## Route 30
 - Run from all encounters.
 - Get the hidden Potion by Mr. Pokemon's house.
 - Get the Berry on your way back to Cherrygrove City.
+- (*If you had `Lv5 DEF 11`, Kill one Hoppip here instead of a second Poliwag's `34 EXP` later. Hoppip Lv.4 yields `28 EXP`.*)
 
 ## Cherrygrove City
 ### Rival 1
