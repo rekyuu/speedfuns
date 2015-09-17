@@ -21,6 +21,7 @@ BATTLE STYLE: SET
 ```
 
 - Set time to **5:50 PM**.
+- Set your name, your rival's name, and Totodile's nickname to a single character. It saves frames.
 
 ## New Bark Town
 - Set the day to **Sunday**.
@@ -28,23 +29,24 @@ BATTLE STYLE: SET
 - Head to the Lab.
 
 ## Professor Elm's Lab
-- Pick up **Totodile** *and remove the berry*.
-- You want a Totodile with `ATK 12`, `SP.DEF 11`, and `SPD 10`. 
+- Pick up **Totodile** (*and remove the berry*).
+- You want a Totodile with `ATK 12`, `SP.DEF 11`, and `SPD 10`.
 - `SPD 9` is runnable, but might be slower.
 - Totodile has a gender ratio of 87.5% male to 12.5% female. This means that if you see a female Totodile when you are setting a nickname, immediately reset, as it will have a maximum `ATK DV` of `1`.
 
 ### Level 5 Totodile Stats
 DV     |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15
 :------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-HP     | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 21 | 21 | 21 | 21 | 21 | 21 
-ATK    | 11 | 11 | 11 | 11 | 11 | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **13** 
-DEF    | 11 | 11 | 11 | 11 | 11 | 11 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 
-SP.ATK |  9 |  9 |  9 |  9 |  9 |  9 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 
-SP.DEF |  9 |  9 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | **11** | **11** | **11** | **11** 
+HP     | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 21 | 21 | 21 | 21 | 21 | 21
+ATK    | 11 | 11 | 11 | 11 | 11 | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **12** | **13**
+DEF    | 11 | 11 | 11 | 11 | 11 | 11 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12
+SP.ATK |  9 |  9 |  9 |  9 |  9 |  9 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10
+SP.DEF |  9 |  9 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | **11** | **11** | **11** | **11**
 SPD    |  9 |  9 |  9 |  9 |  9 |  9 |  9 | **10** | **10** | **10** | **10** | **10** | **10** | **10** | **10** | **10**
 
 ## Route 29
 - Run from all encounters.
+- (*Kill one encounter here instead of second Poliwag's `34 EXP` later. Hoppip Lv.3 yields `21 EXP`.*)
 
 ## Route 30
 - Run from all encounters.
@@ -60,23 +62,22 @@ Pokemon | Actions
 ### Level 6 Totodile Stats
 DV     |  0 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15
 :------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-HP     | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 23 | 23 | 23 | 23 | 23 | 23 | 23 
-ATK    | 12 | 12 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 14 | 14 | 14 | 14 | 14 | 14 
-DEF    | 12 | 12 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 14 | 14 | 14 | 14 | 14 | 14 
-SP.ATK | 10 | 10 | 10 | 10 | 10 | 10 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 12 | 12 
-SP.DEF | 10 | 10 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 12 | 12 | 12 | 12 | 12 | 12 
+HP     | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 22 | 23 | 23 | 23 | 23 | 23 | 23 | 23
+ATK    | 12 | 12 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 14 | 14 | 14 | 14 | 14 | 14
+DEF    | 12 | 12 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 13 | 14 | 14 | 14 | 14 | 14 | 14
+SP.ATK | 10 | 10 | 10 | 10 | 10 | 10 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 12 | 12
+SP.DEF | 10 | 10 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 12 | 12 | 12 | 12 | 12 | 12
 SPD    | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 11 | 12
 
 - Note attack and special attack.
 
 ## New Bark Town
 - Name your Rival.
-- Talk to Elm.
-- Get the Pokeballs from the aide.
+- Talk to Professor Elm.
 - Return to Route 29.
 
 ## Route 29
-- If you see a **Sentret**, catch it. It will be used as a `HM01 CUT` slave.
+- If you see a **Sentret**, catch it. It has a 40% encounter rate during daylight hours (0% at night). It will be used as a `HM01 CUT` slave.
 - If you had `Lv5 SPD 9`, `Lv6 ATK 13`, `Lv6 DEF 12`, AND the Berry was used during the Rival fight, get the berry before Cherrygrove City.
 
 ## Route 30
@@ -113,7 +114,7 @@ Pokemon | Actions
 **Pidgey** | Rage x4
 **Pidgey** | Rage x2
 
-- If you have low defense, and you have less than `20 HP` you should use a Potion. 
+- If you have low defense, and you have less than `20 HP` you should use a Potion.
 
 ### Pre-Falkner Heal Table
 ATK | DEF | SPD | HP
