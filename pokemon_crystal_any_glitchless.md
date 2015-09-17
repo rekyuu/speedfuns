@@ -341,26 +341,48 @@ Venonat | Headbutt x2, or Water Gun if disabled
 
 ## Goldenrod City
 
-```
-If you haven't hit any spinners so far and did not kill a Poliwag at the start of the game, go and fight the underground trainers now. Also fight them now if you already have Bite. They are located in the building to the far left as soon as you enter the city from the north. Otherwise, go straight to the gym.
-Pokémaniac Donald
-Slowpoke: Headbutt x2 (or Bite if you have it)
-Slowpoke: Headbutt x2 (or Bite if you have it)
-Super Nerd Teru
-Magnemite: Water Gun
-Magnemite: Water Gun
-Magnemite: Water Gun
-Magnemite: Headbutt
-Now go to the gym.
-Goldenrod Gym
+- If you haven't hit any spinners so far and did not kill a Hoppip or Poliwag earlier, go and fight the underground trainers now.
+  - Head to the Goldenrod City Gym otherwise.
 
-Lass Carrie
-Snubbull: Headbutt x2/3 (Water Gun if you get Charm)
-Snubbull does 6 damage. Heal to full before the next fight and equip a berry if you have one spare.
-Leader Whitney
-Clefairy: Fury Cutter with 11 defense at 5, Rage with 12 defense at 5
-Miltank: Fury Cutter with 11 defense at 5, Rage with 12 defense at 5
-Miltank rollout does 6,12,24 with good defense and 7,14,28 with bad. With Rage 4 you have a chance of two hitting Miltank, and with Rage 5 you should definitely get it. Teach Bite over Leer when you learn it. Keep an eye on your speed over the next level ups as it is useful to know for Kimono Girls.
+### Pokémaniac Donald
+Pokemon | Actions
+:--|:--
+Slowpoke | Headbutt x2/Bite
+Slowpoke | Headbutt x2/Bite
+
+### Super Nerd Teru
+Pokemon | Actions
+:--|:--
+Magnemite | Water Gun
+Magnemite | Water Gun
+Magnemite | Water Gun
+Magnemite | Headbutt
+
+## Goldenrod City Gym
+
+### Lass Carrie
+Pokemon | Actions
+:--|:--
+Snubbull | Headbutt x3 (Water Gun if Charmed)
+
+> Snubbul does `6 DMG`.
+
+- Heal to full before the next fight and equip a Berry if you have one.
+
+### Leader Whitney
+Pokemon | Actions
+:--|:--
+Clefairy | Fury Cutter if `Lv5 DEF 11`, Rage if `Lv5 DEF 12`
+Miltank | Fury Cutter if `Lv5 DEF 11`, Rage if `Lv5 DEF 12`
+
+> Miltank rollout does 6,12,24 with good defense and 7,14,28 with bad. With Rage 4 you have a chance of two hitting Miltank, and with Rage 5 you should definitely get it.
+
+- Teach Bite over Leer.
+- Keep an eye on your speed over the next level ups as it is useful to know for Kimono Girls.
+
+-----
+
+```
 Goldenrod City
 
 Exit the gym, and go to the Flower Shop on the right. Talk to the girl on the right and then the girl on the left to receive the Squirtbottle. If you haven't fought the underground trainers already, go to the underground and fight them.
