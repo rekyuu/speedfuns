@@ -182,6 +182,11 @@ Pokemon | Actions
 
 - Grab the X-Attack in the west passage.
 
+### Extra Experience
+- You need 25 extra experience to get Level 20 after the final fight in the underground and save yourself 3 X items (because the extra level gives you +3 happiness).
+- If you hit any spinner in the game, you'll get this extra experience easily. If not, you can kill a wild Pokemon in here after you pass Firebreather Bill to get the experience.
+- Every possible encounter you can get on this floor of Union Cave can be oneshot with Water Gun, except Zubats (and Lv6 Rattata in Silver only). All of them give at least 25 experience. If you run into a Lv4 Rattata, you can Scratch instead to save a few frames. Don't try to kill Zubats, they're generally too tanky.
+
 ### Firebreather Ray
 Pokemon | Actions
 :--|:--
@@ -362,7 +367,7 @@ Slowpoke | Water Gun
 - Head to the PokeCenter afterwards.
 
 ## Goldenrod Pokemon Center
-- Use `BILL'S PC` and choose `SWITCH BOX` to name them the following:
+- Use `BILL'S PC` and choose `CHANGE BOX` to name them the following:
 
 ### Box Names
 ```
