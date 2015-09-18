@@ -1,4 +1,4 @@
-# Pokemon Crystal (Any%, Glitchless)
+# Pokemon Crystal (Any%)
 
 ## Route Rules
 - Timing is done by real time.
