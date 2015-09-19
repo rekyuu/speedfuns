@@ -407,3 +407,98 @@ BOX 8 -  4  é  d  2  é  Z  × 'd
 - Close the menu, and walk left into the stairs.
 - Walk left again to go back downstairs, and you will be at Mt. Silver.
 - Walk 3 up, then right until you bonk into Red. Talk to him and complete the run.
+
+-----
+
+# Trainer ID Strategy
+- Note: You must keep at least 1 Berry for the end of the run!
+
+## Beginning
+- Leave time at 10AM.
+
+## New Bark Town
+- Note your Trainer ID:
+
+Hex | TID
+:--|:--
+`D8` | `55296` - `55551`
+`D9` | `55552` - `55807`
+`F8` | `63488` - `63743`
+`F9` | `63744` - `63999`
+
+- Totodile's stats don't matter as much (???)
+
+## Route 29
+- Grab the berry here (required).
+
+## Route 31
+- Catch a Bellsprout if seen.
+
+## Violet City PokeCenter
+- Heal and get the Egg as usual, but enter the box names here.
+
+### Box Names
+```
+BOX  1 -  p 'v  , 'v  é  é 'r  2
+BOX  2 - 'v  ♂  é 'd  2 'l 'l  5
+BOX  3 -  p  é  é  4  é  D  9
+BOX  4 -  é  ?  2 'v  9  é  ♂  2
+BOX  5 - 'v  8  é  é  4 'v 't 'l
+BOX  6 - 'v  é  é  é  4  p
+BOX  7 -  é  d  2 'd
+```
+
+```
+(D9/F9 Only)
+BOX 14 -  A  A  A 'm  v  2
+```
+
+## Route 32
+- Catch a Bellsprout here if you didn't on Route 31.
+- Pick up the hidden Super Potion.
+- Fight Ralph to get Water Gun before Union Cave.
+
+## Union Cave
+- Only get the X Attack if your Attack is low.
+
+## Azalea Town
+- After Bugsy and before Rival 2:
+  - Give the Przcureberry to Croconaw.
+  - Heal to full.
+  - Use a Repel.
+  - For TIDs `D8` and `F8`:
+    - Teach Fury Cutter over Rage.
+    - Teach Mud-Slap over Water Gun.
+    - Use Mud-Slap on Ghastly and Scratch on Zubat.
+  - For TIDs `D9` and `F9`:
+    - Teach Fury Cutter over Rage.
+    - Do the Rival 2 fight as normal.
+
+## Ilex Forest
+- Teach `HM01 Cut` to Bellsprout (?).
+- Do not get Sweet Scent.
+
+## Goldenrod City
+- Pick up Kenya.
+- Head straight foir the Underground.
+
+## Goldenrod City Underground
+
+### PokéManiac Donald
+Pokemon | Actions
+:--|:--
+Slowpoke | Fury Cutter
+Slowpoke | Fury Cutter
+
+## Goldenrod Pokemon Center
+- Once entering the Center:
+  - Walk 1 up, 1 right, 1 down.
+  - Open the menu and view your Party.
+  - Swap Croconaw with Kenya.
+  - Give Croconaw a Berry.
+  - Close the menu.
+  - Walk 3 left (just before the stairs).
+  - Open the menu and check Bellsprout's stats.
+  - Use the Coin Case.
+  - Go left, and back down the stairs.
+  - Red as normal.
