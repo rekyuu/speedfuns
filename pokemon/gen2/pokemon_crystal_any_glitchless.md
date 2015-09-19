@@ -1,5 +1,8 @@
 # Pokemon Crystal (Any%, Glitchless)
 
+## Records
+- [speedrun.com](http://www.speedrun.com/pkmncrystal#Any_Glitchless1)
+
 ## Route Rules
 - Timing is by the in-game timer, as it shows either on the trainer card or on the save screen after beating Red and going through the second set of credits.
 - Runs must be done in single-segment as otherwise the in-game timer is inaccurate, reloading to go to Kanto after Lance is allowed.

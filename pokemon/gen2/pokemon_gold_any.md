@@ -1,5 +1,8 @@
 # Pokemon Gold (Any%)
 
+## Records
+- [speedrun.com](http://www.speedrun.com/pkmngoldsilver#Any1)
+
 ## Route Rules
 - Timing is done by real time.
 - Timing starts when New Game is selected and ends when the screen fades to black after Red is defeated.
