@@ -118,7 +118,7 @@ Pokemon | Actions
 **Spearow** | Rage x4
 
 - Use a Potion.
-- Give Totodile the Bitter Berry for later.
+- Give Totodile the Bitter Berry for later. Alternatively, save it for Slowpoke Well.
 
 ### Bird Keeper Rod
 Pokemon | Actions
@@ -180,7 +180,7 @@ Pokemon | Actions
 **Koffing** | Water Gun x2
 **Koffing** | Water Gun x2
 
-- Grab the X-Attack in the west passage.
+- Grab the X Attack in the west passage.
 
 ### Extra Experience
 - You need 25 extra experience to get Level 20 after the final fight in the underground and save yourself 3 X items (because the extra level gives you +3 happiness).
@@ -221,7 +221,7 @@ Pokemon | Actions
 Rattata | Water Gun x3 / Scratch x3 if low Special
 Rattata | Water Gun x3 / Scratch x3 if low Special
 
-- Use a Potion if you got rekt.
+- If you didn't equip the Bitter Berry earlier, do so now. Use a Potion if you are low on health.
 
 ### Rocket Grunt 2
 Pokemon | Actions
@@ -288,7 +288,7 @@ Beedrill | Rage
 ### Leader Bugsy
 Pokemon | Actions
 :--|:--
-Metapod | X-Attack, Rage
+Metapod | X Attack, Rage
 Kakuna  | Rage
 Scyther | Rage, Water Gun if low HP
 
@@ -330,8 +330,8 @@ Zubat | Water Gun x3
 ### 3F
 Purchase | #
 :--|:--
-X-Special | 6
-X-Speed | 7
+X Speed | 7
+X Special | 6
 
 - Otherwise, buy:
 
@@ -342,8 +342,8 @@ TM31 | 1
 
 Purchase | #
 :--|:--
-X-Special | 10
-X-Speed | 6
+X Speed | 6
+X Special | 10
 
 - Leave the Department Store, and head for Route 34.
 - In the gatehouse, get Kenya the Spearow from the Guard on the left.
@@ -355,7 +355,7 @@ X-Speed | 6
 ### PokéManiac Donald
 Pokemon | Actions
 :--|:--
-Slowpoke | Use all X-Special and X-Speeds, then Water Gun
+Slowpoke | Use all X Special and X Speeds, then Water Gun
 Slowpoke | Water Gun
 
 - Walk south to get the Coin Case.
