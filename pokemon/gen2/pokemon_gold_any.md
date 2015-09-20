@@ -430,6 +430,7 @@ Hex | TID
 
 ## Route 29
 - Grab the berry here (required).
+- Kill something.
 
 ## Route 31
 - Catch a Bellsprout if seen.
