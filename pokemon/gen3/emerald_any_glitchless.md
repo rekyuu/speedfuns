@@ -97,3 +97,32 @@ Min (-nature) | -- | 10 |  9 |  9 |  9 |  8
 Min           | 20 | 12 | 10 | **10** | 10 |  **9**
 Max           | 21 | **13** | 11 | **11** | 11 | **10**
 Max (+nature) | -- | **14** | 12 | **12** | 12 | **11**
+
+> Note: -nature and +nature mean a decreasing and increasing nature in that stat, respectively.
+
+### Wild Encounter
+Pokemon | Actions
+:--|:-
+Zigzagoon | Tackle until it faints.
+
+## Littleroot Town
+In the conversation with Prof. Birch, nickname your Mudkip a one character name.
+
+Say "Yes" to seeing Brendan, and exit the lab.
+
+From here, head north, through Route 101 and Oldale Town into Route 103. Run from any encounters.
+
+## Route 103
+Speak to Brendan to start the first Rival fight.
+
+### Rival Brendan
+Pokemon | Actions
+:--|:-
+Treecko | Tackle until it faints.
+
+Beating Treecko will level Mudkip to lvl.6.
+
+  - Check its Attack here, if it goes to `15` continue on, if not reset.
+  - Also take note of Mudkip's health at the end of the fight, if it is lower than `4 HP` after the level up, you will need to Potion before the next fight.
+
+After the Brendan fight return south to Prof. Birch's lab.
