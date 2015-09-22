@@ -102,7 +102,7 @@ Max (+nature) | -- | **14** | 12 | **12** | 12 | **11**
 
 ### Wild Encounter
 Pokemon | Actions
-:--|:-
+:--|:--
 Zigzagoon | Tackle until it faints.
 
 ## Littleroot Town
@@ -117,7 +117,7 @@ Speak to Brendan to start the first Rival fight.
 
 ### Rival Brendan
 Pokemon | Actions
-:--|:-
+:--|:--
 Treecko | Tackle until it faints.
 
 Beating Treecko will level Mudkip to lvl.6.
