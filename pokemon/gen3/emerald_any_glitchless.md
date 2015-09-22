@@ -63,9 +63,12 @@ The message "The internal battery has died. The game can be played. However cloc
 -----
 
 ## New Game
-Before starting a new game, set your options as;
+Before starting a new game, set your options as:
+
   - Text Speed - Fast
   - Battle Scene - Off
   - Battle Style - Set
+
 Other options can be set as you please.
+
 Start a new game, and choose Girl (the Brendan 2 fight is much safer as the girl), and name your character a single character name.
