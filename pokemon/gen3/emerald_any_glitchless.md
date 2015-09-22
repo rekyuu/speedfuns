@@ -72,3 +72,28 @@ Before starting a new game, set your options as:
 Other options can be set as you please.
 
 Start a new game, and choose Girl (the Brendan 2 fight is much safer as the girl), and name your character a single character name.
+
+## Littleroot Town
+Leave the clock at default.
+
+Collect the Potion from your PC.
+
+Once the conversations with Mom are done, head towards Brendan's house. Enter, talk to Brendan's mom, and head upstairs. As soon as you enter the room, leave again and go to walk out the house. Brendan will appear and talk to you.
+
+Head out and north to Route 101 to meet Prof. Birch.
+
+## Route 101
+Choose Mudkip after looking in the bag, and then the Zigzagoon fight will begin.
+
+In the battle, check Mudkip's nature and stats. The minimum stats that are runnable are `13/10/9`.
+
+> It is recommended to only accept `13/11/9`, however `10 Sp.Atk` can be run with, but with some time loss (mostly to the 3 double battles in the Magma and Aqua hideouts). `14/10/9+` is also acceptable, as the time gained from `14 Attack` negates the time lost from `10 Sp.Attack`.
+
+Note: Defenses and Hp don't matter in terms of resetting, however higher is better. The best possible Mudkip for a run is Naughty natured, 14/11/10. The possible stat values at Lvl.5 are:
+
+Stat | HP | Attack | Defense | Sp.Atk | Sp.Def | Speed
+:----|:--:|:------:|:-------:|:------:|:------:|:----:
+Min (-nature) | -- | 10 |  9 |  9 |  9 |  8
+Min           | 20 | 12 | 10 | **10** | 10 |  **9**
+Max           | 21 | **13** | 11 | **11* | 11 | **10**
+Max (+nature) | -- | **14** | 12 | **12** | 12 | **11**
