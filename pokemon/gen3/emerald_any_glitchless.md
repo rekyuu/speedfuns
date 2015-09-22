@@ -17,6 +17,11 @@ Copied from the guide [here](http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A
 ## Links and Information
 [Battle Information Spreadsheet](https://docs.google.com/spreadsheets/d/1YBll3FbJfaIMJ2CtV72kXfYTlF0qRDxuWHHKhUJ76Uo/edit?usp=sharing)
 
+### Spinner Manipulation (Run/Walk Method)
+Run from below to the square diagonally below-and-right of the trainer, then walk to the next square directly to the right of the trainer. From here you can run or walk, they can't catch you. Be careful when doing this however, as running a single tile higher will guarantee that the trainer catches you.
+
+Any spinner that you have to pass by the left or right of (so you start below them, and then finish above) can be manipulated in this manner, to guarantee not getting caught. However it does not work on spinners that you need to pass above or below, as running into the squares immediately diagonal to a spinner will make them look either up or down, up for the top-left and top-right squares, down for bottom-left and bottom-right.
+
 ### Maps
 #### Petalburg Woods
 ![](http://i.imgur.com/zULmMFn.png)
@@ -123,6 +128,70 @@ Treecko | Tackle until it faints.
 Beating Treecko will level Mudkip to lvl.6.
 
   - Check its Attack here, if it goes to `15` continue on, if not reset.
-  - Also take note of Mudkip's health at the end of the fight, if it is lower than `4 HP` after the level up, you will need to Potion before the next fight.
+  - Take note of Mudkip's health at the end of the fight, you will need to Potion before the next battle if your health is below `7 HP`, below `9 HP` with bad defense, below `10 HP` with `14 Atk`, or below `13 HP` with `14 Atk` and bad defense.
 
 After the Brendan fight return south to Prof. Birch's lab.
+
+## Littleroot Town
+After receiving the Pokedex and Pokeballs, exit the lab and talk to Mom (who is standing outside the house). Don't walk past her, as she will then walk to you, which wastes time. From here on run wherever you can.
+
+From here, head north to Oldale Town, then west at Oldale to Route 102, again running from any encounters.
+
+> Note: If you encounter a Poochyena or Zigzagoon before Petalburg City, you can catch it as a Rock Smash slave, however this is slower than catching a Poochyena in Route 116, as you have to deposit it at Petalburg City to avoid a double battle. Poochyena's encounter rate in Route 116 is 28%, so this is down to personal preference whether you catch one here or not.
+
+## Route 102
+Head west and battle the first Youngster.
+
+### Youngster Calvin
+Pokemon | Actions
+:--|:--
+Poochyena | Tackle until it faints.
+
+Avoid all the other trainers by running through the grass, running from encounters when necessary.
+
+Grab the Oran berries to the right of the second youngster.
+
+## Petalburg City
+Enter the PokeCentre to set a Teleport point for later.
+
+  - Deposit Poochyena/Zigzagoon if you caught one along the way.
+  - Go into "Move pokemon", and move Mudkip into the box first, then take him back out and put Poochyena/Zigzagoon in. This fully heals Mudkip.
+
+Next, head to the Mart.
+
+### Petalburg Mart
+Purchase | #
+:--|:--
+Potion | 1
+Repel | 4
+X Speed | 1
+X Attack | 2
+
+After the Mart, head to the gym and go through the Wally catching tutorial.
+
+Next, head west towards Route 104. Scott will stop you and talk to you, afterwards head into Route 104.
+
+## Route 104
+From entering, head south on to the beach, then west, then north, picking up the hidden Potion on the top-left tile of the beach.
+
+![](https://raw.githubusercontent.com/rekyuu/speedfuns/master/pokemon/gen3/img/rse/route-104_potion.png)
+
+Pick up the Oran berries above and head towards the second patch of grass.
+
+  - Potion Mudkip if he is `12 HP` or less.
+  - Repel.
+  - Give Mudkip an Oran Berry.
+
+Run through the grass, behind the trainer, and enter Petalburg Woods.
+
+## Petalburg Woods
+![](http://i.imgur.com/zULmMFn.png)
+
+Head around until you encounter the Devon Researcher, and battle the Aqua Grunt.
+
+### Team Aqua Grunt
+Pokemon | Actions
+:--|:--
+Poochyena | Tackle until it faints.
+
+Pick up the Ether above the spinner and head out of Petalburg Woods to the other side of Route 104.
