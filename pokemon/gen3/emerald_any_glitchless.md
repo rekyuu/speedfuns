@@ -22,7 +22,7 @@ Copied from the guide [here](http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A
 ![](http://i.imgur.com/zULmMFn.png)
 
 #### Granite Gave
-![](http://i.imgur.com/1SL3NvC.png)
+![](http://i.imgur.com/X0xk3Je.png)
 
 #### Slateport Beach
 ![](http://i.imgur.com/1SL3NvC.png)
