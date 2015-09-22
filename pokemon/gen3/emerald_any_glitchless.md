@@ -61,8 +61,6 @@ The message "The internal battery has died. The game can be played. However cloc
 
 ## Notation
 - Whenever the route refers to Mudkip's stats, it will be in the form `xx/xx/xx`, where the "`x`"s represent numbers. In order, these refer to the stats `Attack`, `Special Attack` and `Speed`.
-- If the route says to avoid a trainer, and the trainer's name is **bold**, that trainer is a spinner. "Timed" spinners/Rotatos (i.e. trainers that spin in a predictable fashion, non-randomly) will not be in bold.
-- If "@[Item Name]" follows after a pokemon, it means it is holding an item that you should be aware of. Not all of the items that each pokemon are holding are written here, just the ones that are significant to the route.
 - Unless stated otherwise (normally by "use this move until it faints"), battles are detailed turn by turn.
 
 -----
