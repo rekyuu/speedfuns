@@ -187,11 +187,56 @@ Run through the grass, behind the trainer, and enter Petalburg Woods.
 ## Petalburg Woods
 ![](http://i.imgur.com/zULmMFn.png)
 
-Head around until you encounter the Devon Researcher, and battle the Aqua Grunt.
+Avoid the spinner.
+
+Talk to the Devon Researcher, and battle the Aqua Grunt.
 
 ### Team Aqua Grunt
 Pokemon | Actions
 :--|:--
 Poochyena | Tackle until it faints.
 
-Pick up the Ether above the spinner and head out of Petalburg Woods to the other side of Route 104.
+Pick up the Ether above the next spinner and head out of Petalburg Woods to the other side of Route 104.
+
+## Route 104
+At the exit of Petalburg Woods, collect the Oran berries to the west if the Aqua Grunt's Poochyena did a lot of damage.
+
+Head east and then north across the bridge, towards Rustboro City, avoiding the remaining trainers.
+  - The double battle on the bridge wont activate with only one Pokemon in your party.
+
+## Rustboro City
+Head north, and straight into Rustboro Gym.
+
+If necessary, heal Mudkip and attach an Oran berry before fighting Youngster Josh (the southern-most youngster).
+
+### Youngster Josh
+Pokemon | Actions
+:--|:--
+Geodude | Mud Slap until it faints.
+
+Mudkip will level up to lvl.10, and learn Water Gun.
+
+Take note of Mudkip's speed. If it is 13 at lvl.10 you will need to buy an extra X Speed at the Fallarbor Shopping Trip.
+
+Next, fight the other Youngster.
+
+### Youngster Tommy
+Pokemon | Actions
+:--|:--
+Geodude | Water Gun
+Geodude | Water Gun
+
+Heal to full health and attach an Oran berry, then speak to Roxanne to start the first Gym Leader battle.
+
+### Leader Roxanne
+Pokemon | Holding | Actions
+:--|:--|:--
+Geodude | | Water Gun
+Geodude | | Water Gun
+Nosepass | Oran Berry | Water Gun
+
+> If your speed is above 18 here, Nosepass will Rock Tomb initially, to lower your speed.
+
+> If you are at a HP level that a Rock Tomb will kill (around `20 HP`) it will also use Rock Tomb, so potion at these HP levels.
+
+-----
