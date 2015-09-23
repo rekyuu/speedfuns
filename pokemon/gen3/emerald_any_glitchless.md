@@ -450,7 +450,7 @@ Wingull | Rock Tomb
 
 > **Slugma:** Heal to above 45hp before you Mud Shot, and Full Heal a burn
 
-> ** Grovyle:** Use Mud Shot turn 2 if the first Mud Shot only just does over half damage.
+> **Grovyle:** Use Mud Shot turn 2 if the first Mud Shot only just does over half damage.
 
 After Brendan leaves, head north and then west, and battle Triathlete Alyssa.
 
@@ -544,3 +544,4 @@ Manectric | Sitrus Berry | Mud Shot x2
 > Watch out for Supersonic on Magneton, though there's little you can do if he hits you with it.
 
 -----
+
