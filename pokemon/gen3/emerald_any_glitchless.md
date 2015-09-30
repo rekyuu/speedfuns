@@ -545,3 +545,10 @@ Manectric | Sitrus Berry | Mud Shot x2
 
 -----
 
+After the battle, and obtaining the Shock Wave TM, exit the gym and bike west through Route 117 to Verdanturf Town, avoiding all the trainers.
+
+## Verdanturf Town
+Head into Rusturf Tunnel.
+
+## Rusturf Tunnel
+Repel in the entrance, then battle Hiker Mike.
