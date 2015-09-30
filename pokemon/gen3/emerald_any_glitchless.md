@@ -534,11 +534,11 @@ If you didn't heal at the centre:
 - Use an Ether on Mud Shot.
 
 ### Gym Leader Wattson
-Pokemon  | Holding    | Actions
-:--------|:-----------|:---------
-Voltorb | | Mud Shot
-Electrike | | Mud Shot
-Magneton | | Mud Shot
+Pokemon   | Holding      | Actions
+:---------|:-------------|:-----------
+Voltorb   |              | Mud Shot
+Electrike |              | Mud Shot
+Magneton  |              | Mud Shot
 Manectric | Sitrus Berry | Mud Shot x2
 
 > Watch out for Supersonic on Magneton, though there's little you can do if he hits you with it.
