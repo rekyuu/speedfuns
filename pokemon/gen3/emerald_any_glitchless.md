@@ -528,7 +528,7 @@ Gulpin | Mud Shot
 
 After the battle, press the button to the left of the youngster, and then head up to Wattson.
 
-If you didn't heal at the centre:
+If you didn't heal at the center:
 
 - Use a Super Potion.
 - Use an Ether on Mud Shot.
