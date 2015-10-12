@@ -110,7 +110,7 @@ Head back to his home to hang out with him.
 
 Go straight to his room and talk with him.
 
-Mash through the hangout.
+Mash through the hangout. It's faster to not eat the spaghetti, but the menuing is difficult.
 
 Select his hat. Platonically.
 
@@ -169,6 +169,7 @@ Pyrope | `Flee` |
 
 ### Mettaton Quiz
 - Hit `[A] Money` to skip to the last question and end the battle.
+- `[A] Undyne` for the final question is the fastest.
 
 Save after the Lab to heal to full.
 
@@ -181,7 +182,7 @@ Up, Left, Down, Left, Fire
 ### Cooking with a Killer Robot
 - Walking upwards while the room is dark gets you closer to the food to pick up.
 - When placing food, place it leftmost to prevent mashing through to talking with MTT.
-- Best time for Human SOUL substitute is 14 seconds.
+- Best time for Human SOUL substitute is 15 seconds on the dot.
 
 Pick up the `Stained Apron`.
 
@@ -193,7 +194,10 @@ In case you forgot, left, down, down, up down, left, up, up, left.
 
 ### MTT News
 - The Script has the fastest dialogue.
-- Defuse the bombs????
+- Defuse the bombs. Start with the lower left and arc around the right side to come back to the middle.
+- Recommended order: Book > Script > Present > Basketbomb > Dog > Glass
+- You can spam Z+ENTER on the Present and Basketbomb to attack them on the instant the fight starts, which will defuse them.
+- The best known time is a 61 upon ending the final bomb.
 
 Say `No...` to watching anime with Alphys (it's literally garbage??).
 
@@ -213,7 +217,7 @@ Go back and `SAVE`.
 Enter the MTT Musical with the first bit of dialogue, quit the game and reload. Cutscene skipped!
 
 ### Musical Puzzle
-The Puzzle *is* completable, will upload a map later.
+The Puzzle *is* completable, will upload a map later. The best known time remaining is 10.
 
 ### Mettaton Fight 2
 - Just attack him once!
@@ -230,7 +234,7 @@ Go right when Alphys told you to go up (you have played the game, right??).
 Go left, then left again towards the puzzle.
 
 ### Slide Puzzle 5
-Down, Left, Down, Left, Up, Left, Fire.
+Down, Left, Down, Left, Down, Left, Up, Left, Fire.
 
 `SAVE` here to heal to full (NOT before Mettaton).
 
@@ -238,13 +242,14 @@ Down, Left, Down, Left, Up, Left, Fire.
 - Don't fire first turn. Saves dialogue time.
 
 # `OHHHHH YES!`
-- You need 10k ratings to finish the battle.
-- Equip the `Faded Ribbon (+1500)`.
-- Equip the `Manly Bandanna (+1500)`
-- Equip the `Old Tutu (+1500)`.
-- Equip the `Cloudy Glasses (+1500)`.
-- Equip the `Stained Apron (+1500)`. Do this last so you don't have to later.
-- Typing `legs` might be fast???
+- You need 12k ratings to finish the battle. You start with 4k.
+- Equip the `Faded Ribbon (+1500 > 5500)`.
+- Equip the `Manly Bandanna (+1500 > 7000)`
+- Equip the `Old Tutu (+1500 > 8500)`.
+- Equip the `Cloudy Glasses (+1500 > 10000)`.
+- Equip the `Stained Apron (+1500 > 11500)`. Do this last so you don't have to later.
+- The extra 500 points need to be earned by shooting the bombs, MTT minis, squares, and hands. Getting hit gives points.
+- Typing `legs` during the essay gives `+350 > 11850`. 150 points should not be difficult to obtain otherwise.
 
 The battle should be over by now.
 
@@ -269,12 +274,17 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 ## My World
 
 ### Omega Flowey
-- Knives go the direction `ACT` will be.
+- Phase 1: Knives go the direction `ACT` will be.
+- Phase 2: Top left of the room for the `ACT` during the gloves.
+- Phase 3: All the way to the right to get to the `ACT`.
+- Phase 4: Above the middle for `ACT`, RNG on whether it appears from the left or right.
+- Phase 5: Middle pan for the `ACT`. You can move above the pan for this.
+- Phase 6: Close and reload the game as soon as the bullets turn into flowers.
 - Don't die?????????
 
 `FIGHT` him afterwards, it's faster.
 
-Once the credits hit, you can restart to skip them.
+The instant you see UNDERTALE after entering the door, you can close the game and restart to skip the credits.
 
 Head to Waterfall with the Riverman (or the Riverwoman?).
 
@@ -324,10 +334,10 @@ Head right, fight the Mirror Amalgamate, insert the key and head back to the Pow
 Mash through everything.
 
 ### Asriel Dreemurr
-Wait for the music to kick in, then `Hope` every time. Don't die and stuff.
+Wait for the music to kick in (rainbow effects), then `Hope` every time. Don't die and stuff.
 
 ### Asriel Dreemurr Kai Ni
-`Struggle` for awhile. Dying happens but don't do it a lot (three max?).
+`Struggle` for 4 turns. If you got hit by a diamond in the previous phase, you will start at 1/20 HP. If so, kill yourself on turn 1, survive turns 2 and 3, then kill yourself on turn 4. If you do NOT get hit by the diamond, pray that you don't die at all.
 
 `SAVE` your friends!
 
