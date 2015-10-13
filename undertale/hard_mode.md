@@ -63,55 +63,55 @@ Walk all the way to the end (it's okay, Toriel's just behind the pillar). Leave 
 ## Room 8
 You may have an encounter here before exiting the room.
 
-# Room 9
+## Room 9
 Fall through a pitfall closer to the upper wall to save a bit of time.
 
-# Room 10
+## Room 10
 Mash through Toriel, answering whatever for the Pie question.
 
 Push the rock all the way to the right.
 
 By now, there should be an encounter. Exit the room afterwards.
 
-# Room 11
+## Room 11
 Walk through the pitfall maze. If you fall or misroute, you may have an encounter.
 
-# Room 12
+## Room 12
 Mash through Rock #4. You will likely have an encounter before pulling him back to the switch.
 
-# Room 13
+## Room 13
 You may want to `SAVE` if you lost a lot of HP. It does waste time, but you can be the judge.
 
-# Room 14
+## Room 14
 Fight Napstablook. Nothing really changed in this fight. Just `Cheer` him on!
 
 Head upwards afterwards.
 
-# Room 15
+## Room 15
 Mash through Toriel when she calls.
 
-# Room 16
+## Room 16
 Fall through the middle pitfall and hit the switch. Exit to the right.
 
-# Room 17
+## Room 17
 Head downwards.
 
-# Room 18
+## Room 18
 Hit the switch behind the pillar to the left of you when you enter the room.
 
-# Room 19
+## Room 19
 Hit the Red Switch at the top left of the room.
 
-# Room 20
+## Room 20
 Hit the switch behind the top left pillar. You may get one more encounter here.
 
-# Room 21
+## Room 21
 Head upwards to Toriel.
 
-# Room 22
+## Room 22
 Mash through Toriel and head upwards. No need to `SAVE` as she healed you when you entered the room.
 
-# Home
+## Home
 Mash through Toriel more, and then enter your room and sleep on the bed.
 
 Don't pick up the Pie. Just leave the room.
@@ -120,10 +120,10 @@ Mash through Toriel, making sure to ask how to leave the RUINS on the final prom
 
 Head downstairs, mashing through text towards the Toriel battle.
 
-# Toriel
+## Toriel
 From what I've been able to see, it's impossible to die here. Getting hands is faster but as soon as you're low health, getting hit once will knock you to `2 HP` and she'll refuse to attack you.
 
 Additionally, killing her is faster than mashing `Spare`.
 
-# Hard Mode
+## Hard Mode
 Just mash through it. You're done!
