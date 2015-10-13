@@ -28,6 +28,7 @@ Enemies | `ACT` | Attacks | Notes
 Final Froggit | `Compliment` | Flies, Frog Jump | Can sometimes run, but it's inconsistent. Easier to `Compliment`, hold out for an attack, `Spare`.
 Final Froggit, Whimsalot | Froggit: `Compliment`, Whimsalot: `Pray` | Flies + Butterflies, Flies + Butterfly Circle | `Pray` guarantees Flies + Butterfly Circle (?) and gives a couple of healables if you're careful.
 Final Froggit, Astigmatism | Froggit: `Compliment`, Astigmatism: `Pick On / Don't Pick On`| Flies + Rotating Spheres, Flies + Bouncing Spheres | Be sure to pay attention to what Astigmatism wants you to do after `Compliment`ing Froggit. Using `Challenge` on Astigmatism will also allows you to `Spare` the remaining enemies, but not Astigmatism.
+Twin Astigmatisms | `Challenge / Check`, `Pick On / Don't Pick On` | Rotating + Bouncing Spheres, or double of either | Not sure if you can make this two turns as you need them to speak first. If you're feeling lucky, you can try choosing `Pick On / Don't Pick On` turn 1 as it is a 50/50 chance.
 Parsnik | `Snack` | Bouncing Snakes | `Snack` will give you a `1 HP` heal.
 Twin Parsniks | `Snack`, `Snack` | Bouncing Snakes | `Snack` will give you a `1 HP` heal.
 Twin Moldessas | `Fix`, `Fix` | Falling balls, Falling + exploding balls | You might be able to use `Lie Down` to gain some HP but it's probably not worth it.
