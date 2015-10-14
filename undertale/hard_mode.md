@@ -56,7 +56,7 @@ Use gyration to hit the first two switches on the top wall. Easier movement.
 After mashing through Toriel, start the dummy fight. Quickest way out seems to be `ACT`: `Talk`.
 
 ## Room 6
-Just `Spare` at the Froggit encounter. It's the fastest menuing and Toriel always gives the look of death in this mode for some reason.
+Kill the Froggit at the encounter.
 
 ## Room 7
 Walk all the way to the end (it's okay, Toriel's just behind the pillar). Leave after mashing.
