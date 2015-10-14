@@ -17,7 +17,7 @@
 -----
 
 ## Ruins
-Most of this run is handled in the RUINS, so the guide will be a more detailed route through the ruins and details about the enemies and the enemy combinations.
+ALl of this run is in the RUINS, so the guide will be a more detailed route through the RUINS and details about the enemies and the enemy combinations.
 
 ## Encounters
 From what I can tell, it seems encounters are determined when you enter the room and it's determined by the number of steps you take. More research can probably be done on this.
