@@ -1,7 +1,7 @@
 # Undertale - True Pacifist Route
 
 ## Records
-[speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending)
+[speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1)
 
 ## Route Rules
 - Start with a 0-reset fresh game. You can do this by deleting the UNDERTALE folder located in `C:\Users\<user>\AppData\Local`.

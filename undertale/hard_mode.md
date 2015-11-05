@@ -124,7 +124,9 @@ Head downstairs, mashing through text towards the Toriel battle.
 ## Toriel
 From what I've been able to see, it's impossible to die here. Getting hands is faster but as soon as you're low health, getting hit once will knock you to `2 HP` and she'll refuse to attack you.
 
-Additionally, killing her is faster than mashing `Spare`.
+~~Additionally, killing her is faster than mashing `Spare`.~~
+
+Sucker punching strats: pick up the pie (?) hit hands as much as you can while mashing `Spare` until the music cuts out. Then, attack to one hit kill Toriel.
 
 ## Hard Mode
 Just mash through it. You're done!
