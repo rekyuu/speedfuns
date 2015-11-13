@@ -59,7 +59,7 @@ In the room with the first rock, the Pie question does not matter. Just mash thr
 
 In the room with the three rocks, go to the bottom of the rock and talk to it twice. Make a roundabout to the back of the rock such that the third time you talk to it you get pushed towards the spikes. Reset the spikes and move back to the right side of the rock; if lucky, you can force an encounter AND also talk to the rock before the `FIGHT` begins. The worst encounter you can possibly get in this room is 2 Froggits since you must take 2 cycles. Otherwise get at least 1G through one turn and then keep moving.
 
-Pick up the `Faded Ribbon` in the last pitfall room (bottom left hole).
+Pick up the `Faded Ribbon` in the last pitfall room (bottom left hole). Fall in the top-middle pitfall to press the switch.
 
 In case you don't remember, the Perspective Rooms (in order):
 - Top column
@@ -93,46 +93,55 @@ Enemy | `ACT` | Notes
 :---- | :---- | :----
 Snowdrake | `Flee` |
 Ice Cap | `Flee` |
-Doggo | `Stick` |
+Doggo | `Stick+Spare` |
 Lesser Dog | `Flee` | 
-Married Dogs | `Stick` |
-Greater Dog | `Stick` | The BARK attack doesn't start until you move, run into the dog to end the attack faster.
+Married Dogs | `Stick+Spare` |
+Greater Dog | `Stick+Spare` | Run into the barking dog to end the attack faster.
 
 `SAVE` here to heal to full.
 
 Pick up the `Tough Glove` from the `Box` and equip it.
+- The `Stick` will allow you to bypass all dog-type enemies after using it once and then `SPARE`ing them after.
 
-> The `Stick` will allow you to bypass all dog-type enemies after using it once and then `SPARE`ing them after.
+#### Absolutely NO MOVING!!!
 
-### Absolutely NO MOVING!!!
+In spite of the sign, moving right, waiting, and then moving left actually ends Doggo's attack by up to .5 seconds faster each turn. Use the `Stick` and then `Spare`. 
 
-In spite of the sign, moving right, waiting, and then moving left actually ends Doggo's attack faster by up to .5 seconds. Use the `Stick` and then `Spare`. 
+Slide on the ice in the next room to avoid getting an encounter.
 
-### Hey Kid's!
+#### Hey Kid's!
 
 Don't help Ice-E solve the word search.
 
-### Warning: Dog Marriage
+Answering `Jumble` is three dialogue boxes faster than answering `Crossword`.
 
-Dodge the trees and press the hidden switch from the top left. Make sure to `Flee` from the Lesser Dog.
+#### Warning: Dog Marriage
 
-### Flying Papyrus
+Dodge the trees and press the hidden switch from the top left. 
+
+Make sure to `Flee` from the Lesser Dog. 
+
+Use the `Stick` on the Dogi and then `Spare`.
+
+#### Flying Papyrus
 
 Hit the switch in the first tree and walk onto the grey button.
-- If done correctly, you can press the switch without Papyrus' dialog triggering. He just floats across the top: http://www.twitch.tv/th3hatt3r/v/21373800
+- If done correctly, you can press the switch without Papyrus' dialogue triggering. He just floats across the top: http://www.twitch.tv/th3hatt3r/v/21373800
 - This is one of the hardest glitches to do reliably so get some practice in.
 
-### Ice Puzzle
+#### Ice Puzzle
 
 From the Lesser Dog room walk into the ice puzzle room holding UP and RIGHT to hit the first two X's at once and then move RIGHT. The ice sliding puzzle has a specific strategy that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution. Practice buffering inputs between each slide or it won't work consistently. http://imgur.com/imntI5i 
 
-### Random Colored Block Puzzle
+#### Random Colored Block Puzzle
 
 Say `No` and `Even less` to the questions to skip the puzzle.
 
-### Is It Really A Snow Poff?
+#### Is It Really A Snow Poff?
 
-Use the `Stick`. If you get the BARK BARK attack from Greater Dog, you can skip it by running into the dog at the bottom.
+Snow poff... Don't get stuck on it.
+
+Use the `Stick`. If you get the BARK BARK attack from Greater Dog, you can skip it by running into the dog at the bottom. The sleeping dog won't bark until you start moving, mind your i-frames and avoid the BARKs.
 
 ## Snowdin Town
 
@@ -142,13 +151,13 @@ Take the Underground Tunnel to the other side of town.
 
 ### Papyrus
 It is faster to let him capture you by losing the fight three times (by 45 seconds!).
-
-> `Check` Papyrus 3 times and run into 5 bones in the first fight. You will start out "blue" in the next two fights, proceed to `Spare` him as normal.
+- `Check` Papyrus 3 times and run into 5 bones in the first fight. You will start out "blue" in the next two fights, proceed to `Spare` him as normal.
 
 Head back to his home to hang out with him.
 
 Go straight to his room and talk with him.
 
+###Hangout Start!
 Mash through the hangout. If he's staring at you, mash C to advance. 
 
 Select his hat. Platonically.
@@ -170,13 +179,15 @@ Pick up the `Old Tutu` in the room after Sans (behind the waterfall).
 In the final lilypad room, drop them upwards using the downmost ledge.
 
 ### Undyne Spears 1
-Dodge the spears???
+Dodge the spears??? 
 
-No need for the umbrella. Just wastes time.
+No need for the umbrella. Just wastes time. 
+
+Walk along the top of the next room so Monster Kid has less distance to travel, then walk along the bottom after they start following you.
 
 Wallhumping through castle is faster.
 
-In the next room talk to Monster Kid as soon as possible, it takes just over 4 seconds from the start of the dialogue before they will offer to lift you up. How you use this time is up to preference.
+In the next room talk to Monster Kid as soon as possible. It takes just over 4 seconds from the start of the dialogue before they will offer to lift you up. Stand near them and wait for the next dialogue. Walk into them so they can lift you up before mashing through the rest of the text.
 
 ### Undyne Spears 2: The Reckoning
 You can manipulate these spears by moving all the way up or all the way down in a sort of zig-zag pattern. You can walk through spears after they fully extend. Turn around on the last bridge as soon as the last set of spears begin to fade.
@@ -188,7 +199,8 @@ You can manipulate these spears by moving all the way up or all the way down in 
 - Unlike the cotton, which is hit-based, the rockets will always take 4 turns.
 - It is NOT faster to get hit by the rockets or the knife. 
 
-`SAVE` here to heal to full. Avoid taking damage between now and Undyne or it will make the following skips much more difficult.
+`SAVE` here to heal to full. Avoid taking damage between now and Undyne or it will make one the following skips much more difficult. 
+- If you're brave, you can skip this `SAVE` for the 2-cycle strat. Just make sure your health works for the Mettaton Quiz skip later.
 
 Purchase the `Cloudy Glasses`.
 
@@ -199,11 +211,11 @@ Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 ### Undyne
 There are multiple strats for this fight but I'll sort them.
 
-For Kindergarden Strats: https://youtu.be/pRMu_rzQR1A (requires buying the `Bisicle` in Snowdin. Also easier of the two.)
+For Kindergarten Strats: https://youtu.be/pRMu_rzQR1A (requires buying the `Bisicle` in Snowdin. Also easier of the two.)
 
 For 2-Cycle Strats: https://youtu.be/HmG9zoRrEGU (Harder of the two but faster.)
 
-##### Kindergarden Strats
+##### Kindergarten Strats
 - For this you do not need to perform the warp glitch (below) but it's faster for you to do so.
 - Intentionally get hit by at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. 
 - `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Continuing to select `Challenge` beyond this point can be up to 7 seconds SLOWER.
@@ -211,13 +223,14 @@ For 2-Cycle Strats: https://youtu.be/HmG9zoRrEGU (Harder of the two but faster.)
 
 
 ##### 2-Cycle Strats
-- Newer, riskier strat that skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the above method.
+- Newer, riskier strat that skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the above method. (Credit to Raikou99...?)
 - Start off with the glitch warp (below) in the first room to get to the second room without fighting. Fight Undyne in the second room like before but instead block all of her attacks and `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her attacks if you get hit. `Flee` when you turn red and run into the next room.
-- Don't move right in the next room until you see the marquee start to scroll (about .25-.5 seconds). If done correctly your character should be almost directly under the left part of the 'W' on the sign when Undyne catches up to you. Remember to take enough damage during both fights for the Mettaton Quiz Skip. 
+- Don't move right in the next room until you see the marquee start to scroll (about .25-.5 seconds). If done correctly your character should be almost directly under the left part of the 'W' on the sign when Undyne catches up to you. Alternatively: if you feel confident you can move immediately as long as you stop in the right position.
+- Remember to take enough damage during both fights for the Mettaton Quiz Skip. 
 - `Challenge` Undyne until you can `Flee` again then move right and mash through the dialogue. If the timng was right, Undyne won't be able to catch up to you before reaching the next screen.
 
 ##### Practice this
-- Strat to skip the first dialog and encounter. Simply walk up into the left edge so that the character's left hand is slightly over the border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately move up. http://webm.host/5d78a/
+- Strat to skip the first dialogue and encounter. Simply walk up into the left edge so that the character's left hand is slightly over the border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately move up. http://webm.host/5d78a/
 
 Be sure to water your Undyne!
 
@@ -228,6 +241,8 @@ Enemy | `ACT` | Notes
 Vulkin | `Flee` |
 Tsunderplane | `F-Flee!` |
 Pyrope | `Flee` |
+
+Do NOT take the `SAVE`.
 
 Go to the top so when Alphys comes out of the elevator, it saves walking time. Same for after the fight, walk towards the top.
 
@@ -301,16 +316,14 @@ Enter the MTT Musical with the first bit of dialogue, quit the game and reload. 
 
 Enemy | `ACT` | Notes
 :---- | :---- | :----
-Madjick | `Talk+Spare` |
+Madjick | `Talk+Spare` | The `Stick` also works.
 Astigmatism | `Flee` | May fail if you don't menu quickly enough.
 
 Blue Blue Orange
 
-Go right when Alphys told you to go up (you have played the game, right??).
+Go right when Alphys tells you to go up (you have played the game, right??).
 
-At the save point, go left, then left again towards the puzzle.
-
-After the puzzle, go back down back to the save point, then up, right, right. Saving at Mettaton wastes time but can be used as a safe strat if you're learning the route.
+At the save point, go left, up, then left again towards the puzzle.
 
 ### Slide Puzzle 5
 Take your pick of solutions:
@@ -318,7 +331,7 @@ Take your pick of solutions:
 - Up, Up, Left, Down, Left, Down, Left, Fire. (Seemingly least awkward to do)
 - Up, Left, Up, Left, Down, Down, Left, Fire.
 
-`SAVE` here to heal to full (NOT before Mettaton).
+After the puzzle, go back down to the `SAVE` and to heal to full. Go up and then keep going right until you reach Mettaton's room. Saving at Mettaton wastes time but can be used as a safe strat if you're learning the route.
 
 
 ## Mettaton Kai Ni
@@ -363,6 +376,7 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 
 ### Asgore
 - Eat the Butterscotch Pie to lower his defense.
+- The game will start scaling your damage on the 21st turn. The fight should end by the 23rd turn.
 - Don't choke.
 - Reminder that blue is stand still, orange is move.
 
@@ -372,9 +386,9 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 
 ### Omega Flowey
 It's not possible to die during soul phases, brave the damage to hit each `ACT` faster.
-- Phase 1: Knives go the direction `ACT` will be.
+- Phase 1: Knives go the direction `ACT` will be. Head to the top left/right.
 - Phase 2: Top left of the room for the `ACT` during the gloves.
-- Phase 3: All the way to the right to get to the `ACT`.
+- Phase 3: All the way to the right to get to the `ACT`. Don't miss it or you won't catch up to it.
 - Phase 4: Above the middle for `ACT`, RNG on whether it appears from the left or right.
 - Phase 5: Middle pan for the `ACT`. You can move above the pan for this. (12 waves)
 - Phase 6: Stay on the pivot point of the revolver and mash Z/Enter to press the `ACT` sooner. It's the third shot of the eigth wave; don't miss it. Close and reopen the game immediately after the screen flashes and the soul in the monitor changes from yellow to light blue.
@@ -384,17 +398,23 @@ It's not possible to die during soul phases, brave the damage to hit each `ACT` 
 
 The instant you see UNDERTALE after entering the door, you can close the game and restart to skip the credits.
 
+## Dating Start...?
+
 Head to Waterfall with the Riverman (or the Riverwoman?).
 
-## Underground Dating Simulator
-
 ### Undyne Date
-Select the tea when prompted (furthest right). Otherwise, mash through it.
+Make room in your inventory if you didn't before. 
+
+Select the tea when prompted (furthest right). Mash through everything and hold right to feel the heat. `FIGHT` is faster than `Fake Hit`.
+
+Head to Hotland on the dogboat. Yes, it will always be a dogboat the second time.
 
 Take the letter to Alphys' Lab.
 
 ### Alphys Date
 Mash through it????
+
+Take the ferry back to Hotland again.
 
 Head to True Lab.
 
@@ -406,7 +426,9 @@ Memory Head (Sink) | `CELL+Refuse+Spare` |
 Endogeny (Dog) | `Stick+Spare` |
 Lemon Bread (Save) | `Unhug+Hum+Flex+Spare` |
 Amalgamate (Fridge) | `Joke+Joke+Joke` |
-Reaper Bird (Mirror) | `Pray+Mystify+Pick On+Spare` |
+Reaper Bird (Mirror) | `Pray+Mystify+Pick On+Spare` | 
+
+Here we are.
 
 Go left first to fight the Sink Amalgamate and grab the key.
 - Mash at the first sink instead of turning all three on.
@@ -445,7 +467,7 @@ Wait for the music to kick in (rainbow effects), then `Hope` every time. You can
 
 `SAVE` your friends!
 - There's a pre-determined amount of actions for each `SAVE`. So you can use the same `ACT` choice twice.
-- If you use the Pie while saving Toriel and Asgore, it takes a single action after the Pie.
+- If you use the `Pie` while saving Toriel and Asgore, it takes a single action afterward.
 
 Don't comfort Asriel. It's faster.
 
