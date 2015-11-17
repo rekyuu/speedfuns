@@ -1,11 +1,12 @@
 #Undertale - True Pacifist Route
-
+-----
 #####This guide assumes the player has beaten the game before and has a basic understanding of the story progression and battle mechanics.
-----
+-----
+--
 
 ### Records
-[speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1)
-- As of writing, WR time is 1:52:16.
+- Record your playthrough in an unedited video format or stream it and submit the VOD(s) to [speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1).
+- As of writing, WR time is 1:52:16 by Tuxwizzle.
 
 
 ### Route Rules
@@ -16,17 +17,100 @@
 - Times are recorded as Real Time Attack (RTA).
 
 ### Tricks and Info
-- Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down, which is good for battle hunting. This is a product of the way the game was coded allowing bidirectional override, otherwise referred to as "wallhumping". 
-- "Random" encounters are tracked by the number of steps taken in a room with a small variance of about 10%. Changing rooms resets this counter while staying in the same room after an encounter effectively doubles the time until the next encounter. Some rooms, generally large puzzle rooms, have a predetermined longer time for encounters.
+- Game Maker does not run at a consistent frame rate. Instead what it does is run in "Room Speed" which is Game Maker's attempt at syncing all of the objects in a "Room" up to the desired frame rate (30 FPS for this game). It may fluctuate every so often, causing slight variations in events.
+- "Random" encounters are tracked by the number of steps taken in a "Room". There is a small variance: possibly due to inconsistent frame rate/room speed, possibly intentional, or both.  A "Step" in Game Maker is tied to the "Room Speed", code will only execute once per "Step" (~30 steps per second).
+- In this route most encounters are set in a predetermined order. You can delay encounters by pressing `C / CTRL` on the same frame as moving, but it has no practical uses yet.
+- Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down. The game was coded in a way that allows bidirectional override: otherwise referred to as "wallhumping". This is a convenient way to increment the step tracker quickly but it will only increment once per "Step", regardless of how many directions are held.
+- Changing rooms resets the step counter. Staying in the same room after an encounter effectively doubles the time until the next encounter. Some rooms, generally large puzzle rooms, have a longer predetermined time for encounters.
 - Rapidly press `Z` and `X` with one hand and `Enter` and `Shift` with the other to advance most dialogue faster. This will be referred to as "mashing" throughout the rest of the guide and will be implied for almost all dialogue.
 - Holding `X / SHIFT` while in battle allows your SOUL to move slower.
 - `SAVE` sparingly. With some practice you should only need to `SAVE` before restarting the game at certain points.
 - Name the Fallen Human a one character name. The name you enter is read out during the game so shorter names are faster.
-- The game will need to be closed and reopenned multiple times. Use adequate hardware to keep load times low.
-- It is possible to fail to `Flee` from monsters although it is very rare. The reason is not yet known, however, it's commonly thought to be time based.
+- The game will need to be closed and reopened multiple times. Use windowed mode to close the game faster and invest in adequate hardware to keep load times low.
+- It is possible to fail to `Flee` from monsters although it is very rare. The reason is not yet known, however, it's commonly thought to be timing based.
+
 
 -----
+
+-----
+#Table of Contents:
+
+## Beginning
+###Ruins
+- Buy `Spider Donut (7 GOLD)`
+- Pick up `Faded Ribbon`
+- Pick up `Butterscotch Pie`
+- Toriel Fight
+
+###Snowdin
+- Pick up `Tough Glove`
+- Get the `Stick`
+- Doggo
+- Lesser Dog
+- Dogamy & Dogaressa
+- Greater Dog
+- Buy `Manly Bandanna (50 GOLD)`
+- Papyrus Fight
+- Papyrus Date
+
+###Waterfall
+- Pick up `Old Tutu`
+- Undyne Spears 1
+- Undyne Spears 2
+- Buy `Cloudy Glasses (30 GOLD)`
+- Undyne Fight
+
+###Hotland
+- Mettaton Quiz
+- Mettaton Cooking Show
+- Pick up `Stained Apron`
+- Mettaton News Report
+- Muffet
+- Mettaton Opera
+- Mettaton Colored Puzzle
+
+###Core
+- Mettaton Ex: Fashion Show
+
+###New Home
+- Pick up `Worn Knife`
+- Asgore
+
+###Flowey World
+- Omega "Photoshop" Flowey
+
+###Dating
+- Undyne Date
+- Pick up `Undyne's Letter`
+- Alphys Date
+
+###True Lab
+- RED key
+- YELLOW key
+- GREEN key
+- BLUE key
+
+###New Home Re
+- Asriel Dreemurr 1: Hopes And Dreams
+- Asriel Dreemurr 2: The Struggle
+- Asriel Dreemurr 3: Save the World
+- Asriel Dreemurr: No Hug Redux
+
+###The End
+- Overtale
+
+
+
+-----
+
+-----
+
+--
 #Beginning
+
+-----
+
+-----
 ## Ruins
 
 Enemy | `ACT` | Notes
@@ -100,13 +184,16 @@ Cross the vines and go into the top room.
 - Toriel will avoid attacking you after the 13th turn using `Spare` and then stop attacking completely.
 - `Spare` and mash until the end of the fight.
 
-Split when you regain control after Toriel leaves the screen. 
+#####Split when you regain control after Toriel leaves the screen. 
 - The best time possible for this segment is around 7:40, give or take a few seconds.
+
 Walk up the long hallway, talk to Flowey, and exit the Ruins.
 
 -----
 
+-----
 
+-----
 ## Path to Snowdin
 
 Enemy | `ACT` | Notes
@@ -191,6 +278,8 @@ Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage fr
 - Walk out of the garage for the final time and go back to Papyrus.
 - Carefully choose `No` to fighting Papyrus again and mash through the rest of the dialogue.
 
+#####Split when you regain control after Papyrus leaves the screen. 
+
 Head back left and talk to Papyrus infront of his house. Once you're inside, go straight to his room and talk with him.
 
 ###Hangout Start!
@@ -200,6 +289,12 @@ Head back left and talk to Papyrus infront of his house. Once you're inside, go 
 - Answer `Yes` to the first two questions and `Refuse` to eating the spaghetti. It's faster but the menuing is difficult.
 - Mash through the rest of the dialogue and hold DOWN to leave his room immediately. 
 - Exit his house then continue right to Waterfall.
+
+#####Split when you regain control after dating Papyrus. 
+
+-----
+
+-----
 
 ## Waterfall
 
@@ -278,6 +373,12 @@ For 2-Cycle Strats: https://youtu.be/HmG9zoRrEGU (Harder of the two but faster.)
 - `Challenge` Undyne until you can `Flee` again then move right and mash through the dialogue. If the timng was right, Undyne won't be able to catch up to you before reaching the next screen.
 
 Once you can move again get water from the water cooler and use it on Undyne. Be careful not to press `Z/Enter` on the water cooler after you have the cup or you'll dump out the water and have to do it again. Pour the water on Undyne, wait for her to leave, and walk right to the lab.
+
+#####Split when you regain control after Undyne leaves the screen. 
+
+-----
+
+-----
 
 ## Hotland
 
@@ -432,8 +533,15 @@ From the puzzle: head back right, down, and right to the `SAVE`; use it now if y
 - The shortest time it will allow is about 4 seconds and it can last up to 15 seconds if you keep typing. 
 - The essay prompt only checks for specific keywords (strings) or conditions and will only take the one with the highest priority. Typing `legs` gives +350. Typing `toby` gives +300 and has the highest priority (will overwrite any other keyword).
 
-Mash through the viewer call-in dialogue until the battle ends, then mash through Alphys' dialogue afterward. Walk around Mettaton's torso to the next room. Start walking down the hall and mash until you can enter the elevator. Press the switch and enjoy the 20 second ride before story time.
+Mash through the viewer call-in dialogue until the battle ends, then mash through Alphys' dialogue afterward. 
 
+#####Split when you regain control after fighting Mettaton. 
+
+Walk around Mettaton's torso to the next room. Start walking down the hall and mash until you can enter the elevator. Press the switch and enjoy the 20 second ride before story time.
+
+-----
+
+-----
 ## New Home
 Exit the elevator and follow the long road to the King's home. You don't need to `SAVE` at any of the points along the way.
 
@@ -463,6 +571,11 @@ Mash through all of Asgore's disjointed dialogue and follow him up to the last `
 
 `FIGHT` Asgore after the fight, as it is faster. Let Flowey close the game.
 
+#####Split when you select `FIGHT`. 
+
+-----
+
+-----
 ## My World
 
 Quickly reopen the game and walk up to use the `SAVE`. Mash through all of Flowey's dialogue and begin the fight.
@@ -480,6 +593,9 @@ Quickly reopen the game and walk up to use the `SAVE`. Mash through all of Flowe
 
 `FIGHT` him afterwards, it's faster. Once Flowey says `I` immediately close the game. Reopen it and walk around Flowey to the gateway. Enter the gateway and the instant you see `UNDERTALE` you can close the game again to skip the credits. Reopen the game for the last time and you'll be back at the `SAVE` in the last hallway. Walk down through the Last Corridor and take the elevator on the right to skip to the beginning of New Home. Take the Core elevator down and walk past Mettaton's arena. Take the elevator on the right and walk down again through the hotel. Keep going down until you see the royal guards then go right to the Hotlands elevator. Enter it and select `Left Floor 1`. Walk down around the `SAVE` and take the boat.
 
+-----
+
+-----
 ## Dating Start...?
 
 Carefully select `Waterfall` and mash through and dialogue along the trip. Be sure not to mash too much and talk to the ferryperson again. Walk up from the boat, left, and then up into the last room on the left. 
@@ -499,6 +615,8 @@ Talk to Papyrus and mash through the dialogue.
 - `FIGHT` and immediately attack. It's faster than `Fake Hit`.
 - Mash until Undyne leaves and you have `Undyne's Letter` in your inventory.
 
+#####Split when you regain control after dating Undyne. 
+
 Go back to the ferryperson and carefully select `Hotland` on the dogboat. Yes, it will always be a dogboat the second time. Again, be careful not to talk to the ferryperson once you're off the boat.
 
 Move up and right to Alphys's door then slide `Undyne's Letter` under the door and mash.
@@ -506,10 +624,15 @@ Move up and right to Alphys's door then slide `Undyne's Letter` under the door a
 ### Alphys Date
 - Mash through the third and final date. None of the answers really matter.
 
+#####Split when you regain control after dating Alphys. 
+
 Walk right and up from the garbage dump back to the boat. Take the ferry back to `Hotland` once again.
 
 Go up from the boat and finally enter the lab. Walk right to the "bathroom" and enter it. Press the button and wait.
 
+-----
+
+-----
 ## True Lab
 
 Enemy | `ACT` | Notes
@@ -524,7 +647,7 @@ Here we are.
 
 Exit the elevator and go right. Walk up, ignore the `SAVE`, and take the left path. Use the rightmost sink from the right side three times to make the Memory Head appear.
 
-###Memory Head
+####Memory Head
 - Select  `CELL` first
 - Next select `Refuse`.
 - Then  `Spare` it.
@@ -533,35 +656,42 @@ Take the RED key from the sink and use it in the room above you. Go back down an
 
 Walk up into the hallway and go right. Press the button to turn on the fans and walk right to engage Endogeny faster.
 
-###Endogeny
+####Endogeny
 - Use the `Stick`.
 - `Spare` it.
 
 Walk back left through the hall and go up through the first door. Take the GREEN key from the bathtub and go back down to the hallway. Go left, ignore the top room for now, and activate the "SAVE" to fight Lemon Bread.
 
-###Lemon Bread
+####Lemon Bread
 - This fight can be a little RNG but it's not hard to react to.
 - `Unhug`, `Hum`, and `Flex` in any order.
 - `Spare` it.
 
 Keep going left. Check the last fridge from the left side and walk towards the door to trigger the Amalgamate.
 
-###Amalgamate
+####Amalgamate
 - `Joke` for three turns.
 - It will "Spare" itself on the third turn.
 
 Leave the BLUE key for now and go into the room to activate the GREEN switch. Exit the room and pick up the BLUE key while walking back right. Go around the DT machine again and enter the top room to insert the YELLOW key. Go back down and right to the bedroom. Use the `SAVE` if you need to then continue to the right room. Keep walking right until Reaper Bird appears.
 
-###Reaper Bird
+####Reaper Bird
 - Select `Mystify`, `Pick On`, and `Pray` in any order.
 - Move to the bottom right corner during the floating heads attack so they can't hit you.
 - `Spare` it.
 
 Enter the door at the end and insert the BLUE key. Walk out of the room and back to the main room with the locked door. Open the door to the elevator and go left to the generator room. Activate the generator and mash through the dialogue. Walk dwon and right to the elevator and mash through more dialogue as you ride the elevator back to New Home.
 
+#####Split when the elevator doors close. 
+
 Walk right from the now vine-covered door and up to the elevator on the left. Go down through the Last Corridor one more time and back up to Asgore. Don't bother with the `SAVE` now.
 
-## The Barrier
+-----
+
+-----
+##New Home Revisited
+
+### The Barrier
 
 Mash through everything. It's a lot of mashing. No need to heal because the cutscene heals you.
 
@@ -571,7 +701,6 @@ Mash through everything. It's a lot of mashing. No need to heal because the cuts
 - You may want to quickly use a `Dream` before the "fight" actually starts. This is so you have a `Last Dream` for the turn before `Hyper Goner`.
 - Dying too early can cost a lot of time.
 - Try to avoid all of the diamonds during `Hyper Goner` so you'll have a better chance at surviving through the next phase.
-
 
 ### Asriel Dreemurr Kai Ni
 - `Struggle` for 4 turns. 
@@ -588,8 +717,12 @@ Mash through everything. It's a lot of mashing. No need to heal because the cuts
 - Use the `Pie` while saving Toriel and Asgore, then use a single `ACT` afterward to end the fight.
 - `SAVE` Asriel and mash through to the end of the fight.
 
-Don't `Forgive`and DON'T `Comfort` Asriel. It's faster.
+`Do not` forgive and `Do not` hug Asriel. It's faster.
 
-Mash a little bit more then walk right and up to the gateway. Select `Yes I'm Ready` and mash through The End.
+Mash a little bit more then walk right and up to the gateway. Select `I'm Ready` and mash through the end. Select `I want to stay with you` and mash just a little more.
 
-Time ends on the last text box from Toriel, in case you forgot.
+#####Time ends on closing the last text box from Toriel.
+
+-----
+
+-----
