@@ -1,2 +1,2 @@
-# speedfuns
-Speedrun notes.
+# undertale
+Speedrun notes for UNDERTALE.
