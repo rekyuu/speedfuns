@@ -17,16 +17,19 @@
 - Times are recorded as Real Time Attack (RTA).
 
 ### Tricks and Info
-- Game Maker does not run at a consistent frame rate. Instead what it does is run in "Room Speed" which is Game Maker's attempt at syncing all of the objects in a "Room" up to the desired frame rate (30 FPS for this game). It may fluctuate every so often, causing slight variations in events.
-- "Random" encounters are tracked by the number of steps taken in a "Room". There is a small variance: possibly due to inconsistent frame rate/room speed, possibly intentional, or both.  A "Step" in Game Maker is tied to the "Room Speed", code will only execute once per "Step" (~30 steps per second).
+- Game Maker executables run in "Room Speed" which is Game Maker's limit to the number of "Steps" that should happen per second in a given "Room". A "Step" in Game Maker is the interval at which code is executed. Most or all of the rooms in this game seem to be at the default (30 Steps per second). The real time FPS and the Room Speed may desync occasionally, causing slight variations in events.
+- "Random" encounters are tracked by the number of steps taken in a "Room". There is a small variance: possibly due to inconsistent frame rate/room speed, possibly intentional, or both.  
 - In this route most encounters are set in a predetermined order. You can delay encounters by pressing `C / CTRL` on the same frame as moving, but it has no practical uses yet.
 - Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down. The game was coded in a way that allows bidirectional override: otherwise referred to as "wallhumping". This is a convenient way to increment the step tracker quickly but it will only increment once per "Step", regardless of how many directions are held.
+- Moving in a direction and then switching windows will allow you to move in place, incrementing the step tracker at the same rate as the "Room Speed". Press all of the directions at once to cancel the movement afterward.
 - Changing rooms resets the step counter. Staying in the same room after an encounter effectively doubles the time until the next encounter. Some rooms, generally large puzzle rooms, have a longer predetermined time for encounters.
 - Rapidly press `Z` and `X` with one hand and `Enter` and `Shift` with the other to advance most dialogue faster. This will be referred to as "mashing" throughout the rest of the guide and will be implied for almost all dialogue.
 - Holding `X / SHIFT` while in battle allows your SOUL to move slower.
 - `SAVE` sparingly. With some practice you should only need to `SAVE` before restarting the game at certain points.
 - Name the Fallen Human a one character name. The name you enter is read out during the game so shorter names are faster.
-- The game will need to be closed and reopened multiple times. Use windowed mode to close the game faster and invest in adequate hardware to keep load times low.
+- The game will need to be closed and reopened multiple times. Pay careful attention of when to close the game to prevent closing it too early. Use windowed mode at certain points to close the game faster.
+- If you have the Steam version: play in offline mode and use an unzipping program to extract the files out of the UNDERTALE.exe. Within the extracted files there is another UNDERTALE.exe. Make a shortcut to it and launch the game from there to reduce load time by up to 2 seconds. OR: you can also purchase a DRM free copy to circumvent Steam completely.
+- Consider investing in the proper hardware to further reduce load times.
 - It is possible to fail to `Flee` from monsters although it is very rare. The reason is not yet known, however, it's commonly thought to be timing based.
 
 
@@ -218,7 +221,7 @@ Continue right into the next room and mash through the dialogue. Expect an encou
 
 #### Absolutely NO MOVING!!!
 - Use the `Stick` and then `Spare`. 
-- Moving right, waiting, and then moving left ends Doggo's attack faster by up to .5 seconds.
+- Move right, wait for Doggo's attack to safely pass, and then follow it left. This ends the attack up to .5 seconds faster.
 
 Keep moving right and slide on the ice in the next room to avoid getting an encounter.
 
@@ -243,7 +246,7 @@ Move down to the small XO puzzle. Turn the Xs into Os and press the grey button.
 #### Flying Papyrus
 - Hold right when entering the next room and press the switch on the first tree.
 - Walk up as close to the grey button as you can.
-- If done correctly, you can press the switch without Papyrus' dialogue triggering. He just floats across the top: http://www.twitch.tv/th3hatt3r/v/21373800
+- If done correctly, you can press the switch without Papyrus' dialogue triggering. [He just floats across the top](http://www.twitch.tv/th3hatt3r/v/21373800).
 
 >
 This is one of the hardest glitches to do reliably so get some practice in.
@@ -254,7 +257,7 @@ This is one of the hardest glitches to do reliably so get some practice in.
 Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage from Dogi or if you didn't heal earlier. Again, don't actually spend time saving unless you are learning the route.
 
 #### Ice Puzzle
-- The ice sliding puzzle has a specific strategy that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution. http://imgur.com/imntI5i 
+- The ice sliding puzzle has a [specific strategy](http://imgur.com/imntI5i) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.  
 - Enter the room holding UP and RIGHT, let go of UP once the first two switches are pressed to slide right.
 - Buffer your next input while sliding by holding the direction you want to go.
 - Practice buffering inputs between each slide or it won't work consistently. 
@@ -280,7 +283,7 @@ Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage fr
 
 #####Split when you regain control after Papyrus leaves the screen. 
 
-Head back left and talk to Papyrus infront of his house. Once you're inside, go straight to his room and talk with him.
+Head back left and talk to Papyrus infront of his house. Follow Papyrus into his house, enter his room and talk to him to start the hangout.
 
 ###Hangout Start!
 - Press `C / CTRL` to make the `Friendship HUD` appear.
@@ -317,9 +320,9 @@ Move right avoiding the Echo Flowers and `Flee` from the Woshua. Walk to the top
 - You have no hitbox in your character's head, only the torso and slightly under the feet.
 - You can get hit while in the grass although it is rare.
 
-Move right and mash through the dialogue. Heal at the `SAVE` here if you want but you will have more chances later. Walk right and down into the large swamp room. Mash through Papyrus' phone call and `Spare` the pair of Moldsmals. Head up to the next room. Mash through Onionsan's dialogue and keep moving right. `Flee` from Shyren and continue right through the next several rooms. Don't take an umbrella, it just wastes time.
+Move right and mash through the dialogue. Heal at the `SAVE` here if you want but you will have more chances later. Walk right and down into the large swamp room. Mash through Papyrus' phone call and `Spare` the pair of Moldsmals. Head up to the next room. Mash through Onionsan's dialogue and keep moving right. Move around the pond and `Flee` from Shyren and continue right through the next several rooms. Don't take an umbrella, it just wastes time.
 
-Walk along the top of long room so Monster Kid has less distance to travel, then walk along the bottom after they start following you. Walk down and right through the next room. Wallhump at the castle room to move significantly faster.
+Walk along the top of long room so Monster Kid has less distance to travel, then walk along the bottom after they start following you. Walk down and right through the next room. Wallhump at the castle room to move twice as fast.
 
 In the next room talk to Monster Kid as soon as possible. It takes just over 4 seconds from the start of the dialogue before they will offer to lift you up. Stand near them and wait for the next dialogue. Mash through the remaining dialogue once it appears and continue right. `SAVE` to heal only if you absolutely need to.
 
@@ -332,47 +335,48 @@ Mash through the cutscene and walk right. Use the `SAVE` to heal if necessary an
 
 ### Mad Dummy
 - Mash `SPARE`.
-- Hit it with as much cotton as you can safely. 
-- It's possible to finish the first phase of the fight during the second red dummy attack, although this is difficult.
-- Unlike the cotton, which is hit-based, the rockets will always take 4 turns.
+- Hit it with as much cotton as you can safely. It will take some practice to lead the cotton when the dummy begins moving around.
+- It's possible to finish the first phase of the fight during the second red dummy attack (fifth turn), although this is difficult.
+- Unlike the cotton, which is hit-based, the rockets will always take 4 turns. Start closer to the bottom during the final rocket attack so they don't trap you.
 - It is NOT faster to get hit by the rockets or the knife. 
-- Don't die to Napstablook's tears.
+- Avoid to Napstablook's tears and mash to the end of the fight.
 
-Walk up to the next room and mash through Napstablook's dialogue. Use the `SAVE` to heal and save the game OR, if you're brave, you can skip this `SAVE` for the 2-cycle strat. Just make sure your health works for the Mettaton Quiz skip later. 
+Walk up to the next room and mash through Napstablook's dialogue. Use the `SAVE` to heal and save if you need it. If you're brave, you can skip this `SAVE` for the 2-cycle strat. Just make sure your health works for the Mettaton Quiz skip later. 
 
 Continue right and go up into the shop. Purchase the `Cloudy Glasses (30 GOLD)` from Gerson but DON't equip them. Back out and go right through the next two rooms.
 
 Memorize the pathing for the Mushroom Room and the Lantern Room. It is possible to avoid the encounter (Temmie) in the Mushroom Room with optimal movement. Temmie will replace the encounter in the next room instead.
 
-Walk right through the dark room and approach the Echo Flower from the top left to trigger it sooner. Mash through the dialogue then walk left and up into the next room. Keep walking all the way up then go right. Move down slightly when you enter the next room to avoid getting stuck on the bridge. Walk across the bridge to trigger the cutscene and mash through the dialogue. When Monster Kid falls go right and exit the room. Mash through the dialogue, move down slightly again to avoid getting stuck on another small bridge, and continue right to Undyne's Arena. 
+Walk right through the dark room and approach the Echo Flower from the top left to trigger it sooner, use the tall grass as a guide. Mash through the dialogue then walk left and up into the next room. Keep walking all the way up then go right. Move down slightly when you enter the next room to avoid getting stuck on the bridge. Walk across the bridge to trigger the cutscene and mash through the dialogue. When Monster Kid falls go right and exit the room. Mash through the dialogue, move down slightly again to avoid getting stuck on another small bridge, and continue right to Undyne's Arena. 
 
 Before you trigger Undyne's cutscene...
 
-##### Practice This
-- Walk right into Undyne's Arena and make a sharp turn upward so that your character's left hand is slightly over the light purple border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately start walking up in the next room. http://webm.host/5d78a/
+##### [Practice This](http://webm.host/5d78a/)
+- Walk right into Undyne's Arena and make a sharp turn upward so that your character's left hand is slightly over the light purple border (while facing upward) and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition (below the black area) and immediately start walking up in the next room. 
 
 ### Undyne
 
-There are multiple strats for this fight but I'll sort them.
+There are currently alternate strats for saving time on Undyne. The first requires a healing item (`Bisicle (15 GOLD)` prefered, `Astronaut Food` can be a last minute backup) and the second is faster but requires precise positioning. Both take practice.
 
-For Kindergarten Strats: https://youtu.be/pRMu_rzQR1A (requires buying the `Bisicle` in Snowdin. Also easier of the two.)
-
-For 2-Cycle Strats: https://youtu.be/HmG9zoRrEGU (Harder of the two but faster.)
-
-##### Kindergarten Strats (Getting hit on the first attack four times)
-- For this you do not need to perform the warp glitch (above) but it's faster for you to do so.
+##### [Kindergarten Strats](https://youtu.be/pRMu_rzQR1A) (Getting hit on the first attack four times)
+- For this you do not need to perform the warp glitch (above) but it's still a bit faster.
 - Intentionally get hit by at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. 
-- `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Continuing to select `Challenge` beyond this point can be up to 7 seconds SLOWER.
-- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. If not timed properly, she will catch you again in the third room.
+- `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Continuing to select `Challenge` beyond this point is SLOWER.
+- `Spare` her for two more turns until she turns you green again. Mash `Spare` until you turn red for the last time, then `Flee`. Remember to take enough damage during the fight for the Mettaton Quiz Skip. Arrow attacks do 5 damage, the last spear does 4 damage.
+- If you didn't use the glitch warp: hold UP after the fight. Undyne will catch you again in the second room as well as the third room. `Flee` from both and hold RIGHT in the third room. 
+- Mash through Papyrus' phone call and keep going until you cross the bridge to Hotland. Undyne can catch you again if you don't mash fast enough.
 
-##### 2-Cycle Strats
-- Newer, riskier strat that skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the above method. (Credit to Raikou99...?)
-- Start off with the glitch warp (above) in the first room to get to the second room without fighting. Fight Undyne in the second room like before but instead block all of her attacks and `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her attacks if you get hit. `Flee` when you turn red and run into the next room.
-- Don't move right in the next room until you see the marquee start to scroll (about .25-.5 seconds). If done correctly your character should be almost directly under the left part of the 'W' on the sign when Undyne catches up to you. Alternatively: if you feel confident you can move immediately as long as you stop in the right position.
-- Remember to take enough damage during both fights for the Mettaton Quiz Skip. 
-- `Challenge` Undyne until you can `Flee` again then move right and mash through the dialogue. If the timng was right, Undyne won't be able to catch up to you before reaching the next screen.
+##### [2-Cycle Strats](https://youtu.be/HmG9zoRrEGU) (Stopping in third room)
+- Skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the other method. (Credit to Raikou99...?)
+- Start off with the glitch warp (above) in the first room to get to the second room without fighting. 
+- Walk up as far as you can until Undyne catches you in the second room. Swerving makes her take longer to catch you.
+- Block her attacks normally. `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her next attack if you get hit. 
+- `Flee` when you turn red and walk up to the next room.
+- Move right and stop at the 4th ["bump"](http://imgur.com/o6jgyHa) from the green marquee border. You should be directly under the middle of the 'W' when Undyne catches you. 
+- `Challenge` for four turns, block until the last turn so she doesn't reduce her attack speed. Remember to take enough damage during both fights for the Mettaton Quiz Skip. You want to end the second fight with `1-3 HP`. Arrow attacks do 5 damage, the last spear does 4 damage.
+- `Flee` again when you turn red and hold RIGHT. If done correctly, Undyne won't chase you immediately. Mash through Papyrus' phone call and keep moving right across the bridge to Hotland.
 
-Once you can move again get water from the water cooler and use it on Undyne. Be careful not to press `Z/Enter` on the water cooler after you have the cup or you'll dump out the water and have to do it again. Pour the water on Undyne, wait for her to leave, and walk right to the lab.
+Hold RIGHT and UP while crossing the bridge to come out on the top edge when Undyne stops you. You can use the water cooler from lower than expected and pour the water on Undyne from higher than expected. Be careful not to press `Z/Enter` on the water cooler after you have the cup or you'll dump out the water and have to do it again. Pour the water on Undyne, wait for her to leave, and walk right to the lab.
 
 #####Split when you regain control after Undyne leaves the screen. 
 
@@ -388,19 +392,20 @@ Vulkin | `Flee` |
 Tsunderplane | `F-Flee!` |
 Pyrope | `Flee` |
 
-Walk right around the `SAVE` and enter the lab. DO NOT take the `SAVE`. You don't want to heal here, you'll have another chance to in a few rooms.
+DO NOT use the `SAVE`. You don't want to heal here, you'll have another chance to in a few rooms. Walk around it and enter the lab.
 
 Walk right through the lab and up to the dog food bag so when Alphys comes out of the elevator she has less travel time. Mash through the dialogue until...
 
 ### Mettaton Quiz
 - Move up and left to choose `[A] Money`. If you have `1-3 HP` the quiz will skip to the end.
+- If you healed or have too much `HP` just continue to select the wrong answer until you are at `1 HP`
 - Choosing `[A] Undyne` for the final answer is the fastest.
 
 Mash through the rest of the dialogue, walk right and up to the bathroom sign. Again, being closer to the top means less travel time for Alphys. Exit the lab through the right and be ready to mash through several status updates. 
 
 Hold UP on the left conveyor belt to go faster, `Flee` from the Vulkin, mash through the status update. On the second conveyor belt swerve while holding UP to move faster and enter the next room.
 
-Use this `SAVE` to heal to full but don't save yet. `Flee` from the Tsunderplane, mash through the status updates and phone call. Take the vents right, up, and left then exit the room. 
+Use this `SAVE` to heal to full but don't save yet. Walk right and `Flee` from the Tsunderplane. Take the vents right, up, and left. Mash through the status updates and phone call then exit the room.
 
 Walk along the bottom row at the start of this room to avoid Alphys' phone call explaining laser movement. This saves around 2.50 seconds (credit to Wolfiexe). Keep walking right and dodge the lasers, don't bother pressing the button to turn them off and continue to the next room.
 
@@ -472,7 +477,7 @@ Head right avoiding the spider webs and mash through the spiders' dialogue. Walk
 - Eat the `Spider Donut`.
 - Mash through the proceding dialogue and `SPARE`.
 
-Finish talking to Muffet then go back left and use the `SAVE` to actually save the game for what will likely be the first time in a run. Cross back through Muffet's lair and enter the MTT Musical. As soon as you see/hear Mettaton's dialogue close the game and reload it. Go back through Muffet's lair for the final time and talk to Mettaton again. Carefully select `Skip This` and mash through the remaining dialogue until until Mettaton drops you into the dungeon.
+Finish talking to Muffet then go back left and use the `SAVE` to actually save the game for what will likely be the first time in a run. Cross back through Muffet's lair and enter the MTT Musical. As soon as you see/hear Mettaton's dialogue CLOSE THE GAME and reload it. Go back through Muffet's lair for the final time and talk to Mettaton again. Carefully select `Skip This` and mash through the remaining dialogue until until Mettaton drops you into the dungeon.
 
 #### Musical Puzzle
 - Hold RIGHT and mash through even more dialogue until you can move again.
@@ -549,13 +554,13 @@ Be ready for several story encounters once inside the house. Mashing DOES NOT sp
 
 Go left to the kitchen for the first key then right to the hallway for the second key. Enter the children's room and open the present on the left to pick up the `Worn Dagger`. Equip the `Stained Apron` if you mismenued in the Mettaton fashion show and drop a piece of armor or consume the bandage. Exit the bedroom and unlock the way to the basement stairs. Continue right on the long road until the story encounters stop and enter the Last Corridor.
 
-#####If you do not have a load time of less than 3 seconds:
-- Skip the `SAVE` and continue right to Sans. 
+#####If you do not have a load time of less than 3 seconds: (No Reset)
+- Do not use the `SAVE` and continue right to Sans. 
 - Wait for the bells and mash through the all of the dialogue. Only `Z / Enter` will work for the first part, then mash normally once Sans begins talking.
 - Hold RIGHT and walk up through the next few rooms until Asgore.
 
-#####If you have a load time of less than 3 seconds: 
-- This barely saves time and is heavily hardware reliant.
+#####If you have a load time of less than 3 seconds: (Reset)
+- *This barely saves time and is heavily hardware reliant.*
 - `SAVE` the game before Judgement.
 - Once you see the first bit of dialogue start mashing and don't stop.
 - Hold RIGHT and walk up through the next few rooms until Asgore.
@@ -567,9 +572,8 @@ Mash through all of Asgore's disjointed dialogue and follow him up to the last `
 - Eat the `Butterscotch Pie` on your first turn to lower his defense and attack by about 5. You'll inflict around 10 more damage. Alternatively, you can spend the first three turns using `Talk` as it lowers his attack and defense by twice as much allowing you to end the fight in the same amount of turns. If you really want to play it safe, `Talk` for three turns AND use the `Butterscotch Pie` to lower his stats even more, heal, and still end the fight in the same amount of turns.
 - Asgore won't kill you if you have more than `1 HP` when you take damage. Use the `Stained Apron` to your advantage.
 - Reminder that blue is stand still, orange is move.
-- The game will start scaling your damage on the 21st turn. Ideally the fight will end by the 23rd turn.
-
-`FIGHT` Asgore after the fight, as it is faster. Let Flowey close the game.
+- The game will start scaling your damage on the 21st turn. Ideally the fight should end by the 23rd turn.
+- `FIGHT` Asgore after the fight, as it is faster. Let Flowey close the game and be ready to reopen it.
 
 #####Split when you select `FIGHT`. 
 
@@ -587,11 +591,14 @@ Quickly reopen the game and walk up to use the `SAVE`. Mash through all of Flowe
 - Phase 3: All the way to the right to get to the `ACT`. Don't miss it or you won't catch up to it.
 - Phase 4: Above the middle for `ACT`, RNG on whether it appears from the left or right.
 - Phase 5: Middle pan for the `ACT`. You can move above the pan for this. (12 waves)
-- Phase 6: Stay on the pivot point of the revolver and mash Z/Enter to press the `ACT` sooner. It's the third shot of the eigth wave; don't miss it. Close the game immediately after the screen flashes and the soul in the monitor changes from yellow to aqua (light blue). Reopen the game, mash through a couple lines, and wait for the laugh to end.
+- Phase 6: Stay on the pivot point of the revolver and mash Z/Enter to press the `ACT` sooner. It's the third shot of the eigth wave; don't miss it. CLOSE THE GAME when the screen flashes/music changes and the soul in the monitor changes from yellow to aqua (light blue).
+- Reopen the game, mash through a couple lines, and wait for the laugh to end.
 - Phase 7: Don't die. The `FIGHT` button will automatically reappear at a set interval every few seconds. If you wait too long to press it and then press `FIGHT` twice consecutively it won't register the second attack and you will lose the damage.
-- Stand near the edge of Flowey's pellet circle and mash through his dialogue. Touch the pellets as soon as he begins the attack and mash through the rest.
+- Stand near the edge of Flowey's pellet circle and mash through his dialogue. Touch the pellets as soon as he begins the "attack" and mash through the rest.
 
-`FIGHT` him afterwards, it's faster. Once Flowey says `I` immediately close the game. Reopen it and walk around Flowey to the gateway. Enter the gateway and the instant you see `UNDERTALE` you can close the game again to skip the credits. Reopen the game for the last time and you'll be back at the `SAVE` in the last hallway. Walk down through the Last Corridor and take the elevator on the right to skip to the beginning of New Home. Take the Core elevator down and walk past Mettaton's arena. Take the elevator on the right and walk down again through the hotel. Keep going down until you see the royal guards then go right to the Hotlands elevator. Enter it and select `Left Floor 1`. Walk down around the `SAVE` and take the boat.
+Move to the left after the screen fades to black to position yourself over the `FIGHT` button and press it as soon as it becomes visible. Once Flowey says `I` immediately CLOSE THE GAME. Reopen it and walk around Flowey to the gateway. Enter the gateway and the instant you see `UNDERTALE` you can CLOSE THE GAME again to skip the credits. 
+
+Reopen the game for the last time and you'll be back at the `SAVE` in the last hallway. Walk down through the Last Corridor and take the elevator on the right to skip to the beginning of New Home. Take the Core elevator down and walk past Mettaton's arena. Take the elevator on the right and walk down again through the hotel. Keep going down until you see the royal guards then go right to the Hotlands elevator. Enter it and select `Left Floor 1`. Walk down around the `SAVE` and take the boat.
 
 -----
 
@@ -602,7 +609,7 @@ Carefully select `Waterfall` and mash through and dialogue along the trip. Be su
 
 #####Make room in your inventory if you didn't before. 
 
-Talk to Papyrus and mash through the dialogue. 
+Talk to Papyrus, say `Yes` to the hang out, and mash until you can walk inside.
 
 ### Undyne Date
 - Mash some more, the answer doesn't matter.
@@ -684,30 +691,27 @@ Enter the door at the end and insert the BLUE key. Walk out of the room and back
 
 #####Split when the elevator doors close. 
 
-Walk right from the now vine-covered door and up to the elevator on the left. Go down through the Last Corridor one more time and back up to Asgore. Don't bother with the `SAVE` now.
-
 -----
 
 -----
 ##New Home Revisited
+
+Walk right from the now vine-covered door and up to the elevator on the left. Go down through the Last Corridor one more time and back up to Asgore. Don't bother with the `SAVE` now.
 
 ### The Barrier
 
 Mash through everything. It's a lot of mashing. No need to heal because the cutscene heals you.
 
 ### Asriel Dreemurr
-- Wait for the music to kick in (rainbow effects), then `Hope` every time. 
-- You can buffer the first `Hope` by entering the dialogue and waiting for the music/background transition. 
-- You may want to quickly use a `Dream` before the "fight" actually starts. This is so you have a `Last Dream` for the turn before `Hyper Goner`.
-- Dying too early can cost a lot of time.
-- Try to avoid all of the diamonds during `Hyper Goner` so you'll have a better chance at surviving through the next phase.
+- Wait about 20 seconds for the music to kick in (rainbow effects), then `Hope` to reduce damage. You can buffer the first `Hope` by entering the dialogue and waiting for the music/background transition. 
+- `Hope` to reduce damage and heal `1 HP`. `Dream` doesn't reduce damage but it heals for more, good for the last turn before `Hyper Goner`.
+- Try to avoid all of the diamonds and stay out of the green circle during `Hyper Goner`. Getting hit at any point will reduce you to `1 HP`.
 
 ### Asriel Dreemurr Kai Ni
-- `Struggle` for 4 turns. 
-- If didn't get hit by `Hyper Goner` you will start this phase at `20 HP`. Survivng all four turns will save a significant amount of time.
-- Otherwise, if you got hit by any part of `Hyper Goner` you will be reduced to `1 HP`. Die immediately at the start of the next attack to refill your health and skip part of the attack. Dying at the end of an attack wastes more time.
-- Avoid taking damage during the next two turns, or at least don't die.
-- Die at the start of the fourth turn if you already died on the first turn.
+- If you didn't get hit by `Hyper Goner`: you will start this phase at the health you entered with (ideally `20 HP`).
+- `Struggle` for 4 turns. Surviving all four turns will save a significant amount of time.
+- If you got hit by `Hyper Goner`: immediately die at the start of the first attack to refill your health and skip part of the attack. Dying at the end of an attack wastes more time.
+- Set yourself up to die at the start of the fourth turn if you already died on the first turn.
 
 ###Asriel Dreemurr Phase #3
 - Mash through the dialogue until you can select `SAVE`.
@@ -719,7 +723,7 @@ Mash through everything. It's a lot of mashing. No need to heal because the cuts
 
 `Do not` forgive and `Do not` hug Asriel. It's faster.
 
-Mash a little bit more then walk right and up to the gateway. Select `I'm Ready` and mash through the end. Select `I want to stay with you` and mash just a little more.
+Mash a little bit more then walk right and up to the gateway. Select `I'm Ready` and mash through the end. Select `I want to stay with you` and mash just a little more. The last line of dialogue says `Everyone is waiting for us!`.
 
 #####Time ends on closing the last text box from Toriel.
 
