@@ -26,7 +26,7 @@
 - Rapidly press `Z` and `X` with one hand and `Enter` and `Shift` with the other to advance most dialogue faster. This will be referred to as "mashing" throughout the rest of the guide and will be implied for almost all dialogue.
 - Holding `X / SHIFT` while in battle allows your SOUL to move slower.
 - `SAVE` sparingly. With some practice you should only need to `SAVE` before restarting the game at certain points.
-- Name the Fallen Human a one character name. The name you enter is read out during the game so shorter names are faster.
+- Name the Fallen Human a one character name. In Waterfall the difference between a one character name and a six character name is .4 seconds.
 - The game will need to be closed and reopened multiple times. Pay careful attention of when to close the game to prevent closing it too early. Use windowed mode at certain points to close the game faster.
 - If you have the Steam version: play in offline mode and use an unzipping program to extract the files out of the UNDERTALE.exe. Within the extracted files there is another UNDERTALE.exe. Make a shortcut to it and launch the game from there to reduce load time by up to 2 seconds. OR: you can also purchase a DRM free copy to circumvent Steam completely.
 - Consider investing in the proper hardware to further reduce load times.
@@ -114,6 +114,9 @@
 -----
 
 -----
+
+##### Time begins on selecting `Yes`.
+
 ## Ruins
 
 Enemy | `ACT` | Notes
@@ -127,22 +130,23 @@ Vegetoid | `Flee` |
 Migosp | `Flee` |
 
 
-After selecting `Yes` hold right and move down slightly to avoid hitting the wall, then ride the wall into the next room.
+Hold RIGHT and move down slightly to avoid hitting the wall, then ride the wall into the next room.
 
-### Flowey
+### Your Best Friend
 - Walk up to Flowey and mash through all of the text until the battle starts.
 - Once the battle begins, keep mashing while also moving to the top right corner.
 - It's faster to hit the bullets. Ideally they should hit you before hearing the high note.
-- Move down to the bottom left corner to touch the circle of bullets faster.
+- Hold DOWN and LEFT in the bottom left corner to touch the circle of bullets faster.
+- Hold UP and mash through Toriel's dialogue until you can move.
 
-Follow Toriel through the next several rooms, mashing and moving as fast as you can. Move diagonally and wallhump to press the yellow switches faster.
+Follow Toriel through the next several rooms, mashing and moving as fast as you can. Most of the black door hitboxes are wider than they appear. Wallhump to press the yellow switches and talk to Toriel at the end of the room. Continue into the next room for more of Toriel's dialogue. Move up near Toriel and activate the dummy from as far left as possible.
 
 ### Training Dummy
 -`Talk` to the training dummy, it's the fastest.
 
-`Flee` from the Froggit in the spike bridge room. You need to talk to Toriel before and after the bridge before the next room.
+Mash through Toriel's post fight talk and walk up to the next room. Follow Toriel, `Flee` from the Froggit, and continue to the spike bridge. Talk to Toriel before and after the bridge, then enter the next room.
 
-Talk to Toriel and hold right for the rest of this room until Toriel reappears. Talk to Toriel again and then move right out of the room. Toriel will call several times in the next few rooms, be ready to mash. The answer to the Pie question does not matter.
+Mash through the dialogue at the start and hold RIGHT until you cross the pillar. Talk to Toriel again and then move right out of the room. Toriel will call several times in the next few rooms, be ready to mash. The answer to the Pie question does not matter.
 
 Take one encounter in each of the first three rooms, starting in the room with the `SAVE`. You will need `7 GOLD` by the time you get to the Spider Bakesale to purchase a `Spider Donut`. Froggits and Whimsuns give 2G each, Moldsmals give 1G each.
 
@@ -208,16 +212,14 @@ Lesser Dog | `Flee` |
 Married Dogs | `Stick+Spare` |
 Greater Dog | `Stick+Spare` | Run into the barking dog to end the attack faster.
 
-Walk right to where Sans greets you on the bridge. Enter the cutscene on the top edge to save a little time.
+Walk right to where Sans greets you on the bridge. Enter the cutscene on the top edge to save a little time. Mash through the rest of the cutscene, walk down around the lamp and exit to the right.
 
-Use the `SAVE` to heal to full. 
-- Don't actually save unless you're learning the route.
-- Avoid triggering an encounter: don't walk around needlessly.
+Use the `SAVE` to heal from Toriel. Don't actually save unless you're learning the route. Avoid triggering an encounter in this room: don't walk around needlessly.
 
 Pick up the `Tough Glove` from the `Box` and equip it to get the `Stick`.
 - The `Stick` is effective on all Dog-type enemies, allowing you to `Spare` them the turn after using it.
 
-Continue right into the next room and mash through the dialogue. Expect an encounter near the end of the room and `Flee` from it.
+Continue right into the next room and mash through the dialogue. Expect a Snowdrake near the end of the room and `Flee` from it.
 
 #### Absolutely NO MOVING!!!
 - Use the `Stick` and then `Spare`. 
@@ -227,12 +229,12 @@ Keep moving right and slide on the ice in the next room to avoid getting an enco
 
 ####Invisible Electricity Maze
 - Enter the room holding up and right to move up to the tree before beginning the dialogue.
-- Notice the three groups of dense footprints and walk between them: start out on the top side, cross over to the bottom side, then move down to the top side of the last group and walk right to exit the maze. 
+- Notice the three groups of dense footprints and walk between them: start out on the top side, cross over to the bottom side, then move down to the top side of the last group and walk right to exit the maze. [Guide](http://imgur.com/jqyyFZq)
 
 Walk diagonally up to the small bridge then diagonally down to the exit. Don't get stuck on the snowdecahedron.
 
 #### Hey Kid's!
-- Don't help Ice-E solve the word search.
+- Don't help Ice-E solve the word search. Walk around it and mash through the dialogue.
 - Answering `Jumble` is three dialogue boxes faster than answering `Crossword`.
 
 #### Warning: Dog Marriage
@@ -252,18 +254,17 @@ Move down to the small XO puzzle. Turn the Xs into Os and press the grey button.
 This is one of the hardest glitches to do reliably so get some practice in.
 
 #### Random Colored Block Puzzle
-- Say `No` and `Even less` to the questions to skip the puzzle.
+- Say `No` and `Even less` to the questions to skip the puzzle. Follow the spinning Papyrus.
 
 Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage from Dogi or if you didn't heal earlier. Again, don't actually spend time saving unless you are learning the route.
 
 #### Ice Puzzle
-- The ice sliding puzzle has a [specific strategy](http://imgur.com/imntI5i) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.  
 - Enter the room holding UP and RIGHT, let go of UP once the first two switches are pressed to slide right.
-- Buffer your next input while sliding by holding the direction you want to go.
-- Practice buffering inputs between each slide or it won't work consistently. 
+- The ice sliding puzzle has a [specific strategy](http://imgur.com/imntI5i) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.  
+- Buffer your next input while sliding by holding the direction you want to go. Practice buffering inputs between each slide or it won't work consistently. 
 
 #### Is It Really A Snow Poff?
-- Enter the room holding down and right to avoid getting stuck on the first snow poff.
+- Enter the room holding down and right to avoid getting stuck on the first snow poff and walk over to Greater Dog.
 - Use the `Stick` and then `Spare`. 
 - Hold down during Greater Dog's attack in case it chooses to BARK. You can skip the BARK attack by running into the dog at the bottom. If you hold down it shouldn't have any chance to BARK before you hit it.
 
@@ -424,22 +425,22 @@ Jump back to the center and wait for the arrow to point up, then jump up and con
 - Place the food on the counter. When placing the food: place it more to the left to avoid accidentally talking to Mettaton after, but don't place it too far to the left or you'll select the sink instead.
 - Walk around Mettaton to the right and start the jetpack minigame. Best time is 15 seconds on the dot.
 
-Mash through the rest of the dialogue and continue right until reaching the elevator. Enter the elevator and carefully select `Right Floor 2` (bottom right). Exit the elevator and go left past Sans. Walk along the bottom of the long room to avoid the chain of status updates between Alphys and Papyrus (credit to TGH).  `Flee` from the Pyrope and continue to the bottom room.
+Mash through the rest of the dialogue and continue right until reaching the elevator. Enter the elevator and carefully select `Right Floor 2` (bottom right). Exit the elevator and go left past Sans. Walk along the bottom of the long room to avoid the chain of status updates between Alphys and Papyrus (credit to TGH). `Flee` from the Pyrope and continue to the bottom room.
 
 Mash through the friend request and pick up the `Stained Apron`. Again, DON'T equip it. Go back up and left into the next room.
 
 ### Conveyor Belt Puzzle
 - Walk up to the top conveyor belt and mash through Alphys' first phone call.
-- It's possible to trigger the third button before Alphys can call to interrupt you. Doing this glitches the dialogue, loudly, but opens the forcefield. It can save up to 1 second over dialogue mashing but doing this wrong can also crash the game; BE WARNED. https://youtu.be/ocBtQ76tMJo
+- It's possible to trigger the third button before Alphys can call to interrupt you. Doing this glitches the dialogue, loudly, but opens the forcefield. It can save up to 1 second over dialogue mashing but doing this wrong can also crash the game; [BE WARNED](https://youtu.be/ocBtQ76tMJo).
 - If you miss it or decide not to do it, just mash through the second phone call and enter the next room.
-
-#####Practice This
-- Press `C / CTRL` the frame after you land on the red and white button. Watch the bottom of the steam jet that launches you for a visual cue when it begins to fade. Mashing `C / CTRL` works as well but if you mash in the wrong rhythm it could completely miss. http://webm.host/b71a6/
 
 ### Jumping Puzzle
 - Walk up to the first vent and mash through the status update and phone call. 
 - Go straight across using all of the left arrows. Press `C / CTRL` on the last button and continue to the next room.
 - If you can't do this or fail too many times, the normal solution is: left, down, down, left, up, down, up, up, left.
+
+#####[Practice This](http://webm.host/b71a6/)
+- Press `C / CTRL` the frame after you land on the red and white button. Watch the bottom of the steam jet that launches you for a visual cue when it begins to fade. Mashing `C / CTRL` works as well but if you mash in the wrong rhythm it could completely miss. 
 
 Mash through Alphys' status updates and walk left past the `SAVE`. Keep walking until the royal guards stop you and pull you back. Mash through the dialogue and begin the fight.
 
@@ -454,7 +455,7 @@ Continue around and into the next dark room. Keep walking right and mash through
 - Walk to The Script and choose to report it. It has the fastest dialogue.
 - Start by defusing the bomb in the lower left. Arc around the right side to come back to the middle.
 - Recommended order: Game > Script > Present > Basketbomb > Dog > Glass.
-- You can spam Z+ENTER on the Present and Basketbomb to attack them on the instant the fight starts, which will defuse them.
+- You can spam `Z/Enter` on the Present and Basketbomb to attack them on the instant the fight starts, which will defuse them.
 - The best known time is a 61 upon ending the final bomb.
 
 Walk right and exit the room at the top. Walk left to the elevator and mash through Alphys's next phone call. Enter the elevator and choose `Left Floor 3` (bottom left). Exit the elevator and go right past Muffet's bake sale. Mash through Alphys' phone call and navigate the maze to the bottom room.
@@ -481,9 +482,9 @@ Finish talking to Muffet then go back left and use the `SAVE` to actually save t
 
 #### Musical Puzzle
 - Hold RIGHT and mash through even more dialogue until you can move again.
-- The map is completable - best time is around 10.
-- Route for the maze: http://puu.sh/l8c18/145cbafdcd.png
-- Mash through the pre fight dialogue.
+- The best time to end this maze is 11 seconds. [Route for the maze](http://i.imgur.com/om88n78.png).
+- Remember that you can buffer inputs while sliding.
+- Mash through the pre-fight dialogue.
 
 ### Mettaton Stage Fight
 - `Check/Spare` the first turn.
@@ -513,7 +514,7 @@ From the puzzle: head back right, down, and right to the `SAVE`; use it now if y
 
 ## Mettaton Kai Ni
 - Mash through the dialogue.
-- `Spare` the first turn. DO NOT SHOOT METTATON to skip some extra dialogue.
+- `Spare` the first turn. DO NOT SHOOT METTATON to skip some extra dialogue. The last line is `Killing you myself!`.
 - `Spare` for three more turns and avoid taking any damage to make things easier later.
 - `Check` the last turn (boxes with bomb in middle as last attack) to save time menuing.
 - `Turn` and mash through the rest of the fight.
@@ -521,7 +522,7 @@ From the puzzle: head back right, down, and right to the `SAVE`; use it now if y
 
 ### `OHHHHH YES!`
 
-##### Speechless...? (Essay Skip)
+##### Speechless...? ([Essay Skip](http://www.twitch.tv/pahchi/v/23842021))
 - You need 12k ratings to finish the battle. You start with 4k.
 - Equip the `Faded Ribbon (+1500 > 5500)`.
 - Equip the `Manly Bandanna (+1500 > 7000)`
@@ -530,7 +531,7 @@ From the puzzle: head back right, down, and right to the `SAVE`; use it now if y
 - Equip the `Stained Apron (+1500 > 11500)`. Do this last so you don't have to later.
 - You will need to gain the remaining 500-ish points by shooting obstacles. The legs are worth only +5 rating but can be shot multiple times very quickly while everything else gives +20. The yellow bullet has an object limit of one so shooting closer to an obstacle will let you shoot again faster. 
 - Taking damage gives a violence bonus of +50, +25, +20, +15, and +10 but chances are you won't survive more than three hits.
-- If done right, you won't have to hit the essay at all: http://www.twitch.tv/pahchi/v/23842021
+- If done right, you won't have to hit the essay at all.
 
 ##### Pop Quiz!
 - If you unfortunately get to the essay, type the bare minimum you need to. 
@@ -719,7 +720,7 @@ Mash through everything. It's a lot of mashing. No need to heal because the cuts
 - There's a pre-determined amount of actions for each `SAVE`. So you can use the shortest `ACT` multiple times.
 - When using `SAVE` on multiple Lost Souls at once, be sure to use at least one `ACT` on each or an unskippable dialogue will scroll after.
 - Use the `Pie` while saving Toriel and Asgore, then use a single `ACT` afterward to end the fight.
-- `SAVE` Asriel and mash through to the end of the fight.
+- `SAVE` Asriel and mash through to the end of the fight. After the first `SAVE` it's a set number of turns and the action doesn't matter. You cannot die and having lower HP does not make the final attack go any faster.
 
 `Do not` forgive and `Do not` hug Asriel. It's faster.
 
