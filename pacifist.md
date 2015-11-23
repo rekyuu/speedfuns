@@ -60,11 +60,12 @@
 - Pick up `Old Tutu`
 - Undyne Spears 1
 - Undyne Spears 2
+- Dummy Fight
 - Buy `Cloudy Glasses (30 GOLD)`
 - Undyne Fight
 
 ###Hotland
-- Mettaton Quiz
+- Mettaton Quiz Show
 - Mettaton Cooking Show
 - Pick up `Stained Apron`
 - Mettaton News Report
@@ -76,7 +77,7 @@
 - Mettaton Ex: Fashion Show
 
 ###New Home
-- Pick up `Worn Knife`
+- Pick up `Worn Dagger`
 - Asgore
 
 ###Flowey World
@@ -179,7 +180,7 @@ Cross the vines and go into the top room.
 - Hold up and mash through everything Toriel has to say. Move around the tree.
 - Toriel heals you immediately, so no need to `SAVE`.
 - Enter the house, go right and sleep.
-- Press `Z` and then down to pick up the `Butterscotch Pie` while moving down after getting out of bed.
+- Press `Z` and then down to pick up the `Butterscotch Pie` while moving down after getting out of bed. DON'T EAT IT.
 - Talk to Toriel in her chair. Mash through Toriel's text, listen to the bit on snails first (2 dialogue prompts), and select `How to exit the RUINS` on the third prompt.
 - Walk down to the basement and follow Toriel to the end, mashing along the way.
 
@@ -227,9 +228,9 @@ Continue right into the next room and mash through the dialogue. Expect a Snowdr
 
 Keep moving right and slide on the ice in the next room to avoid getting an encounter.
 
-####Invisible Electricity Maze
+####[Invisible Electricity Maze](http://i.imgur.com/jqyyFZq.png)
 - Enter the room holding up and right to move up to the tree before beginning the dialogue.
-- Notice the three groups of dense footprints and walk between them: start out on the top side, cross over to the bottom side, then move down to the top side of the last group and walk right to exit the maze. [Guide](http://imgur.com/jqyyFZq)
+- Notice the three groups of dense footprints and walk between them: start out on the top side, cross over to the bottom side, then move down to the top side of the last group and walk right to exit the maze. 
 
 Walk diagonally up to the small bridge then diagonally down to the exit. Don't get stuck on the snowdecahedron.
 
@@ -260,7 +261,7 @@ Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage fr
 
 #### Ice Puzzle
 - Enter the room holding UP and RIGHT, let go of UP once the first two switches are pressed to slide right.
-- The ice sliding puzzle has a [specific strategy](http://imgur.com/imntI5i) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.  
+- The ice sliding puzzle has a [specific strategy](http://i.imgur.com/imntI5i.png) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.  
 - Buffer your next input while sliding by holding the direction you want to go. Practice buffering inputs between each slide or it won't work consistently. 
 
 #### Is It Really A Snow Poff?
@@ -327,10 +328,12 @@ Walk along the top of long room so Monster Kid has less distance to travel, then
 
 In the next room talk to Monster Kid as soon as possible. It takes just over 4 seconds from the start of the dialogue before they will offer to lift you up. Stand near them and wait for the next dialogue. Mash through the remaining dialogue once it appears and continue right. `SAVE` to heal only if you absolutely need to.
 
-### Undyne Spears 2: The Reckoning
+### [Undyne Spears 2: The Reckoning](http://i.imgur.com/2tCriVW.png)
 - You can manipulate these spears by moving all the way up or all the way down in a sort of zig-zag pattern. 
 - You can walk through spears when they begin to fade after fully extending. 
 - Keep walking right on the last bridge until the third set of spears fade away then go back left.
+
+
 
 Mash through the cutscene and walk right. Use the `SAVE` to heal if necessary and possibly save the game if you are unsure about the next fight. Walk right and up to face the Mad Dummy. Mash through the dialogue and begin.
 
@@ -373,7 +376,7 @@ There are currently alternate strats for saving time on Undyne. The first requir
 - Walk up as far as you can until Undyne catches you in the second room. Swerving makes her take longer to catch you.
 - Block her attacks normally. `Challenge` her for the first four turns, then `Spare` for the last two. Try not to take damage at least until the last turn as Undyne will slow her next attack if you get hit. 
 - `Flee` when you turn red and walk up to the next room.
-- Move right and stop at the 4th ["bump"](http://imgur.com/o6jgyHa) from the green marquee border. You should be directly under the middle of the 'W' when Undyne catches you. 
+- Move right and stop at the 4th ["bump"](http://i.imgur.com/o6jgyHa.png) from the green marquee border. You should be directly under the middle of the 'W' when Undyne catches you. 
 - `Challenge` for three turns and then `Spare`. Block her attacks until the last turn so doesn't reduce her attack speed. Remember to take enough damage between both fights for the Mettaton Quiz Skip. You want to end the second fight with `1-3 HP`. Arrow attacks do 5 damage, the last spear does 4 damage.
 - `Flee` again when you turn red and hold RIGHT. If done correctly, Undyne won't chase you immediately. Mash through Papyrus' phone call and keep moving right across the bridge to Hotland.
 
@@ -423,7 +426,7 @@ Jump back to the center and wait for the arrow to point up, then jump up and con
 ### Cooking with a Killer Robot
 - Walk into the room near the top to pick up the food faster when the lights turn on. Don't get stuck on the fridge.
 - You can pick up the food from lower than expected, sometimes without even facing up.
-- Place the food on the bottom counter from as far up as possible. With [precise positioning](http://imgur.com/iw4ZAeq), you can place the food on the right edge of the cutting board and be standing far enough up that you don't talk to or get stuck on Mettaton when walking right. If you can't get the alignment consistently just place it more to the left so you don't accidentally talk to Mettaton again afterward.
+- Place the food on the bottom counter from as far up as possible. With [precise positioning](http://i.imgur.com/iw4ZAeq.png), you can place the food on the right edge of the cutting board and be standing far enough up that you don't talk to or get stuck on Mettaton when walking right. If you can't get the alignment consistently just place it more to the left so you don't accidentally talk to Mettaton again afterward.
 - Walk right and enter the jetpack minigame on the top edge; the top edge saves about .2 seconds over the bottom edge. The best time for this minigame is to end with 15 seconds when you lose movement control.
 
 Mash through the rest of the dialogue and continue right until reaching the elevator. Enter the elevator and carefully select `Right Floor 2` (bottom right). Exit the elevator and go left past Sans. Walk along the bottom of the long room to avoid the chain of status updates between Alphys and Papyrus (credit to TGH). `Flee` from the Pyrope and continue to the bottom room.
@@ -593,7 +596,7 @@ Quickly reopen the game and walk up to use the `SAVE`. Mash through all of Flowe
 - Phase 3: All the way to the right to get to the `ACT`. Don't miss it or you won't catch up to it.
 - Phase 4: Above the middle for `ACT`, RNG on whether it appears from the left or right.
 - Phase 5: Middle pan for the `ACT`. You can move above the pan for this. (12 waves)
-- Phase 6: Stay on the pivot point of the revolver and mash Z/Enter to press the `ACT` sooner. It's the third shot of the eigth wave; don't miss it. CLOSE THE GAME when the screen flashes/music changes and the soul in the monitor changes from yellow to aqua (light blue).
+- Phase 6: Stay on the pivot point of the revolver and mash Z/Enter to press the `ACT` sooner. It's the third shot of the eigth wave; don't miss it. CLOSE THE GAME when the screen flashes/music changes and the soul in the monitor changes from yellow to aqua (light blue). This skips the healing cutscene.
 - Reopen the game, mash through a couple lines, and wait for the laugh to end.
 - Phase 7: Don't die. The `FIGHT` button will automatically reappear at a set interval every few seconds. If you wait too long to press it and then press `FIGHT` twice consecutively it won't register the second attack and you will lose the damage.
 - Stand near the edge of Flowey's pellet circle and mash through his dialogue. Touch the pellets as soon as he begins the "attack" and mash through the rest.
@@ -621,7 +624,7 @@ Talk to Papyrus, say `Yes` to the hang out, and mash until you can walk inside.
 - Mash as hard as you can to end the stirring part faster.
 - Hold right to feel the heat. 
 - Mash until the fight begins.
-- `FIGHT` and immediately attack. It's faster than `Fake Hit`.
+- `FIGHT` and immediately strike her. It does 1 damage regardless and it's faster than `Fake Hit`.
 - Mash until Undyne leaves and you have `Undyne's Letter` in your inventory.
 
 #####Split when you regain control after dating Undyne. 
