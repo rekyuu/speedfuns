@@ -274,7 +274,7 @@ Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage fr
 - Take the Underground Tunnel to the other side of town and continue right to Papyrus.
 
 ### Papyrus
-- `Check` Papyrus for 3 turns and run into 5 bones to until you have `1 HP`.
+- `Check` Papyrus for 3 turns and run into 5 bones to until you have `1 HP`. `Flirt` also works, but the date is slower.
 - It is faster to let him capture you by losing the fight three times.
 - Avoid the chew toy and exit the garage. Go back to Papyrus to start the second fight.
 - You start the fight "blue" now. `Spare` Papyrus for 3 turns and run into 5 bones to until you have `1 HP` again.
@@ -359,22 +359,22 @@ Before you trigger Undyne's cutscene...
 
 There are currently alternate strats for saving time on Undyne. The first requires a healing item (`Bisicle (15 GOLD)` prefered, `Astronaut Food` can be a last minute backup) and the second is faster but requires precise positioning. Both take practice.
 
-##### [Kindergarten Strats](https://youtu.be/pRMu_rzQR1A) (Getting hit on the first attack four times)
+##### [Kindergarten](https://youtu.be/pRMu_rzQR1A) (Slower and more dangerous, but less precise.)
 - For this you do not need to perform the warp glitch (above) but it's still a bit faster.
 - Intentionally get hit by at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. 
 - `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Continuing to select `Challenge` beyond this point is SLOWER.
-- `Spare` her for two more turns until she turns you green again. Mash `Spare` until you turn red for the last time, then `Flee`. Remember to take enough damage during the fight for the Mettaton Quiz Skip. Arrow attacks do 5 damage, the last spear does 4 damage.
+- DO NOT `Flee` yet. Instead, `Spare` her for two more turns until she turns you green again. Keep selecting `Spare` until you turn red for the last time, *then* `Flee`. Remember to take enough damage during the fight for the Mettaton Quiz Skip. Arrow attacks do 5 damage, the last spear does 4 damage.
 - If you didn't use the glitch warp: hold UP after the fight. Undyne will catch you again in the second room as well as the third room. `Flee` from both and hold RIGHT in the third room. 
 - Mash through Papyrus' phone call and keep going until you cross the bridge to Hotland. Undyne can catch you again if you don't mash fast enough.
 
-##### [2-Cycle Strats](https://youtu.be/HmG9zoRrEGU) (Stopping in third room)
+##### [2-Cycle](https://youtu.be/HmG9zoRrEGU) (Faster and less dangerous, but more precise.)
 - Skips Undyne's 3rd phase (instead of her 2nd) and saves over 40 seconds from the other method. (Credit to Raikou99...?)
 - Start off with the glitch warp (above) in the first room to get to the second room without fighting. 
 - Walk up as far as you can until Undyne catches you in the second room. Swerving makes her take longer to catch you.
-- Block her attacks normally. `Challenge` her for the first four turns, then `Spare`for the last two. Try not to take damage at least until the last turn as Undyne will slow her next attack if you get hit. 
+- Block her attacks normally. `Challenge` her for the first four turns, then `Spare` for the last two. Try not to take damage at least until the last turn as Undyne will slow her next attack if you get hit. 
 - `Flee` when you turn red and walk up to the next room.
 - Move right and stop at the 4th ["bump"](http://imgur.com/o6jgyHa) from the green marquee border. You should be directly under the middle of the 'W' when Undyne catches you. 
-- `Challenge` for four turns, block until the last turn so she doesn't reduce her attack speed. Remember to take enough damage during both fights for the Mettaton Quiz Skip. You want to end the second fight with `1-3 HP`. Arrow attacks do 5 damage, the last spear does 4 damage.
+- `Challenge` for three turns and then `Spare`. Block her attacks until the last turn so doesn't reduce her attack speed. Remember to take enough damage between both fights for the Mettaton Quiz Skip. You want to end the second fight with `1-3 HP`. Arrow attacks do 5 damage, the last spear does 4 damage.
 - `Flee` again when you turn red and hold RIGHT. If done correctly, Undyne won't chase you immediately. Mash through Papyrus' phone call and keep moving right across the bridge to Hotland.
 
 Hold RIGHT and UP while crossing the bridge to come out on the top edge when Undyne stops you. You can use the water cooler from lower than expected and pour the water on Undyne from higher than expected. Be careful not to press `Z/Enter` on the water cooler after you have the cup or you'll dump out the water and have to do it again. Pour the water on Undyne, wait for her to leave, and walk right to the lab.
@@ -399,7 +399,7 @@ Walk right through the lab and up to the dog food bag so when Alphys comes out o
 
 ### Mettaton Quiz
 - Move up and left to choose `[A] Money`. If you have `1-3 HP` the quiz will skip to the end.
-- If you healed or have too much `HP` just continue to select the wrong answer until you are at `1 HP`
+- If you healed or have too much `HP` just continue to select the wrong answer until you are at `1 HP`. Each wrong answer halves your health. 
 - Choosing `[A] Undyne` for the final answer is the fastest.
 
 Mash through the rest of the dialogue, walk right and up to the bathroom sign. Again, being closer to the top means less travel time for Alphys. Exit the lab through the right and be ready to mash through several status updates. 
@@ -422,8 +422,9 @@ Jump back to the center and wait for the arrow to point up, then jump up and con
 
 ### Cooking with a Killer Robot
 - Walk into the room near the top to pick up the food faster when the lights turn on. Don't get stuck on the fridge.
-- Place the food on the counter. When placing the food: place it more to the left to avoid accidentally talking to Mettaton after, but don't place it too far to the left or you'll select the sink instead.
-- Walk around Mettaton to the right and start the jetpack minigame. Best time is 15 seconds on the dot.
+- You can pick up the food from lower than expected, sometimes without even facing up.
+- Place the food on the bottom counter from as far up as possible. With [precise positioning](http://imgur.com/iw4ZAeq), you can place the food on the right edge of the cutting board and be standing far enough up that you don't talk to or get stuck on Mettaton when walking right. If you can't get the alignment consistently just place it more to the left so you don't accidentally talk to Mettaton again afterward.
+- Walk right and enter the jetpack minigame on the top edge; the top edge saves about .2 seconds over the bottom edge. The best time for this minigame is to end with 15 seconds when you lose movement control.
 
 Mash through the rest of the dialogue and continue right until reaching the elevator. Enter the elevator and carefully select `Right Floor 2` (bottom right). Exit the elevator and go left past Sans. Walk along the bottom of the long room to avoid the chain of status updates between Alphys and Papyrus (credit to TGH). `Flee` from the Pyrope and continue to the bottom room.
 
@@ -437,7 +438,7 @@ Mash through the friend request and pick up the `Stained Apron`. Again, DON'T eq
 ### Jumping Puzzle
 - Walk up to the first vent and mash through the status update and phone call. 
 - Go straight across using all of the left arrows. Press `C / CTRL` on the last button and continue to the next room.
-- If you can't do this or fail too many times, the normal solution is: left, down, down, left, up, down, up, up, left.
+- If you can't do this or fail too many times, the normal solution from the start is: left, down, down, left, up, down, up, up, left.
 
 #####[Practice This](http://webm.host/b71a6/)
 - Press `C / CTRL` the frame after you land on the red and white button. Watch the bottom of the steam jet that launches you for a visual cue when it begins to fade. Mashing `C / CTRL` works as well but if you mash in the wrong rhythm it could completely miss. 
@@ -460,7 +461,7 @@ Continue around and into the next dark room. Keep walking right and mash through
 
 Walk right and exit the room at the top. Walk left to the elevator and mash through Alphys's next phone call. Enter the elevator and choose `Left Floor 3` (bottom left). Exit the elevator and go right past Muffet's bake sale. Mash through Alphys' phone call and navigate the maze to the bottom room.
 
-Walk down to the lower conveyor belt and move across it, dodge the first laser by holding left or pressing `C / CTRL`. Get hit by the second laser and use the iframes to pass the third laser, it's faster. Move up, carefully say `...no...` to watching anime with Alphys and enter the door.
+Walk down to the lower conveyor belt and move across it, dodge the first laser by holding left or pressing `C / CTRL`. Get hit by the second laser encounter and use the iframes to pass the third laser, it's faster. Move up, carefully say `...no...` to watching anime with Alphys and enter the door.
 
 ### Slide Puzzle 3 (Down)
 Left, Up, Left, Left, Right, Fire
@@ -706,13 +707,13 @@ Mash through everything. It's a lot of mashing. No need to heal because the cuts
 ### Asriel Dreemurr
 - Wait about 20 seconds for the music to kick in (rainbow effects), then `Hope` to reduce damage. You can buffer the first `Hope` by entering the dialogue and waiting for the music/background transition. 
 - `Hope` to reduce damage and heal `1 HP`. `Dream` doesn't reduce damage but it heals for more, good for the last turn before `Hyper Goner`.
-- Try to avoid all of the diamonds and stay out of the green circle during `Hyper Goner`. Getting hit at any point will reduce you to `1 HP`.
+- During `Hyper Goner`: Stay out of the green circle in the center and avoid all of the diamonds. Getting hit at any point will reduce you to `1 HP`.
 
 ### Asriel Dreemurr Kai Ni
-- If you didn't get hit by `Hyper Goner`: you will start this phase at the health you entered with (ideally `20 HP`).
+- If you didn't get hit during `Hyper Goner`: you will start this phase at the health you entered with (ideally `20 HP`).
 - `Struggle` for 4 turns. Surviving all four turns will save a significant amount of time.
-- If you got hit by `Hyper Goner`: immediately die at the start of the first attack to refill your health and skip part of the attack. Dying at the end of an attack wastes more time.
-- Set yourself up to die at the start of the fourth turn if you already died on the first turn.
+- If you got hit during `Hyper Goner`: immediately die at the start of the first attack to refill your health and skip part of the attack animation. Dying at the end of an attack wastes more time.
+- If you died on the first attack: Set yourself up to die again at the beginning of the fourth attack to skip the attack animation and some of the dialogue.
 
 ###Asriel Dreemurr Phase #3
 - Mash through the dialogue until you can select `SAVE`.
@@ -720,11 +721,11 @@ Mash through everything. It's a lot of mashing. No need to heal because the cuts
 - There's a pre-determined amount of actions for each `SAVE`. So you can use the shortest `ACT` multiple times.
 - When using `SAVE` on multiple Lost Souls at once, be sure to use at least one `ACT` on each or an unskippable dialogue will scroll after.
 - Use the `Pie` while saving Toriel and Asgore, then use a single `ACT` afterward to end the fight.
-- `SAVE` Asriel and mash through to the end of the fight. After the first `SAVE` it's a set number of turns and the action doesn't matter. You cannot die and having lower HP does not make the final attack go any faster.
+- `SAVE` Asriel and mash through to the end of the fight. After using `SAVE` once the subsequent actions don't matter; it's a set number of turns until the end. You cannot die and having lower HP does not make the final attack go any faster.
 
 `Do not` forgive and `Do not` hug Asriel. It's faster.
 
-Mash a little bit more then walk right and up to the gateway. Select `I'm Ready` and mash through the end. Select `I want to stay with you` and mash just a little more. The last line of dialogue says `Everyone is waiting for us!`.
+Mash a little bit more then walk right and up to the gateway. Select `I'm Ready` and mash through the end. Select `I want to stay with you` and mash just a little more. Toriel's last line of dialogue is: `Everyone is waiting for us!`.
 
 #####Time ends on closing the last text box from Toriel.
 
