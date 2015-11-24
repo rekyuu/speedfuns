@@ -328,7 +328,8 @@ Walk along the top of long room so Monster Kid has less distance to travel, then
 
 In the next room talk to Monster Kid as soon as possible. It takes just over 4 seconds from the start of the dialogue before they will offer to lift you up. Stand near them and wait for the next dialogue. Mash through the remaining dialogue once it appears and continue right. `SAVE` to heal only if you absolutely need to.
 
-### [Undyne Spears 2: The Reckoning](http://i.imgur.com/2tCriVW.png)
+###Undyne Spears 2: The Reckoning
+- [Navigate the bridge](http://i.imgur.com/2tCriVW.png) and avoid getting hit.
 - You can manipulate these spears by moving all the way up or all the way down in a sort of zig-zag pattern. 
 - You can walk through spears when they begin to fade after fully extending. 
 - Keep walking right on the last bridge until the third set of spears fade away then go back left.
@@ -570,7 +571,9 @@ Go left to the kitchen for the first key then right to the hallway for the secon
 - Once you see the first bit of dialogue start mashing and don't stop.
 - Hold RIGHT and walk up through the next few rooms until Asgore.
 
-Mash through all of Asgore's disjointed dialogue and follow him up to the last `SAVE`. Save the game here walk into the barrier room. Select `Continue` and begin the fight.
+Mash through all of Asgore's disjointed dialogue and `SAVE` in the Throne Room instead of The End (Credit to Essentia). This will save up to a combined 3.5 seconds between the three times you pass through the Throne Room. 
+
+Enter the next room and follow Asgore right while mashing two more times. Ignore the `SAVE` and go up to the barrier. Select `Continue` and begin the fight.
 
 ### Asgore
 - Mash through his speech as he shatters your `MERCY`.
