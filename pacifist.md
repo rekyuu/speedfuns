@@ -590,17 +590,18 @@ Enter the next room and follow Asgore right while mashing two more times. Ignore
 -----
 ## My World
 
-Quickly reopen the game and walk up to use the `SAVE`. Mash through all of Flowey's dialogue and begin the fight.
+Quickly reopen the game, select `Continue`, and walk up to use the `SAVE`. Mash through all of Flowey's dialogue and begin the fight.
 
 ### Omega Flowey
+- All of Flowey's attacks do 25% of your current health. On the 14th hit your health is approximately .356 and gets rounded down to 0. Each healing item seems to give 5 extra hits, regardless of what the bar shows.
 - It's not possible to die during soul phases, brave the damage to hit each `ACT` faster.
-- Phase 1: Knives go the direction `ACT` will be. Head to the top left/right.
-- Phase 2: Top left of the room for the `ACT` during the gloves.
-- Phase 3: All the way to the right to get to the `ACT`. Don't miss it or you won't catch up to it.
-- Phase 4: Above the middle for `ACT`, RNG on whether it appears from the left or right.
-- Phase 5: Middle pan for the `ACT`. You can move above the pan for this. (12 waves)
-- Phase 6: Stay on the pivot point of the revolver and mash Z/Enter to press the `ACT` sooner. It's the third shot of the eigth wave; don't miss it. CLOSE THE GAME when the screen flashes/music changes and the soul in the monitor changes from yellow to aqua (light blue). This skips the healing cutscene.
-- Reopen the game, mash through a couple lines, and wait for the laugh to end.
+- Phase 1 (Toy Knife): Knives go the direction `ACT` will be. Head to the top left/right.
+- Phase 2 (Tough Glove): Top left of the room for the `ACT` during the gloves.
+- Phase 3 (Ballet Shoes): All the way to the right to get to the `ACT`. Don't miss it or you won't catch up to it.
+- Phase 4 (Torn Notebook): Above the middle for `ACT`, RNG on whether it appears from the left or right.
+- Phase 5 (Burnt Pan): Middle pan for the `ACT`. You can move above the pan for this. (12 waves)
+- Phase 6 (Empty Gun): Immediately move to either of the bottom corners and wait there. This should lock the rotation of the gun and make it fire much faster, saving up to 4.5 seconds (Credit to Mylexsi). Wait for around the 7th wave and start moving towards the gun to press the `ACT` as soon as possible. 
+- Wait for the "heart" in the monitor to change from yellow to aqua (light blue) and the "Saved" music to start, then immediately CLOSE THE GAME. Reopen the game, advance through Flowey's text, and wait for his laugh to end. This skips the two healing cutscenes and saves up to 12 seconds, depending on load time.
 - Phase 7: Don't die. The `FIGHT` button will automatically reappear at a set interval every few seconds. If you wait too long to press it and then press `FIGHT` twice consecutively it won't register the second attack and you will lose the damage.
 - Stand near the edge of Flowey's pellet circle and mash through his dialogue. Touch the pellets as soon as he begins the "attack" and mash through the rest.
 
@@ -704,15 +705,15 @@ Enter the door at the end and insert the BLUE key. Walk out of the room and back
 -----
 ##New Home Revisited
 
-Walk right from the now vine-covered door and up to the elevator on the left. Go down through the Last Corridor one more time and back up to Asgore. Don't bother with the `SAVE` now.
+Walk right from the now vine-covered door and up to the elevator on the left. Go down through the Last Corridor one more time and back up to Asgore. Because you saved in the Throne Room previously Asgore will repeat his dialogue at The End, but it's very quick. Ignore the `SAVE`, your health will be refilled soon.
 
 ### The Barrier
 
-Mash through everything. It's a lot of mashing. No need to heal because the cutscene heals you.
+Mash through everything. It's a lot of mashing. You cannot die during the cutscene.
 
 ### Asriel Dreemurr
 - Wait about 20 seconds for the music to kick in (rainbow effects), then `Hope` to reduce damage. You can buffer the first `Hope` by entering the dialogue and waiting for the music/background transition. 
-- `Hope` to reduce damage and heal `1 HP`. `Dream` doesn't reduce damage but it heals for more, good for the last turn before `Hyper Goner`.
+- `Hope` to reduce damage and heal `1 HP`. `Dream` doesn't reduce damage but it heals for more and adds `Last Dream` to your inventory; good for the last turn before `Hyper Goner`.
 - During `Hyper Goner`: Stay out of the green circle in the center and avoid all of the diamonds. Getting hit at any point will reduce you to `1 HP`.
 
 ### Asriel Dreemurr Kai Ni
