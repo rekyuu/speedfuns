@@ -257,7 +257,7 @@ Move down to the small XO puzzle. Turn the Xs into Os and press the grey button.
 This is one of the hardest glitches to do reliably so get some practice in.
 
 #### Random Colored Block Puzzle
-- Say `No` and `Even less` to the questions to skip the puzzle. Follow the spinning Papyrus.
+- Say `No` and `Even less` to the questions to skip the puzzle. Follow Papyrus right.
 
 Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage from Dogi or if you didn't heal earlier. Again, don't actually spend time saving unless you are learning the route.
 
@@ -414,6 +414,8 @@ Hold UP on the left conveyor belt to go faster, `Flee` from the Vulkin, mash thr
 
 Use this `SAVE` to heal to full but don't save yet. Walk right and `Flee` from the Tsunderplane. Take the vents right, up, and left. Mash through the status updates and phone call then exit the room.
 
+> Alternate Route: Take the vents right, up, right and then go down into the lower room. Jump to the left, pick up the `Burnt Pan`, equip it, and drop the `Tough Glove`. Use this to kill Asgore instead of the `Worn Dagger`. Exit this room and take the vents back to the laser room as normal.
+
 Walk along the bottom row at the start of this room to avoid Alphys' phone call explaining laser movement. This saves around 2.50 seconds (credit to Wolfiexe). Keep walking right and dodge the lasers, don't bother pressing the button to turn them off and continue to the next room.
 
 Mash through Alphys' dialogue and wait for the arrow to point right or left, whichever comes first. Jump to the first puzzle room, mash through either the call or the status update and then go back do the remaining puzzle.
@@ -562,13 +564,19 @@ Be ready for several story encounters once inside the house. Mashing DOES NOT sp
 
 Go left to the kitchen for the first key then right to the hallway for the second key. Enter the children's room and open the present on the left to pick up the `Worn Dagger`. Equip the `Stained Apron` if you mismenued in the Mettaton fashion show and drop a piece of armor or consume the bandage. Exit the bedroom and unlock the way to the basement stairs. Continue right on the long road until the story encounters stop and enter the Last Corridor.
 
+> Alternate Route: Don't enter the children's bed room for the `Worn Dagger`. 
+
+###Judgement
+
+There are alternate methods for this room. The first is what most players should use, it is more convenient and faster in most cases. The second has potential now that load times of 2 seconds are possible, but it has more room for error.
+
 #####If you do not have a load time of less than 3 seconds: (No Reset)
 - Do not use the `SAVE` and continue right to Sans. 
 - Wait for the bells and mash through the all of the dialogue. Only `Z / Enter` will work for the first part, then mash normally once Sans begins talking.
 - Hold RIGHT and walk up through the next few rooms until Asgore.
 
 #####If you have a load time of less than 3 seconds: (Reset)
-- *This barely saves time and is heavily hardware reliant.*
+- *This barely saves time and is heavily hardware/input reliant.*
 - `SAVE` the game before Judgement.
 - Once you see the first bit of dialogue start mashing and don't stop.
 - Hold RIGHT and walk up through the next few rooms until Asgore.
@@ -579,11 +587,13 @@ Enter the next room and follow Asgore right while mashing two more times. Ignore
 
 ### Asgore
 - Mash through his speech as he shatters your `MERCY`.
-- Eat the `Butterscotch Pie` on your first turn to lower his defense and attack by about 5. You'll inflict around 10 more damage. Alternatively, you can spend the first three turns using `Talk` as it lowers his attack and defense by twice as much allowing you to end the fight in the same amount of turns. If you really want to play it safe, `Talk` for three turns AND use the `Butterscotch Pie` to lower his stats even more, heal, and still end the fight in the same amount of turns.
+- Eat the `Butterscotch Pie` on your first turn to lower his defense by 5 (inflicting around 10 more damage). Alternatively, you can spend the first three turns using `Talk` to lower his defense by 10 (inflicting around 20 more damage), allowing you to end the fight in the same amount of turns. If you really want to play it safe, `Talk` for three turns AND use the `Butterscotch Pie` to lower his defense by 15 (inflicting around 30 more damage), heal, and still end the fight in the same amount of turns.
 - Asgore won't kill you if you have more than `1 HP` when you take damage. Use the `Stained Apron` to your advantage.
 - Reminder that blue is stand still, orange is move.
-- The game will start scaling your damage on the 21st turn. Ideally the fight should end by the 23rd turn.
-- `FIGHT` Asgore after the fight, as it is faster. Let Flowey close the game and be ready to reopen it.
+- The game will start scaling your damage on the 21st turn. Ideally the fight should end by the 23rd turn with the `Worn Dagger`.
+- `FIGHT` Asgore at the choice; it's faster. Let Flowey close the game and be ready to reopen it.
+
+> Alternate Route:  With just the `Butterscotch Pie` and good accuracy, [the `Burnt Pan` can end this fight by the 16th turn](https://www.youtube.com/watch?v=14hHrL5ULgQ).
 
 #####Split when you select `FIGHT`. 
 
@@ -602,8 +612,8 @@ Quickly reopen the game, select `Continue`, and walk up to use the `SAVE`. Mash 
 - Phase 3 (Ballet Shoes): All the way to the right to get to the `ACT`. Don't miss it or you won't catch up to it.
 - Phase 4 (Torn Notebook): Above the middle for `ACT`, RNG on whether it appears from the left or right.
 - Phase 5 (Burnt Pan): Middle pan for the `ACT`. You can move above the pan for this. (12 waves)
-- Phase 6 (Empty Gun): Immediately move to either of the bottom corners and wait there. This should lock the rotation of the gun and make it fire much faster, saving up to 4.5 seconds (Credit to Mylexsi). Wait for around the 7th wave and start moving towards the gun to press the `ACT` as soon as possible. 
-- Wait for the "heart" in the monitor to change from yellow to aqua (light blue) and the "Saved" music to start, then immediately CLOSE THE GAME. Reopen the game, advance through Flowey's text, and wait for his laugh to end. This skips the two healing cutscenes and saves up to 12 seconds, depending on load time.
+- Phase 6 (Empty Gun): Immediately move to either of the bottom corners (you need to be directly in the corner, not just near it) and wait there. This should lock the rotation of the gun and make it fire much faster, saving up to 4.5 seconds (Credit to Mylexsi). Wait until around the 7th wave and start moving towards the gun to press the `ACT` as soon as possible. 
+- Wait for the screen to flash white (YELLOW heart in the monitor changes to AQUA) and the "Saved" music to start, then immediately CLOSE THE GAME. Reopen the game, advance through Flowey's text, and wait for his laugh to end. This skips the two healing cutscenes and saves up to 12 seconds, depending on load time.
 - Phase 7: Don't die. The `FIGHT` button will automatically reappear at a set interval every few seconds. If you wait too long to press it and then press `FIGHT` twice consecutively it won't register the second attack and you will lose the damage.
 - Stand near the edge of Flowey's pellet circle and mash through his dialogue. Touch the pellets as soon as he begins the "attack" and mash through the rest.
 
@@ -734,7 +744,7 @@ Mash through everything. It's a lot of mashing. You cannot die during the cutsce
 
 `Do not` forgive and `Do not` hug Asriel. It's faster.
 
-Mash a little bit more then walk right and up to the gateway. Select `I'm Ready` and mash through the end. Select `I want to stay with you` and mash just a little more. Toriel's last line of dialogue is: `Everyone is waiting for us!`.
+Mash a little bit more then walk right and up to the gateway. Select `I'm Ready` and mash through the end. Select `I want to stay with you` (it's faster) and mash just a little more. Toriel's last line of dialogue is: `Everyone is waiting for us!`.
 
 #####Time ends on closing the last text box from Toriel.
 
