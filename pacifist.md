@@ -18,17 +18,16 @@
 
 ### Tricks and Info
 - Game Maker executables run in "Room Speed" which is Game Maker's limit to the number of "Steps" that should happen per second in a given "Room". A "Step" in Game Maker is the interval at which code is executed. Most or all of the rooms in this game seem to be at the default (30 Steps per second). The real time FPS and the Room Speed may desync occasionally, causing slight variations in events.
-- "Random" encounters are tracked by the number of steps taken in a "Room". There is a small variance: possibly due to inconsistent frame rate/room speed, possibly intentional, or both.  
+- "Random" encounters are tracked by the number of steps taken in a "Room". Each room has a base number of steps in addition to a random variance. Changing rooms resets the step counter. Staying in the same room after an encounter effectively doubles the time until the next encounter. Some rooms, generally large puzzle rooms, have a longer predetermined time for encounters. 
 - In this route most encounters are set in a predetermined order. You can delay encounters by pressing `C / CTRL` on the same frame as moving, but it has no practical uses yet.
-- It is possible to fail to `Flee` from monsters, although it is very rare. The reason is not yet known, however, it's commonly thought to be timing based.
+- It is occasionally possible to fail to `Flee` from monsters, although it is very rare. The reason is not yet known, however, it's commonly thought to be timing based.
 - Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down. The game was coded in a way that allows bidirectional override: otherwise referred to as "wallhumping". This is a convenient way to increment the step tracker quickly but it will only increment once per "Step", regardless of how many directions are held.
 - Moving in a direction and then switching windows will allow you to move in place, incrementing the step tracker at the same rate as the "Room Speed". Press all of the directions at once to cancel the movement afterward.
-- Changing rooms resets the step counter. Staying in the same room after an encounter effectively doubles the time until the next encounter. Some rooms, generally large puzzle rooms, have a longer predetermined time for encounters.
 - Rapidly press `Z` and `X` with one hand and `Enter` and `Shift` with the other to advance most dialogue faster. This will be referred to as "mashing" throughout the rest of the guide and will be implied for almost all dialogue.
 - Holding `X / SHIFT` while in battle allows your SOUL to move slower.
 - `SAVE` sparingly. With some practice you should only need to `SAVE` before restarting the game at certain points.
 - Name the Fallen Human a one character name. In Waterfall the difference between a one character name and a six character name is .4 seconds.
-- The game will need to be closed and reopened multiple times. Pay careful attention of when to close the game to prevent closing it too early. Use windowed mode at certain points to close the game faster.
+- The game will need to be closed and reopened multiple times. Pay careful attention of when to close the game to prevent closing it too early or too late. Use windowed mode at certain points to close the game faster.
 - Making a shortcut to your `C:\Users\<user>\AppData\Local\UNDERTALE` is highly recommended. Making copies of your game files can be useful for practicing parts of the game.
 - If you have the Steam version: locate the executable at `Steam\steamapps\common\Undertale\UNDERTALE.exe` and use an unzipping program to extract the contents into a folder on your desktop. Go to that folder and delete the file named `steam_api.dll`. While in that folder, locate the file named `UNDERTALE.exe` and make a shortcut to it on your desktop. Launch the game from there to remove Steam interference and reduce load times significantly. OR: you can also purchase a DRM-free copy to circumvent Steam completely.
 - Consider investing in the proper hardware to further reduce load times.
