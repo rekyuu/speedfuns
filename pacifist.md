@@ -6,7 +6,7 @@
 
 ### Records
 - Record your playthrough in an unedited video format or stream it and submit the VOD(s) to [speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1).
-- As of writing, WR time is 1:52:07 by TGH.
+- As of writing, WR time is 1:51:46 by TGH.
 
 
 ### Route Rules
@@ -50,10 +50,10 @@
 ###Snowdin
 - Pick up `Tough Glove`
 - Get the `Stick`
-- Doggo
+- Doggo Fight
 - Lesser Dog
-- Dogamy & Dogaressa
-- Greater Dog
+- Dogamy & Dogaressa Fight
+- Greater Dog Fight
 - Buy `Manly Bandanna (50 GOLD)`
 - Papyrus Fight
 - Papyrus Date
@@ -68,19 +68,22 @@
 
 ###Hotland
 - Mettaton Quiz Show
+- Pick up `Burnt Pan`
 - Mettaton Cooking Show
 - Pick up `Stained Apron`
 - Mettaton News Report
-- Muffet
+- Muffet Fight
 - Mettaton Opera
 - Mettaton Colored Puzzle
 
 ###Core
+- Sages Path
 - Mettaton Ex: Fashion Show
 
 ###New Home
-- Pick up `Worn Dagger`
-- Asgore
+- Under Tale
+- Judgement
+- Asgore Fight
 
 ###Flowey World
 - Omega "Photoshop" Flowey
@@ -408,13 +411,16 @@ Walk right through the lab and up to the dog food bag so when Alphys comes out o
 - If you healed or have too much `HP` just continue to select the wrong answer until you are at `1 HP`. Each wrong answer halves your health. 
 - Choosing `[A] Undyne` for the final answer is the fastest.
 
-Mash through the rest of the dialogue, walk right and up to the bathroom sign. Again, being closer to the top means less travel time for Alphys. Exit the lab through the right and be ready to mash through several status updates. 
+Mash through the rest of the dialogue, walk right and up to the bathroom sign. 
+
+#####[Practice This](https://youtu.be/bXgl6Ku4wLk?t=627)
+- Repeatedly check the sign while moving right until you reach the trigger for Alphys' next dialogue. If done correctly, you will still be in the bathroom sign text box and be able to move right once you close it (Credit to Omgwthdude). Reinitializing the trigger will crash the game.
+
+Exit the lab through the right and be ready to mash through several status updates. 
 
 Hold UP on the left conveyor belt to go faster, `Flee` from the Vulkin, mash through the status update. On the second conveyor belt swerve while holding UP to move faster and enter the next room.
 
-Use this `SAVE` to heal to full but don't save yet. Walk right and `Flee` from the Tsunderplane. Take the vents right, up, and left. Mash through the status updates and phone call then exit the room.
-
-> Alternate Route: Take the vents right, up, right and then go down into the lower room. Jump to the left, pick up the `Burnt Pan`, equip it, and drop the `Tough Glove`. Use this to kill Asgore instead of the `Worn Dagger`. Exit this room and take the vents back to the laser room as normal.
+Use this `SAVE` to heal to full but don't save yet. Walk right and `Flee` from the Tsunderplane. Take the vents right, up, right and then go down into the lower room. Jump to the left, pick up the `Burnt Pan`, equip it, and drop the `Tough Glove`. Use this to kill Asgore instead of the `Worn Dagger`. Exit this room and take the vents left, up, up, and left. Mash through Alphys's messages and continue into the laser room as normal.
 
 Walk along the bottom row at the start of this room to avoid Alphys' phone call explaining laser movement. This saves around 2.50 seconds (credit to Wolfiexe). Keep walking right and dodge the lasers, don't bother pressing the button to turn them off and continue to the next room.
 
@@ -560,11 +566,9 @@ Walk around Mettaton's torso to the next room. Start walking down the hall and m
 ## New Home
 Exit the elevator and follow the long road to the King's home. You don't need to `SAVE` at any of the points along the way.
 
-Be ready for several story encounters once inside the house. Mashing DOES NOT speed up the text BUT you will need to press `Z / Enter` at the end of each encounter. You will also need to advance through some dramatic pauses for: the 2x Loox encounter, the Knight Knight+Madjick encounter, and the Moldsmal+Loox+Migosp encounter.
+Be ready for several story encounters once inside the house. Mashing DOES NOT speed up the text BUT you will need to press `Z / Enter` at the end of each encounter. You will also need to advance through additional speech bubbles for: the 2x Loox encounter, the Knight Knight+Madjick encounter, and the Moldsmal+Loox+Migosp encounter.
 
-Go left to the kitchen for the first key then right to the hallway for the second key. Enter the children's room and open the present on the left to pick up the `Worn Dagger`. Equip the `Stained Apron` if you mismenued in the Mettaton fashion show and drop a piece of armor or consume the bandage. Exit the bedroom and unlock the way to the basement stairs. Continue right on the long road until the story encounters stop and enter the Last Corridor.
-
-> Alternate Route: Don't enter the children's bed room for the `Worn Dagger`. 
+Go left and up to the kitchen for the first key then back right to the hallway for the second key. Skip the bedroom and go back to the stairs. Unlock the gate and enter the basement. Continue right on the long road until the story encounters stop and enter the Last Corridor.
 
 ###Judgement
 
@@ -587,13 +591,14 @@ Enter the next room and follow Asgore right while mashing two more times. Ignore
 
 ### Asgore
 - Mash through his speech as he shatters your `MERCY`.
-- Eat the `Butterscotch Pie` on your first turn to lower his defense by 5 (inflicting around 10 more damage). Alternatively, you can spend the first three turns using `Talk` to lower his defense by 10 (inflicting around 20 more damage), allowing you to end the fight in the same amount of turns. If you really want to play it safe, `Talk` for three turns AND use the `Butterscotch Pie` to lower his defense by 15 (inflicting around 30 more damage), heal, and still end the fight in the same amount of turns.
+- Eat the `Butterscotch Pie` on your first turn to lower his defense by 5. Alternatively, you can spend the first three turns using `Talk` to lower his defense by 10, allowing you to end the fight in the same amount of turns. If you really want to play it safe, `Talk` for three turns AND use the `Butterscotch Pie` to lower his defense by 15, heal to full, and still end the fight in the same amount of turns.
 - Asgore won't kill you if you have more than `1 HP` when you take damage. Use the `Stained Apron` to your advantage.
 - Reminder that blue is stand still, orange is move.
-- The game will start scaling your damage on the 21st turn. Ideally the fight should end by the 23rd turn with the `Worn Dagger`.
-- `FIGHT` Asgore at the choice; it's faster. Let Flowey close the game and be ready to reopen it.
+- Asgore will go down on the turn his health reaches 500. IE: If Asgore has 700 health and you do 200 damage, the fight will end on that turn. The game will start scaling your damage on the 21st turn.
 
-> Alternate Route:  With just the `Butterscotch Pie` and good accuracy, [the `Burnt Pan` can end this fight by the 16th turn](https://www.youtube.com/watch?v=14hHrL5ULgQ).
+#####[Practice This](https://www.youtube.com/watch?v=14hHrL5ULgQ)
+- With just the `Butterscotch Pie` and good accuracy, the `Burnt Pan` can end this fight by the 16th turn (Credit to Mylexsi).
+- `FIGHT` Asgore at the choice; it's faster. Let Flowey close the game and be ready to reopen it.
 
 #####Split when you select `FIGHT`. 
 
@@ -619,12 +624,12 @@ Quickly reopen the game, select `Continue`, and walk up to use the `SAVE`. Mash 
 
 Move to the left after the screen fades to black to position yourself over the `FIGHT` button and press it as soon as it becomes visible. Once Flowey says `I` immediately CLOSE THE GAME. Reopen it and walk around Flowey to the gateway. Enter the gateway and the instant you see `UNDERTALE` you can CLOSE THE GAME again to skip the credits. 
 
-Reopen the game for the last time and you'll be back at the `SAVE` in the last hallway. Walk down through the Last Corridor and take the elevator on the right to skip to the beginning of New Home. Take the Core elevator down and walk past Mettaton's arena. Take the elevator on the right and walk down again through the hotel. Keep going down until you see the royal guards then go right to the Hotlands elevator. Enter it and select `Left Floor 1`. Walk down around the `SAVE` and take the boat.
-
 -----
 
 -----
 ## Dating Start...?
+
+Reopen the game for the last time and you'll be back at the `SAVE` in the Throne Room. Walk down through the Last Corridor and take the elevator on the right to skip to the beginning of New Home. Take the Core elevator down and walk past Mettaton's stage. Take the elevator on the right and walk down again through the hotel. Keep going down until you see the royal guards then go right to the Hotlands elevator. Enter it and select `Left Floor 1`. Walk down around the `SAVE` and take the boat.
 
 Carefully select `Waterfall` and mash through and dialogue along the trip. Be sure not to mash too much and talk to the ferryperson again. Walk up from the boat, left, and then up into the last room on the left. 
 
@@ -637,7 +642,7 @@ Talk to Papyrus, say `Yes` to the hang out, and mash until you can walk inside.
 - Quickly sit on the chair to progress the date. Mash until you can move again.
 - Select the tea when prompted (furthest right). 
 - Mash through everything else, the answers don't matter.
-- Mash as hard as you can to end the stirring part faster.
+- Mash hard to end the stirring part faster.
 - Hold right to feel the heat. 
 - Mash until the fight begins.
 - `FIGHT` and immediately strike her. It does 1 damage regardless and it's faster than `Fake Hit`.
@@ -708,7 +713,7 @@ Leave the BLUE key for now and go into the room to activate the GREEN switch. Ex
 - Move to the bottom right corner during the floating heads attack so they can't hit you.
 - `Spare` it.
 
-Enter the door at the end and insert the BLUE key. Walk out of the room and back to the main room with the locked door. Open the door to the elevator and go left to the generator room. Activate the generator and mash through the dialogue. Walk dwon and right to the elevator and mash through more dialogue as you ride the elevator back to New Home.
+Enter the door at the end and insert the BLUE key. Walk out of the room and back to the main room with the locked door. Open the door to the elevator and go left to the generator room. Activate the generator and mash through the dialogue. Walk down and right to the elevator and mash through more dialogue as you ride the elevator back to New Home.
 
 #####Split when the elevator doors close. 
 
