@@ -6,7 +6,7 @@
 
 ### Records
 - Record your playthrough in an unedited video format or stream it and submit the VOD(s) to [speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1).
-- As of writing, WR time is 1:51:46 by TGH.
+- As of writing, WR time is 1:50:05 by TGH.
 
 
 ### Route Rules
@@ -147,7 +147,7 @@ Hold RIGHT and move down slightly to avoid hitting the wall, then ride the wall 
 Follow Toriel through the next several rooms, mashing and moving as fast as you can. Most of the black door hitboxes are wider than they appear. Wallhump to press the yellow switches and talk to Toriel at the end of the room. Continue into the next room for more of Toriel's dialogue. Move up near Toriel and activate the dummy from as far left as possible.
 
 ### Training Dummy
--`Talk` to the training dummy, it's the fastest.
+- `Talk` to the training dummy, it's the fastest.
 
 Mash through Toriel's post fight talk and walk up to the next room. Follow Toriel, `Flee` from the Froggit, and continue to the spike bridge. Talk to Toriel before and after the bridge, then enter the next room.
 
@@ -161,10 +161,10 @@ Navigate the pitfall room by not walking on the leaves.
 
 In the room with the three rocks, walk into the right side of the bottom rock and talk to it until it moves to the switch. Reset the spikes and move back to the right side of the rock; if lucky, you can force an encounter AND also talk to the rock before the `FIGHT` begins. 
 
-Do the minimum you need to for the remaining Gold you need and move into the next room.
+Do the minimum you need to for the remaining Gold and move into the next room.
 
 ### Here Comes Napstablook.
--`Cheer` three times and then `Flirt` or `Cheer` again.
+- `Cheer` three times and then `Flirt` or `Cheer` again.
 
 Go into the right room and buy a `Spider Donut` from the leftmost web. DO NOT EAT IT.
 
@@ -371,7 +371,7 @@ There are currently alternate strats for saving time on Undyne. The first requir
 - For this you do not need to perform the warp glitch (above) but it's still a bit faster.
 - Intentionally get hit by at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. 
 - `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even SLOWER than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you used `Challenge`. Continuing to select `Challenge` beyond this point is SLOWER.
-- DO NOT `Flee` yet. Instead, `Spare` her for two more turns until she turns you green again. Keep selecting `Spare` until you turn red for the last time, *then* `Flee`. Remember to take enough damage during the fight for the Mettaton Quiz Skip. Arrow attacks do 5 damage, the last spear does 4 damage.
+- DO NOT `Flee` yet. Instead, `Spare` her for two more turns until she turns you green again. Keep selecting `Spare` until you turn red for the last time, *then* `Flee`. ~~Remember to take enough damage during the fight for the Mettaton Quiz Skip. Arrow attacks do 5 damage, the last spear does 4 damage.~~
 - If you didn't use the glitch warp: hold UP after the fight. Undyne will catch you again in the second room as well as the third room. `Flee` from both and hold RIGHT in the third room. 
 - Mash through Papyrus' phone call and keep going until you cross the bridge to Hotland. Undyne can catch you again if you don't mash fast enough.
 
@@ -382,10 +382,10 @@ There are currently alternate strats for saving time on Undyne. The first requir
 - Block her attacks normally. `Challenge` her for the first four turns, then `Spare` for the last two. Try not to take damage at least until the last turn as Undyne will slow her next attack if you get hit. 
 - `Flee` when you turn red and walk up to the next room.
 - Move right and stop at the 4th ["bump"](http://i.imgur.com/o6jgyHa.png) from the green marquee border. You should be directly under the middle of the 'W' when Undyne catches you. 
-- `Challenge` for three turns and then `Spare`. Block her attacks until the last turn so doesn't reduce her attack speed. Remember to take enough damage between both fights for the Mettaton Quiz Skip. You want to end the second fight with `1-3 HP`. Arrow attacks do 5 damage, the last spear does 4 damage.
+- `Challenge` for three turns and then `Spare`. Block her attacks until the last turn so doesn't reduce her attack speed. ~~Remember to take enough damage between both fights for the Mettaton Quiz Skip. You want to end the second fight with `1-3 HP`. Arrow attacks do 5 damage, the last spear does 4 damage.~~
 - `Flee` again when you turn red and hold RIGHT. If done correctly, Undyne won't chase you immediately. Mash through Papyrus' phone call and keep moving right across the bridge to Hotland.
 
-Hold RIGHT and UP while crossing the bridge to come out on the top edge when Undyne stops you. You can use the water cooler from lower than expected and pour the water on Undyne from higher than expected. Be careful not to press `Z/Enter` on the water cooler after you have the cup or you'll dump out the water and have to do it again. Pour the water on Undyne, wait for her to leave, and walk right to the lab.
+Hold RIGHT and UP while crossing the bridge to come out on the top edge when Undyne stops you. You can use the water cooler from lower than expected and pour the water on Undyne from the ledge instead of the bridge. Be careful not to press `Z/Enter` on the water cooler after you have the cup or you'll dump out the water and have to do it again. Pour the water on Undyne (in the lava), wait for her to leave, and walk right to the lab.
 
 #####Split when you regain control after Undyne leaves the screen. 
 
@@ -401,25 +401,17 @@ Vulkin | `Flee` |
 Tsunderplane | `F-Flee!` |
 Pyrope | `Flee` |
 
-DO NOT use the `SAVE`. You don't want to heal here, you'll have another chance to in a few rooms. Walk around it and enter the lab.
 
-Walk right through the lab and up to the dog food bag so when Alphys comes out of the elevator she has less travel time. Mash through the dialogue until...
+Save the game at the `SAVE` as a backup before the next skip if you want, otherwise ignore it. Walk right and enter the lab.  
 
-### Mettaton Quiz
-- Move up and left to choose `[A] Money`. If you have `1-3 HP` the quiz will skip to the end.
-- If you healed or have too much `HP` just continue to select the wrong answer until you are at `1 HP`. Each wrong answer halves your health. 
-- Choosing `[A] Undyne` for the final answer is the fastest.
+#####Practice This
+Continue walking right until you are standing **on** the [vertical yellow line on the floor](http://i.imgur.com/yZQDdEs.png) immediately right of the dog food bag. Walk UP against the wall next to the dog food. Press and hold LEFT, then also hold RIGHT. While still holding LEFT and RIGHT, press UP and quickly press `Z / ENTER` on about the same frame as the room view begins to shift; anticipating this will take some getting used to. If done correctly, the event trigger will activate while the dog food text box is open. Close the text box and exit the lab to the right (Credit to smellyfeetyouhave & Co.) The time save is significant so if you miss it the first time you can reload from the save outside and try again.
 
-Mash through the rest of the dialogue, walk right and up to the bathroom sign. 
+Continue right and up; be ready to mash through several status updates. 
 
-#####[Practice This](https://youtu.be/bXgl6Ku4wLk?t=627)
-- Repeatedly check the sign while moving right until you reach the trigger for Alphys' next dialogue. If done correctly, you will still be in the bathroom sign text box and be able to move right once you close it (Credit to Omgwthdude). Reinitializing the trigger will crash the game.
+Hold UP on the left conveyor belt to go faster, `Flee` from the Vulkin, mash through the status update. On the second conveyor belt: swerve while holding UP to move faster and enter the next room.
 
-Exit the lab through the right and be ready to mash through several status updates. 
-
-Hold UP on the left conveyor belt to go faster, `Flee` from the Vulkin, mash through the status update. On the second conveyor belt swerve while holding UP to move faster and enter the next room.
-
-Use this `SAVE` to heal to full but don't save yet. Walk right and `Flee` from the Tsunderplane. Take the vents right, up, right and then go down into the lower room. Jump to the left, pick up the `Burnt Pan`, equip it, and drop the `Tough Glove`. Use this to kill Asgore instead of the `Worn Dagger`. Exit this room and take the vents left, up, up, and left. Mash through Alphys's messages and continue into the laser room as normal.
+Ignore the `SAVE`, walk right and `Flee` from the Tsunderplane. Take the vents right, up, right and then go down into the lower room. Jump to the left, pick up the `Burnt Pan`, equip it, and drop the `Tough Glove`. *Use this to kill Asgore instead of the `Worn Dagger`.* Exit this room and take the vents left, up, and left. Mash through Alphys's messages and continue into the laser room as normal.
 
 Walk along the bottom row at the start of this room to avoid Alphys' phone call explaining laser movement. This saves around 2.50 seconds (credit to Wolfiexe). Keep walking right and dodge the lasers, don't bother pressing the button to turn them off and continue to the next room.
 
@@ -459,7 +451,7 @@ Mash through the friend request and pick up the `Stained Apron`. Again, DON'T eq
 Mash through Alphys' status updates and walk left past the `SAVE`. Keep walking until the royal guards stop you and pull you back. Mash through the dialogue and begin the fight.
 
 ### Royal Guard
-- `Clean Armor` for Guard 02. Dodge the attacks touch the green part 5 times.
+- `Clean Armor` on Guard 02. Dodge the attacks while touching the green part 5 times.
 - `Whisper` to Guard 01. Dodge the second attack.
 - Mash through the dialogue and `SPARE`.
 
@@ -490,7 +482,7 @@ Head right avoiding the spider webs and mash through the spiders' dialogue. Walk
 
 ### Muffet
 - Eat the `Spider Donut`.
-- Mash through the proceding dialogue and `SPARE`.
+- Mash through the resulting dialogue and `SPARE`.
 
 Finish talking to Muffet then go back left and use the `SAVE` to actually save the game for what will likely be the first time in a run. Cross back through Muffet's lair and enter the MTT Musical. As soon as you see/hear Mettaton's dialogue CLOSE THE GAME and reload it. Go back through Muffet's lair for the final time and talk to Mettaton again. Carefully select `Skip This` and mash through the remaining dialogue until until Mettaton drops you into the dungeon.
 
