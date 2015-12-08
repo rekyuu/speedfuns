@@ -29,7 +29,7 @@
 - Name the Fallen Human a one character name. In Waterfall the difference between a one character name and a six character name is .4 seconds.
 - The game will need to be closed and reopened multiple times. Pay careful attention of when to close the game to prevent closing it too early or too late. Use windowed mode at certain points to close the game faster.
 - Making a shortcut to your `C:\Users\<user>\AppData\Local\UNDERTALE` is highly recommended. Making copies of your game files can be useful for practicing parts of the game.
-- If you have the Steam version: locate the executable at `Steam\steamapps\common\Undertale\UNDERTALE.exe` and use an unzipping program to extract the contents into a folder on your desktop. Go to that folder and delete the file named `steam_api.dll`. While in that folder, locate the file named `UNDERTALE.exe` and make a shortcut to it on your desktop. Launch the game from there to remove Steam interference and reduce load times significantly. OR: you can also purchase a DRM-free copy to circumvent Steam completely.
+- If you have the Steam version: locate the executable at `Steam\steamapps\common\Undertale\UNDERTALE.exe` and use an unzipping program to extract the contents into a folder on your desktop. Go to that folder and delete the file named `steam_api.dll`. While in that folder, locate the file named `UNDERTALE.exe` and make a shortcut to it on your desktop. Launch the game from there to remove Steam interference and reduce load times significantly. Doing this also allows you to launch multiple copies of the game and preload. OR: you can also purchase a DRM-free copy to circumvent Steam completely.
 - Consider investing in the proper hardware to further reduce load times.
 
 
@@ -725,17 +725,19 @@ Mash through everything. It's a lot of mashing. You cannot die during the cutsce
 - During `Hyper Goner`: Stay out of the green circle in the center and avoid all of the diamonds. Getting hit at any point will reduce you to `1 HP`.
 
 ### Asriel Dreemurr Kai Ni
-- If you didn't get hit during `Hyper Goner`: you will start this phase at the health you entered with (ideally `20 HP`).
-- `Struggle` for 4 turns. Surviving all four turns will save a significant amount of time.
-- If you got hit during `Hyper Goner`: immediately die at the start of the first attack to refill your health and skip part of the attack animation. Dying at the end of an attack wastes more time.
-- If you died on the first attack: Set yourself up to die again at the beginning of the fourth attack to skip the attack animation and some of the dialogue.
+- `Struggle` for 4 turns. 
+- **If you did not get hit during `Hyper Goner`:** you will start this phase at the health you entered with (ideally `20 HP`). The following attacks can be manipulated like Undyne's bridge spears. Surviving all four turns will save a significant amount of time, but it's not that easy.
+- **If you got hit during `Hyper Goner`:** you will start this phase at `1 HP`. Immediately die at the start of the first attack to refill your health and skip part of the attack animation. Set yourself up to die again at the beginning of the fourth attack to skip the attack animation and some of the dialogue. Each shot should do 6 damage, get hit 3 times between the 2nd and 3rd attack to die on the first hit of the 4th attack.
+- Dying at the end of an attack wastes more time, don't get greedy. 
 
 ###Asriel Dreemurr Phase #3
 - Mash through the dialogue until you can select `SAVE`.
 - `SAVE` them all in no particular order. Be careful not to select `FIGHT`.
 - There's a pre-determined amount of actions for each `SAVE`. So you can use the shortest `ACT` multiple times.
-- When using `SAVE` on multiple Lost Souls at once, be sure to use at least one `ACT` on each or an unskippable dialogue will scroll after.
-- Use the `Pie` while saving Toriel and Asgore, then use a single `ACT` afterward to end the fight.
+- Undyne: Block the last arrow of Undyne's attack to end it faster.
+- Alphys: Shoot all of the minis and bombs to end the turns faster. 
+- Papyrus & Sans: Use `ACT` twice on one and once on the other.
+- Toriel & Asgore: Use the `Pie` first, then use a single `ACT` afterward to end the fight.
 - `SAVE` Asriel and mash through to the end of the fight. After using `SAVE` once the subsequent actions don't matter; it's a set number of turns until the end. You cannot die and having lower HP does not make the final attack go any faster.
 
 `Do not` forgive and `Do not` hug Asriel. It's faster.
