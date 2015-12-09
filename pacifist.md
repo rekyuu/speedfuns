@@ -348,7 +348,7 @@ Mash through the cutscene and walk right. Use the `SAVE` to heal if necessary an
 - It's possible to finish the first phase of the fight during the second red dummy attack (fifth turn), although this is difficult. It takes 100 hits to start the second phase, which is a near perfect dummy.
 - Unlike the cotton, which is hit-based, the rockets will always take 4 turns. Start closer to the bottom during the final rocket attack so they don't trap you.
 - It is NOT faster to get hit by the rockets or the knife. 
-- Avoid to Napstablook's tears and mash to the end of the fight.
+- Avoid Napstablook's tears and mash to the end of the fight.
 
 Walk up to the next room and mash through Napstablook's dialogue. Use the `SAVE` to heal and save if you need it. If you're brave, you can skip this `SAVE` for the 2-cycle strat. Just make sure your health works for the Mettaton Quiz skip later. 
 
