@@ -20,7 +20,7 @@
 - Game Maker executables run in "Room Speed" which is Game Maker's limit to the number of "Steps" that should happen per second in a given "Room". A "Step" in Game Maker is the interval at which code is executed. Most or all of the rooms in this game seem to be at the default (30 Steps per second). The real time FPS and the Room Speed may desync occasionally, causing slight variations in events.
 - "Random" encounters are tracked by the number of steps taken in a "Room". Each room has a base number of steps in addition to a random variance. Changing rooms resets the step counter. Staying in the same room after an encounter effectively doubles the time until the next encounter. Some rooms, generally large puzzle rooms, have a longer predetermined time for encounters. 
 - In this route most encounters are set in a predetermined order. You can delay encounters by pressing `C / CTRL` on the same frame as moving, but it has no practical uses yet.
-- It is occasionally possible to fail to `Flee` from monsters. The formula for fleeing is ```runvalue = random(100) + (10 * turn) where turn starts at 0```. Fleeing will ALWAYS work if you're wearing the bandage or if object 272 exists. It's currently unknown what object 272 is.
+- It is occasionally possible to fail to `Flee` from monsters. The formula for fleeing is ```runvalue = random(100) + (10 * turn) where turn starts at 0```. Fleeing will ALWAYS work if you're wearing the bandage or if you're fighting Undyne.
 - Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down. The game was coded in a way that allows bidirectional override: otherwise referred to as "wallhumping". This is a convenient way to increment the step tracker quickly but it will only increment once per "Step", regardless of how many directions are held.
 - Moving in a direction and then switching windows will allow you to move in place, incrementing the step tracker at the same rate as the "Room Speed". Press all of the directions at once to cancel the movement afterward.
 - Rapidly press `Z` and `X` with one hand and `Enter` and `Shift` with the other to advance most dialogue faster. This will be referred to as "mashing" throughout the rest of the guide and will be implied for almost all dialogue.
@@ -345,7 +345,7 @@ Mash through the cutscene and walk right. Use the `SAVE` to heal if necessary an
 ### Mad Dummy
 - Mash `SPARE`.
 - Hit it with as much cotton as you can safely. It will take some practice to lead the cotton when the dummy begins moving around.
-- It's possible to finish the first phase of the fight during the second red dummy attack (fifth turn), although this is difficult.
+- It's possible to finish the first phase of the fight during the second red dummy attack (fifth turn), although this is difficult. It takes 100 hits to start the second phase, which is a near perfect dummy.
 - Unlike the cotton, which is hit-based, the rockets will always take 4 turns. Start closer to the bottom during the final rocket attack so they don't trap you.
 - It is NOT faster to get hit by the rockets or the knife. 
 - Avoid to Napstablook's tears and mash to the end of the fight.
@@ -405,7 +405,7 @@ Pyrope | `Flee` |
 Save the game at the `SAVE` as a backup before the next skip if you want, otherwise ignore it. Walk right and enter the lab.  
 
 #####Practice This
-Continue walking right until you are standing **on** the [vertical yellow line on the floor](http://i.imgur.com/yZQDdEs.png) immediately right of the dog food bag. Walk UP against the wall next to the dog food. Press and hold LEFT, then also hold RIGHT. While still holding LEFT and RIGHT, press UP and quickly press `Z / ENTER` on about the same frame as the room view begins to shift; anticipating this will take some getting used to. If done correctly, the event trigger will activate while the dog food text box is open. Close the text box and exit the lab to the right (Credit to smellyfeetyouhave & Co.) The time save is significant so if you miss it the first time you can reload from the save outside and try again.
+Continue walking right until you are standing **on** the [vertical yellow line on the floor](http://i.imgur.com/yZQDdEs.png) immediately right of the dog food bag. Walk UP against the wall next to the dog food. Press and hold LEFT, then also hold RIGHT. While still holding LEFT and RIGHT, press UP and quickly press `Z / ENTER` on about the same frame as the room view begins to shift; anticipating this will take some getting used to. If done correctly, the event trigger will activate while the dog food text box is open. Close the text box and exit the lab to the right (Credit to smellyfeetyouhave & Co.) The time save is significant so if you miss it the first time you can reload from the save outside and try again. It takes about 15 seconds to retry while it takes ~2 minutes to go through the scene if triggered with 1hp, so you can fail this skip seven times before you'd lose time over doing the cutscene the first time through.
 
 Continue right and up; be ready to mash through several status updates. 
 
