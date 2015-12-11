@@ -6,7 +6,7 @@
 
 ### Records
 - Record your playthrough in an unedited video format or stream it and submit the VOD(s) to [speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1).
-- As of writing, WR time is 1:50:05 by TGH.
+- As of writing, WR time is 1:49:33 by TGH.
 
 
 ### Route Rules
@@ -720,11 +720,11 @@ Walk right from the now vine-covered door and up to the elevator on the left. Go
 Mash through everything. It's a lot of mashing. You cannot die during the cutscene.
 
 ### Asriel Dreemurr
-- Wait about 20 seconds for the music to kick in (rainbow effects), then `Hope` to reduce damage. You can buffer the first `Hope` by entering the dialogue and waiting for the music/background transition. 
-- `Hope` to reduce damage and heal `1 HP`. `Dream` doesn't reduce damage but it heals for more and adds `Last Dream` to your inventory; good for the last turn before `Hyper Goner`.
-- During `Hyper Goner`: Stay out of the green circle in the center and avoid all of the diamonds. Getting hit at any point will reduce you to `1 HP`.
+- The real fight doesn't begin until the background and music change around 20 seconds in. You can buffer an action during this time by selecting an `ACT` and entering the dialogue, then waiting for the music/background transition. You may also want to `Dream` during the pre-fight to store a `Last Dream` for later.
+- Survive the first 12 turns by using any combination of actions. `Hope` reduces damage and heals for `1 HP` while `Dream` heals for `3 HP` and adds `Last Dream` to your inventory; good for the last turn before `Hyper Goner`. You may also choose to `Spare` as it is faster, but not recommended without practice. 
+- On the 13th turn Asriel will use `Hyper Goner`. During `Hyper Goner`: Stay out of the green circle in the center and avoid all of the diamonds. Getting hit at any point will reduce you to `1 HP`.
 
-### Asriel Dreemurr Kai Ni
+### Asriel Dreemurr Phase #2 (Angel of Death)
 - `Struggle` for 4 turns. 
 - **If you did not get hit during `Hyper Goner`:** you will start this phase at the health you entered with (ideally `20 HP`). The following attacks can be manipulated like Undyne's bridge spears. Surviving all four turns will save a significant amount of time, but it's not that easy.
 - **If you got hit during `Hyper Goner`:** you will start this phase at `1 HP`. Immediately die at the start of the first attack to refill your health and skip part of the attack animation. Set yourself up to die again at the beginning of the fourth attack to skip the attack animation and some of the dialogue. Each shot should do 6 damage, get hit 3 times between the 2nd and 3rd attack to die on the first hit of the 4th attack.
