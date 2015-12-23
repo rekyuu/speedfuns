@@ -32,6 +32,11 @@
 - If you have the Steam version: locate the executable at `Steam\steamapps\common\Undertale\UNDERTALE.exe` and use an unzipping program to extract the contents into a folder on your desktop. Go to that folder and delete the file named `steam_api.dll`. While in that folder, locate the file named `UNDERTALE.exe` and make a shortcut to it on your desktop. Launch the game from there to remove Steam interference and reduce load times significantly. Doing this also allows you to launch multiple copies of the game and preload. OR: you can also purchase a DRM-free copy to circumvent Steam completely.
 - Consider investing in the proper hardware to further reduce load times.
 
+### Other Resources
+
+- BackSapper has begun a series of guides that run through the game quickly and concisely with many helpful visuals: [Playlist](https://www.youtube.com/playlist?list=PLCUmloFmSD33-NwWeuleha4_PwIGkgPkJ)
+- Omgwthdude/Yozam has created a playlist of short video guides to break the run down into easy to understand parts: [Playlist](https://www.youtube.com/playlist?list=PLqsclrUh0QDfI8Ki6o2KIlHQjQErP_m98)
+- Speed Demos Archive has an active [forum thread](https://forum.speeddemosarchive.com/post/undertale.html) where most new information is found and shared.
 
 
 -----
@@ -100,7 +105,7 @@
 
 ###New Home Re
 - Asriel Dreemurr 1: Hopes And Dreams
-- Asriel Dreemurr 2: The Struggle
+- Asriel Dreemurr 2: Burn In Despair
 - Asriel Dreemurr 3: Save the World
 - Asriel Dreemurr: No Hug Redux
 
