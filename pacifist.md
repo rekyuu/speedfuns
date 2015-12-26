@@ -6,7 +6,7 @@
 
 ### Records
 - Record your playthrough in an unedited video format or stream it and submit the VOD(s) to [speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1).
-- As of writing, WR time is 1:49:33 by TGH.
+- As of writing, WR time is [1:48:16](http://www.twitch.tv/tgh_plays/v/31561777) by TGH.
 
 
 ### Route Rules
