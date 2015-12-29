@@ -6,7 +6,7 @@
 
 ### Records
 - Record your playthrough in an unedited video format or stream it and submit the VOD(s) to [speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1).
-- As of writing, WR time is [1:48:16](http://www.twitch.tv/tgh_plays/v/31561777) by TGH.
+- As of writing, WR time is [1:47:50](http://www.twitch.tv/tgh_plays/v/32330358) by TGH.
 
 
 ### Route Rules
@@ -23,7 +23,7 @@
 - It is occasionally possible to fail to `Flee` from monsters. The formula for fleeing is ```runvalue = random(100) + (10 * turn) where turn starts at 0```. Fleeing will ALWAYS work if you're wearing the bandage or if you're fighting Undyne.
 - Holding `UP` + `DOWN` while against an upper wall allows you to rapidly swap between facing up and down. The game was coded in a way that allows bidirectional override: otherwise referred to as "wallhumping". This is a convenient way to increment the step tracker quickly but it will only increment once per "Step", regardless of how many directions are held.
 - Moving in a direction and then switching windows will allow you to move in place, incrementing the step tracker at the same rate as the "Room Speed". Press all of the directions at once to cancel the movement afterward.
-- Rapidly press `Z` and `X` with one hand and `Enter` and `Shift` with the other to advance most dialogue faster. This will be referred to as "mashing" throughout the rest of the guide and will be implied for almost all dialogue.
+- Rapidly press `Z` and `X` with one hand and `Enter` and `Shift` with the other, in an alternating pattern, to advance most dialogue faster. This will be referred to as "mashing" throughout the rest of the guide and will be implied for almost all dialogue.
 - Holding `X / SHIFT` while in battle allows your SOUL to move slower.
 - `SAVE` sparingly. With some practice you should only need to `SAVE` before restarting the game at certain points.
 - Name the Fallen Human a one character name. In Waterfall the difference between a one character name and a six character name is .4 seconds.
@@ -410,7 +410,7 @@ Pyrope | `Flee` |
 Save the game at the `SAVE` as a backup before the next skip if you want, otherwise ignore it. Walk right and enter the lab.  
 
 #####Practice This
-Continue walking right until you are standing **on** the [vertical yellow line on the floor](http://i.imgur.com/yZQDdEs.png) immediately right of the dog food bag. Walk UP against the wall next to the dog food. Press and hold LEFT, then also hold RIGHT. While still holding LEFT and RIGHT, press UP and quickly press `Z / ENTER` on about the same frame as the room view begins to shift; anticipating this will take some getting used to. If done correctly, the event trigger will activate while the dog food text box is open. Close the text box and exit the lab to the right (Credit to smellyfeetyouhave & Co.) The time save is significant so if you miss it the first time you can reload from the save outside and try again. It takes about 15 seconds to retry while it takes ~2 minutes to go through the scene if triggered with 1hp, so you can fail this skip seven times before you'd lose time over doing the cutscene the first time through.
+Continue walking right until you are standing **on** the [vertical yellow line on the floor](http://i.imgur.com/yZQDdEs.png) immediately right of the dog food bag. Walk UP against the wall next to the dog food. Press and hold LEFT, then also hold RIGHT. While still holding LEFT and RIGHT, press UP and quickly press `Z / ENTER` on about the same frame as the room view begins to shift; anticipating this will take some getting used to. Alternatively, you can move right and then move left and press `Z / Enter` all at the same time without riding the wall. If done correctly, the event trigger will activate while the dog food text box is open. Close the text box and exit the lab to the right (Credit to smellyfeetyouhave & Co.) The time save is significant so if you miss it the first time you can reload from the save outside and try again.
 
 Continue right and up; be ready to mash through several status updates. 
 
@@ -638,7 +638,6 @@ Talk to Papyrus, say `Yes` to the hang out, and mash until you can walk inside.
 - Quickly sit on the chair to progress the date. Mash until you can move again.
 - Select the tea when prompted (furthest right). 
 - Mash through everything else, the answers don't matter.
-- Mash hard to end the stirring part faster.
 - Hold right to feel the heat. 
 - Mash until the fight begins.
 - `FIGHT` and immediately strike her. It does 1 damage regardless and it's faster than `Fake Hit`.
