@@ -1,4 +1,4 @@
-#Undertale - True Pacifist Route
+#Undertale - True Pacifist Route (version 1.0)
 -----
 #####This guide assumes the player has beaten the game before and has a basic understanding of the story progression and battle mechanics.
 -----
