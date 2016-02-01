@@ -273,7 +273,7 @@ Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage fr
 - The ice sliding puzzle has a [specific strategy](http://i.imgur.com/imntI5i.png) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.  
 - Buffer your next input while sliding by holding the direction you want to go. Practice buffering inputs between each slide or it won't work consistently. 
 
->>There is another [solution](https://www.youtube.com/watch?v=hFommmhwNFg) that is about 1 second faster, but possibly less consistent. Practice it carefully before attempting it in a run.
+>>There is another [solution](https://www.youtube.com/watch?v=hFommmhwNFg) that is about 1.5 seconds faster, but possibly less consistent (Credit to Rhombu). Practice it carefully before attempting it in a run.
 
 #### Is It Really A Snow Poff?
 - Enter the room holding down and right to avoid getting stuck on the first snow poff and walk over to Greater Dog.
