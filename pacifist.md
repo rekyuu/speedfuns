@@ -270,10 +270,10 @@ Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage fr
 
 #### Ice Puzzle
 - Enter the room holding UP and RIGHT, let go of UP once the first two switches are pressed to slide right.
-- The ice sliding puzzle has a [specific strategy](http://i.imgur.com/imntI5i.png) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.  
+- The ice sliding puzzle has a [specific strategy](http://i.imgur.com/imntI5i.png) that saves 1.6 seconds as opposed to simply doing the cinnamon swirl solution.
 - Buffer your next input while sliding by holding the direction you want to go. Practice buffering inputs between each slide or it won't work consistently. 
 
->>There is another [solution](https://www.youtube.com/watch?v=hFommmhwNFg) that is about 1.5 seconds faster, but possibly less consistent (Credit to Rhombu). Practice it carefully before attempting it in a run.
+>>There is a *FASTER* [solution](https://www.youtube.com/watch?v=hFommmhwNFg) that saves up to an additional 1.5 seconds (Credit to Rhombu). It requires short, precise movements so practice it carefully before attempting it in a run. Press the button from the top at a certain angle to continue sliding right across the bridge before the animation finishes, saving even more time. 
 
 #### Is It Really A Snow Poff?
 - Enter the room holding down and right to avoid getting stuck on the first snow poff and walk over to Greater Dog.
@@ -469,7 +469,7 @@ Continue around and into the next dark room. Keep walking right and mash through
 - Start by defusing the bomb in the lower left. Arc around the right side to come back to the middle.
 - Recommended order: Game > Script > Present > Basketbomb > Dog > Glass.
 - You can spam `Z/Enter` on the Present and Basketbomb to attack them on the instant the fight starts, which will defuse them.
-- The best known time is a 61 upon ending the final bomb.
+- The best known time is a 61 upon ending the final bomb (~64 on defusing it).
 
 Walk right and exit the room at the top. Walk left to the elevator and mash through Alphys's next phone call. Enter the elevator and choose `Left Floor 3` (bottom left). Exit the elevator and go right past Muffet's bake sale. Mash through Alphys' phone call and navigate the maze to the bottom room.
 
