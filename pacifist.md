@@ -1,4 +1,7 @@
+####`This Guide Is Outdated And Will Not Be Updated For The Discernible Future.`
+
 #Undertale - True Pacifist Route (version 1.0)
+
 -----
 #####This guide assumes the player has beaten the game before and has a basic understanding of the story progression and battle mechanics.
 -----
@@ -6,7 +9,7 @@
 
 ### Records
 - Record your playthrough in an unedited video format or stream it and submit the VOD(s) to [speedrun.com](http://www.speedrun.com/undertale#True_Pacifist_Ending1).
-- As of writing, WR time is [1:32:49](https://www.twitch.tv/tgh_plays/v/57338345) by TGH. (PCE)
+- As of writing, WR time is [1:29:59](https://www.twitch.tv/tgh_plays/v/58329038) by TGH. (PCE)
 
 
 ### Route Rules
