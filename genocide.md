@@ -1,6 +1,6 @@
 ###Grinding
 
-In every relevant room in the game, entering a room causes a lower step count to the next encounter than going for a second encounter without exiting said room. As a result, it is faster to exit and reenter the room directly after each encounter. In areas where there are two rooms with encounters next to each other, it is often faster to alternate getting an encounter between two rooms to minimize the time spent in screen transitions.
+Unless otherwise noted, it is faster to exit and reenter the room directly after each encounter. In areas where there are two rooms with encounters next to each other, instead alternate which one you get the encounter in to minimize the time spent in screen transitions.
 
 It is always okay to spare or flee against common enemies, unless otherwise noted. It will not abort genocide, even if you are in the last encounter before "but nobody came."
 
@@ -82,7 +82,7 @@ Moldsmal | `1-hit, yellow`
 - Just before entering the room with the Ballet Shoes, wait for an encounter
 - OPTIONAL: After getting the shoes, if you encounter a 2 Moldsmal, spare the second, or if you encounter Aaron + Woshua, flee from Aaron
  - This is a risky strat saving ~4-10 seconds (4 if 2 Moldsmal, 10 if Aaron + Woshua) which has a 53.8% chance of succeeding. It decreases the amount of steps you need for every encounter later on, but if you encounter a second Temmie, it forces you to take an extra encounter at the end of the lantern room
-- Get a 2nd encounter in the first room after Gerson
+- Get a 2nd encounter in the first room after Gerson, without leaving and reentering
 - Grind between the hallway and the mush-room until 3/4 kills left, then continue walking to Undying
 
 ####Boss tricks
