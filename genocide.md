@@ -4,19 +4,6 @@ In every relevant room in the game, entering a room causes a lower step count to
 
 It is always okay to spare or flee against common enemies, unless otherwise noted. It will not abort genocide, even if you are in the last encounter before "but nobody came."
 
-
-###Burnt Pan vs. Empty Gun
-
-`maybe scrap this section? gun is so much easier in geno; pan might not even be able to 1-shot astigmatism`
-
-Getting the Burnt Pan early is ideally the fastest, but it comes down to personal preference.
-
-`todo: Core comparison`
-
-The pan is usually thought of as the safer option, but objectively, it's very similar in difficulty to the gun. The timing for a gold line is always frame perfect, excluding the last line for the pan, which has a 2-frame window. Though the gun's speed can be intimidating, it also makes it easier to tell what the time difference between two lines is at a glance. It's also worth noting that the Cowboy Hat gives you an extra 12 defense, which helps in the Core.
-
-In my opinion, choose whichever weapon you are better at and stick to it. While trying early pan and getting the gun as a backup strat sounds tempting, the difference between the two weapons can be jarring.
-
 -----
 
 ##Ruins
