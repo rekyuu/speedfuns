@@ -116,7 +116,10 @@ Moldsmal | `1-hit, yellow`
 
 -----
 
-Hotland: 40 kills
+##Hotland
+####40 kills
+
+Count the Royal Guards and Muffet
 
 Monster | LOVE 13-15 | Notes
 :---- | :---- | :---- | :----
@@ -156,9 +159,6 @@ If you fail early pan, don't forget to get the pan normally. It's in the room ri
 
 -----
 
-Endgame:
-
-The order you get the New Home keys in doesn't matter
-
-Sans
-- `todo`
+##Sans
+- Equip the Ballet Shoes. They have the fastest attack animation by far, saving 8 seconds over the fight
+- Don't die.
