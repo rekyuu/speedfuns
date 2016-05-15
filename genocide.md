@@ -7,13 +7,15 @@ It is always okay to spare or flee against common enemies, unless otherwise note
 
 ###Burnt Pan vs. Empty Gun
 
+`maybe scrap this section? gun is so much easier in geno; pan might not even be able to 1-shot astigmatism`
+
 Getting the Burnt Pan early is ideally the fastest, but it comes down to personal preference.
 
 `todo: Core comparison`
 
-The pan is usually thought of as the safer option, but objectively, it's very similar in difficulty to the gun. The timing for a gold line is always frame perfect, excluding the last line for the pan, which has a 2-frame window. Though the gun's speed can be intimidating, it also makes it easier to tell what the time difference between two lines is at a glance. It's also worth noting that the Cowboy Hat gives you an extra 12 defense, which goes a long way for survivability, even if it is only used against Asgore.
+The pan is usually thought of as the safer option, but objectively, it's very similar in difficulty to the gun. The timing for a gold line is always frame perfect, excluding the last line for the pan, which has a 2-frame window. Though the gun's speed can be intimidating, it also makes it easier to tell what the time difference between two lines is at a glance. It's also worth noting that the Cowboy Hat gives you an extra 12 defense, which helps in the Core.
 
-In my opinion, choose whichever weapon you are better at and stick to it. While trying early pan and getting the gun as a backup strat sounds tempting, the difference between the two weapons can be jarring; it's enough to lose a few turns on Asgore.
+In my opinion, choose whichever weapon you are better at and stick to it. While trying early pan and getting the gun as a backup strat sounds tempting, the difference between the two weapons can be jarring.
 
 -----
 
@@ -51,9 +53,9 @@ Moldsmal | `N/A` | `N/A` | `2-hit, center + yellow` | \**Sexy wiggle*\*
 Do not count Doggo, Dogamy, Dogaressa, Greater Dog, and Papyrus
 
 Monster | LOVE 6 | LOVE 7/8 | Notes
-:---- | :---- | :---- | :---- | :----
-Ice Cap | `1-hit, center` | `1-hit, center` | 
-Snowdrake | `2-hit, center + yellow` | `2-hit, yellow + yellow` | 
+:---- | :---- | :---- | :----
+Ice Cap | `1-hit, center` | `1-hit, center` |
+Snowdrake | `2-hit, center + yellow` | `2-hit, yellow + yellow` |
 Lesser Dog | `2-hit, ACT->Pet + mash` | `N/A` | Do not spare
 Jerry | `Lots and lots and lots` | `of center attacks` | Spare, unless you need 1 more kill
 
@@ -81,11 +83,19 @@ Jerry | `Lots and lots and lots` | `of center attacks` | Spare, unless you need 
 
 Count Shyren and Glad Dummy
 
+Monster | LOVE 9 
+:---- | :----
+Aaron | `2-hit, center + yellow`
+Woshua | `2-hit, center + mash`
+Moldsmal | `1-hit, yellow`
+- Applies to Tough Glove only
+ - With the Ballet Shoes, simply get as many center hits as you can
+
 ####Grind route
+- OPTIONAL: After getting the shoes, if you encounter a 2 Moldsmal, spare the second, or if you encounter Aaron + Woshua, flee from Aaron
+ - This is a risky strat saving ~4-10 seconds (4 if 2 Moldsmal, 10 if Aaron + Woshua) which has a 53.8% chance of succeeding. It decreases the amount of steps you need for every encounter later on, but if you encounter a second Temmie, it forces you to take an extra encounter at the end of the lantern room
 - Get a 2nd encounter in the first room after Gerson
 - Grind between the hallway and the mush-room until 3/4
-- OPTIONAL: If you encounter a 2 Moldsmal, spare the second, or if you encounter Aaron + Woshua, flee from Aaron
- - This is a risky strat saving ~4-10 seconds (4 if 2 Moldsmal, 10 if Aaron + Woshua) which has a 53.8% chance of succeeding. It decreases the amount of steps you need for every encounter later on, but if you encounter a second Temmie, it forces you to take an extra encounter at the end of the lantern room
 
 ####Boss tricks
 - Undyne the Undying
@@ -141,9 +151,6 @@ Mash kill Mettaton
 Endgame:
 
 The order you get the New Home keys in doesn't matter
-
-If you are playing without the Steam API, save before sans and reset once he starts saying "So you finally made it."
-- When you get back, you can mash through all the dialogue instead of just the second half
 
 Sans
 - `todo`
