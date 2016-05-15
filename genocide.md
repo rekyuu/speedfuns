@@ -130,7 +130,7 @@ Madjick | `1 perfect / 2-hit` |
 - OPTIONAL: Bandage strats
  - Use this strat if you are confident in your ability to get golds fairly consistently
  - Choose between the Burnt Pan and the Empty Gun. It's best to choose whichever one you personally are better with; choosing to try early pan and use the gun as a backup strat is tempting, but the difference can be jarring
-  - If you choose the pan, practice [early pan](#Early pan)
+  - If you choose the pan, practice early pan
   - If you choose the gun, do not get the Cowboy Hat
  - Flee from every Knight Knight + Madjick encounter you can
 - If not using Bandage strats, get the Empty Gun and Cowboy Hat from Catty and Bratty's shop
