@@ -28,7 +28,7 @@ Monster | LOVE 1 | LOVE 2 | LOVE 3 | Notes
 :---- | :---- | :---- | :---- | :----
 Dummy | `ACT->Talk` | `N/A` | `N/A` |
 Fake Froggit | `1-hit, center` | `N/A` | `N/A` | AKA first Froggit
-Froggit | `N/A` | `2-hit, center + yellow` | `2-hit, center + mash`
+Froggit | `N/A` | `2-hit, center + yellow` | `2-hit, center + mash` | 
 Whimsun | `N/A` | `1-hit, mash` | `1-hit, mash` |
 Moldsmal | `N/A` | `N/A` | `2-hit, center + yellow` | \**Sexy wiggle*\*
 
@@ -61,7 +61,7 @@ Jerry | `Lots and lots and lots` | `of center attacks` | Spare, unless you need 
 
 ####Grind route
 - Get encounters at the end of the Box Road SAVE room, and on the small bridge before Dogamy and Dogaressa
-- Do not walk on the ice in the ice room to get a Lesser Dog encounter at no time cost
+- Do not walk on the ice in the ice room to get an earlier Lesser Dog encounter
 - After the Papyrus cutscene on death bridge, go into Snowdin, then back out immediately to grind
 
 ####Boss tricks
@@ -83,7 +83,7 @@ Jerry | `Lots and lots and lots` | `of center attacks` | Spare, unless you need 
 
 Count Shyren and Glad Dummy
 
-Monster | LOVE 9 
+Monster | LOVE 9
 :---- | :----
 Aaron | `2-hit, center + yellow`
 Woshua | `2-hit, center + mash`
@@ -92,10 +92,11 @@ Moldsmal | `1-hit, yellow`
  - With the Ballet Shoes, simply get as many center hits as you can
 
 ####Grind route
+- Just before entering the room with the Ballet Shoes, wait for an encounter
 - OPTIONAL: After getting the shoes, if you encounter a 2 Moldsmal, spare the second, or if you encounter Aaron + Woshua, flee from Aaron
  - This is a risky strat saving ~4-10 seconds (4 if 2 Moldsmal, 10 if Aaron + Woshua) which has a 53.8% chance of succeeding. It decreases the amount of steps you need for every encounter later on, but if you encounter a second Temmie, it forces you to take an extra encounter at the end of the lantern room
 - Get a 2nd encounter in the first room after Gerson
-- Grind between the hallway and the mush-room until 3/4
+- Grind between the hallway and the mush-room until 3/4 kills left, then continue walking to Undying
 
 ####Boss tricks
 - Undyne the Undying
@@ -117,7 +118,26 @@ Moldsmal | `1-hit, yellow`
 
 Hotland: 40 kills
 
-If you get the Burnt Pan, practice [early pan](https://www.youtube.com/watch?v=ipdEo5kY3kI)
+Monster | LOVE 13-15 | Notes
+:---- | :---- | :---- | :----
+Astigmatism | `1 gold / 2-hit (1-hit w/Hat)` | The reason to get the Cowboy Hat
+Whimsalot | `1-hit` |
+Final Froggit | `1-hit` |
+Knight Knight | `1 perfect / 2-hit 1 gold` | The reason to keep the Bandage
+Madjick | `1 perfect / 2-hit` |
+
+####Grind route
+- OPTIONAL: Bandage strats
+ - Use this strat if you are confident in your ability to get golds fairly consistently
+ - Choose between the Burnt Pan and the Empty Gun. It's best to choose whichever one you personally are better with; choosing to try early pan and use the gun as a backup strat is tempting, but the difference can be jarring
+  - If you choose the pan, practice [early pan](#Early pan)
+  - If you choose the gun, do not get the Cowboy Hat
+ - Flee from every Knight Knight + Madjick encounter you can
+- If not using Bandage strats, get the Empty Gun and Cowboy Hat from Catty and Bratty's shop
+- At 6/7 kills left, get the rest of your kills on the Path of the Warrior (the bridge with the rigged encounters)
+
+####Early pan
+[Video demonstration](https://www.youtube.com/watch?v=ipdEo5kY3kI)
 - Walk up to the side of the dog food
 - Hold left+right, hold up to bounce off the wall, then interact with the dog food after a moment
 - Skip through Mettaton's dialogue until you automatically step forward
@@ -128,23 +148,11 @@ If you get the Burnt Pan, practice [early pan](https://www.youtube.com/watch?v=i
 - Optionally, open the menu and attempt to equip the pan before the cutscene completely ends
 -- You have to be quick with it, since when the camera locks back into place movement is enabled again, and the menu stops working
 
-Kill Vulkin and Tsundereplane along the way
+If you fail early pan, don't forget to get the pan normally. It's in the room right and down of the room you encounter Tsundereplane in
 
-If you failed early pan, don't forget to get the pan. It's in the room right and down of the room you encounter Tsundereplane in
-
-Walk to the elevator, go to L3
-
-Kill the Royal Guards, kill Muffet
-
-If you don't have the pan, get the Empty Gun and Cowboy Hat at Catty and Bratty's shop, to the right of the hotel entrance
-
-Take the Core elevator
-
-Go to the bridge directly to the left, grind there until 7 kills left
-
-Kill everyone on the Path of the Warrior (rigged encounter room)
-
-Mash kill Mettaton
+####Miscellaneous speed tricks
+- Take the elevator to L3
+- Take the Core elevator
 
 -----
 
