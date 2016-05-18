@@ -117,13 +117,10 @@ Knight Knight | `1 perfect / 2-hit 1 gold` | The reason to keep the Bandage
 Madjick | `1 perfect / 2-hit` |
 
 ####Grind route
-- OPTIONAL: Bandage strats
- - Use this strat if you are confident in your ability to get golds fairly consistently
- - Choose between the Burnt Pan and the Empty Gun. It's best to choose whichever one you personally are better with; choosing to try early pan and use the gun as a backup strat is tempting, but the difference can be jarring
-    - If you choose the pan, practice early pan
-    - If you choose the gun, do not get the Cowboy Hat
- - Flee from every Knight Knight + Madjick encounter you can
-- If not using Bandage strats, get the Empty Gun and Cowboy Hat from Catty and Bratty's shop
+- OPTIONAL: Early pan
+ - The Burnt Pan is somewhat faster to obtain than the Empty Gun
+ - Only use this strat if you are confident in your ability to get golds very consistently, as every missed gold on an Astigmatism wastes 9 seconds, completely negating the initial gains
+- If not using the pan, get the Empty Gun and Cowboy Hat from Catty and Bratty's shop
 - At 6/7 kills left, get the rest of your kills on the Path of the Warrior (the bridge with the rigged encounters)
 
 ####Early pan
@@ -137,8 +134,6 @@ Madjick | `1 perfect / 2-hit` |
 - Mash through when Mettaton's dialogue overlaps the existing textbox
 - Optionally, open the menu and attempt to equip the pan before the cutscene completely ends
 -- You have to be quick with it, since when the camera locks back into place movement is enabled again, and the menu stops working
-
-If you fail early pan, don't forget to get the pan normally. It's in the room right and down of the room you encounter Tsundereplane in
 
 ####Miscellaneous speed tricks
 - Take the elevator to L3
