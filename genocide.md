@@ -99,7 +99,7 @@ Moldsmal | `1-hit, yellow`
  - Follow [this path](https://i.imgur.com/2tCriVW.png)
  - Same as the other spears, practice to figure it out
 - OPTIONAL: Buy the Cloudy Glasses
- - This makes Undying a lot safer, but decreases your 1st turn flee rate from 100% to 50% due to unequipping the Bandage. Fleeing usually doesn't matter in genocide, but if you keep the Bandage it allows you to use a risky strat in the Core
+ - This makes Undying a lot safer, but they don't save any time
 
 -----
 
